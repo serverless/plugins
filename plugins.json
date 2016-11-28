@@ -24,6 +24,11 @@
       "name": "serverless-event-constant-inputs",
       "description": "Allows you to add constant inputs to events in Serverless 1.0. This is defined in https://aws.amazon.com/blogs/compute/simply-serverless-use-constant-values-in-cloudwatch-event-triggered-lambda-functions/",
       "githubUrl": "https://github.com/dittto/serverless-event-constant-inputs"
+    },
+    {
+      "name": "serverless-plugin-stack-outputs",
+      "description": "Displays stack outputs for your serverless stacks when `sls info` is ran",
+      "githubUrl": "https://github.com/svdgraaf/serverless-plugin-stack-outputs"
     }
   ]
 }
