@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "serverless-plugin-external-sns-events",
+      "description": "allow function to use existing or external SNS topics as an event source",
+      "githubUrl": "https://github.com/silvermine/serverless-plugin-external-sns-events"
+    },
+  ]
+}
