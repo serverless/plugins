@@ -14,6 +14,11 @@
       "name": "serverless-webpack",
       "description": "Serverless plugin to bundle your lambdas with Webpack",
       "githubUrl": "https://github.com/elastic-coders/serverless-webpack"
+    },
+    {
+      "name": "serverless-resources-env",
+      "description": "After Deploy, this plugin fetches cloudformation resource identifiers and sets them on AWS lambdas, and creates local .<state>-env file",
+      "githubUrl": "https://github.com/rurri/serverless-resources-env"
     }
   ]
 }
