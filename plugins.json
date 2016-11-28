@@ -29,6 +29,11 @@
       "name": "serverless-plugin-stack-outputs",
       "description": "Displays stack outputs for your serverless stacks when `sls info` is ran",
       "githubUrl": "https://github.com/svdgraaf/serverless-plugin-stack-outputs"
+    },
+    {
+      "name": "serverless-plugin-stage-variables",
+      "description": "Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's",
+      "githubUrl": "https://github.com/svdgraaf/serverless-plugin-stage-variables"
     }
   ]
 }
