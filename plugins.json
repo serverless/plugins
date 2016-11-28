@@ -19,6 +19,11 @@
       "name": "serverless-resources-env",
       "description": "After Deploy, this plugin fetches cloudformation resource identifiers and sets them on AWS lambdas, and creates local .<state>-env file",
       "githubUrl": "https://github.com/rurri/serverless-resources-env"
+    },
+    {
+      "name": "serverless-event-constant-inputs",
+      "description": "Allows you to add constant inputs to events in Serverless 1.0. This is defined in https://aws.amazon.com/blogs/compute/simply-serverless-use-constant-values-in-cloudwatch-event-triggered-lambda-functions/",
+      "githubUrl": "https://github.com/dittto/serverless-event-constant-inputs"
     }
   ]
 }
