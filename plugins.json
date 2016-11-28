@@ -9,6 +9,11 @@
       "name": "serverless-plugin-write-env-vars",
       "description": "Write environment variables out to a file that is compatible with dotenv",
       "githubUrl": "https://github.com/silvermine/serverless-plugin-write-env-vars"
+    },
+    {
+      "name": "serverless-webpack",
+      "description": "Serverless plugin to bundle your lambdas with Webpack",
+      "githubUrl": "https://github.com/elastic-coders/serverless-webpack"
     }
   ]
 }
