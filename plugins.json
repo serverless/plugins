@@ -130,5 +130,20 @@
       "description": "Enable multiple content-types for Response template ",
       "githubUrl": "https://github.com/silvermine/serverless-plugin-multiple-responses"
     },
+    {
+      "name": "serverless-plugin-include-dependencies",
+      "description": "This is a Serverless plugin that should make your deployed functions smaller.",
+      "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-include-dependencies"
+    },
+    {
+      "name": "serverless-mocha-plugin",
+      "description": "A Serverless Plugin for the Serverless Framework which adds support for test driven development using mocha",
+      "githubUrl": "https://github.com/SC5/serverless-mocha-plugin"
+    },
+    {
+      "name": "serverless-plugin-cfauthorizer",
+      "description": "This plugin allows you to define your own API Gateway Authorizers as the Serverless CloudFormation resources and apply them to HTTP endpoints.",
+      "githubUrl": "https://github.com/SC5/serverless-plugin-cfauthorizer"
+    },
   ]
 }
