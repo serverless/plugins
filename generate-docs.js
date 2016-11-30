@@ -16,12 +16,12 @@ const config = {
     GENERATE_PLUGIN_LIST: function(content, options) {
       const commandsFile = path.join(__dirname, 'plugins.json')
       const plugins = JSON.parse(fs.readFileSync(commandsFile, 'utf8'))
-      let md =  '| Plugin name and description | link  |\n'
-          md += '|:--------------------------- |:-----:|\n'
+      let md =  '| Plugin name | description  |\n'
+          md += '|:--------------------------- |:-----|\n'
       plugins.plugins.sort(function (a, b) {
           return a.name < b.name ? -1 : 1;
       }).forEach(function(data) {
-          md += `| **${formatPluginName(data.name)}** - ${data.description} | [link](${data.githubUrl}) |\n`
+          md += `| [${formatPluginName(data.name)}](${data.githubUrl}) | ${data.description} |\n`
       });
       return md.replace(/^\s+|\s+$/g, '')
     }
