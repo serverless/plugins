@@ -21,7 +21,7 @@ const config = {
       plugins.plugins.sort(function (a, b) {
           return a.name < b.name ? -1 : 1;
       }).forEach(function(data) {
-          md += `| **${formatPluginName(data.name)}** - ${data.description} | [link](${data.githubUrl}) |\n`
+          md += `| \`${formatPluginName(data.name)}\` - ${data.description} | [link](${data.githubUrl}) |\n`
       });
       return md.replace(/^\s+|\s+$/g, '')
     }
