@@ -1,6 +1,6 @@
-## Serverless Community Plugins
-
 [Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:team@serverless.com)
+
+## Serverless Community Plugins
 
 [Serverless plugins](https://serverless.com/framework/docs/providers/aws/guide/plugins/) allow users to overwrite or extend the Framework's functionality. Many of these plugins are contributed by our amazing community members!
 
@@ -10,9 +10,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 
 ## Community Contributed Plugins
 
-[Add it to the plugin list](https://github.com/serverless/community-plugins/edit/master/plugins.json) by submitting a pull request updating the `plugins.json` file.
-
-The markdown table below is automatically generated from `plugins.json`
+[Add it to the plugin list](https://github.com/serverless/community-plugins/edit/master/plugins.json) by submitting a pull request updating the `plugins.json` file. The markdown table below is automatically generated from `plugins.json`
 
 <!-- AUTO-GENERATED-CONTENT:START (GENERATE_PLUGIN_LIST)-->
 | Plugin name and description | link  |
