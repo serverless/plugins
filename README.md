@@ -1,16 +1,22 @@
 # Serverless Community Plugins
 
-[Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter (1,000+)](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups (7+)](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:team@serverless.com)
+[Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:team@serverless.com)
 
 Serverless grows through its Community. We want to make sure that all the great work that contributors put not just into Serverless itself, but also into plugins they build gets visible to our community.
 
-## List of Community Plugins
+This is what the Community Plugins repository is for. We will assemble the best and most interesting plugins from the community to provide an easy way for users to find these plugins.
 
-Is a plugin missing? [Add it to the plugin list](https://github.com/serverless/community-plugins/edit/master/plugins.json)
+If you have ideas for features or plugins, or you know specific plugins we could include here please let us know through the [Github Issues](https://github.com/serverless/community-plugins/issues) in this repository or [add it to the list](https://github.com/serverless/community-plugins/edit/master/plugins.json)
+
+## Community Contributed Plugins
+
+[Add it to the plugin list](https://github.com/serverless/community-plugins/edit/master/plugins.json) by submitting a pull request updating the `plugins.json` file.
+
+The markdown table below is automatically generated from `plugins.json`
 
 <!-- AUTO-GENERATED-CONTENT:START (GENERATE_PLUGIN_LIST)-->
-| Plugin  | link  |
-|:------- |:-----:|
+| Plugin name and description | link  |
+|:--------------------------- |:-----:|
 | **Serverless Alexa Plugin** - Serverless plugin to support Alexa Lambda events | [link](https://github.com/rajington/serverless-alexa-plugin) |
 | **Serverless Build Plugin** - A Node.js focused build plugin for serverless. | [link](https://github.com/nfour/serverless-build-plugin) |
 | **Serverless Command Line Event Args** - This module is Serverless Framework plugin. Event JSON passes to your Lambda function in commandline. | [link](https://github.com/horike37/serverless-command-line-event-args) |
@@ -43,6 +49,6 @@ Is a plugin missing? [Add it to the plugin list](https://github.com/serverless/c
 
 ## [Add your plugin to the list](https://github.com/serverless/community-plugins/edit/master/plugins.json)
 
-This is what the Community Plugins repository is for. We will assemble the best and most interesting plugins from the community to provide a standard level of quality and an easy way for users to find these plugins.
+## Updating the readme.md list
 
-If you have ideas for features or plugins, or you know specific plugins we could include here please let us know through the [Github Issues](https://github.com/serverless/community-plugins/issues) in this repository or [add it to the list](https://github.com/serverless/community-plugins/edit/master/plugins.json)
+After adding your plugin to the `plugins.json` file, run `npm run docs` to regenerate the plugin list table.

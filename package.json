@@ -2,10 +2,8 @@
   "name": "serverless-community-plugins",
   "version": "1.0.0",
   "description": "A repository of serverless plugins built by the community",
-  "dependencies": {
-    "markdown-steroids": "0.0.2"
-  },
-  "devDependencies": {},
+  "author": "Serverless",
+  "license": "MIT",
   "scripts": {
     "docs": "node generate-docs.js"
   },
@@ -13,6 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/serverless/community-plugins.git"
   },
-  "author": "Serverless",
-  "license": "MIT",
+  "dependencies": {
+    "markdown-steroids": "0.0.2"
+  },
+  "devDependencies": {}
 }

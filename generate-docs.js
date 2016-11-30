@@ -7,14 +7,17 @@ const markdownSteriods = require('markdown-steroids')
 
 const config = {
   commands: {
-    /**
-     * This is used in the readme.md to generate the docs of `markdown-steroids`
+    /*
+    In readme.md the below comment block adds the list to the readme
+    <!-- AUTO-GENERATED-CONTENT:START (GENERATE_PLUGIN_LIST)-->
+      plugin list will be generated here
+    <!-- AUTO-GENERATED-CONTENT:END -->
      */
     GENERATE_PLUGIN_LIST: function(content, options) {
       const commandsFile = path.join(__dirname, 'plugins.json')
       const plugins = JSON.parse(fs.readFileSync(commandsFile, 'utf8'))
-      let md =  '| Plugin  | link  |\n'
-          md += '|:------- |:-----:|\n'
+      let md =  '| Plugin name and description | link  |\n'
+          md += '|:--------------------------- |:-----:|\n'
       plugins.plugins.sort(function (a, b) {
           return a.name < b.name ? -1 : 1;
       }).forEach(function(data) {
@@ -22,9 +25,7 @@ const config = {
       });
       return md.replace(/^\s+|\s+$/g, '')
     }
-  },
-  /* (optional) Specify different output path */
-  // outputPath: path.join(__dirname, 'different-path.md')
+  }
 }
 
 function formatPluginName (string) {
