@@ -1,12 +1,12 @@
-# Serverless Community Plugins
+## Serverless Community Plugins
 
 [Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:team@serverless.com)
 
-Serverless grows through its Community. We want to make sure that all the great work that contributors put not just into Serverless itself, but also into plugins they build gets visible to our community.
+[Serverless plugins](https://serverless.com/framework/docs/providers/aws/guide/plugins/) allow users to overwrite or extend the Framework's functionality. Many of these plugins are contributed by our amazing community members!
 
-This is what the Community Plugins repository is for. We will assemble the best and most interesting plugins from the community to provide an easy way for users to find these plugins.
+This repository is meant to be the one stop shop for all the awesome plugins out there in the serverless ecosytem.
 
-If you have ideas for features or plugins, or you know specific plugins we could include here please let us know through the [Github Issues](https://github.com/serverless/community-plugins/issues) in this repository or [add it to the list](https://github.com/serverless/community-plugins/edit/master/plugins.json)
+If you have ideas for features or plugins, add a new [thread](https://github.com/serverless/community-plugins/issues) in the issues.
 
 ## Community Contributed Plugins
 
