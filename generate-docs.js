@@ -9,11 +9,11 @@ const config = {
   transforms: {
     /*
     In readme.md the below comment block adds the list to the readme
-    <!-- AUTO-GENERATED-CONTENT:START (GENERATE_PLUGIN_LIST)-->
+    <!-- AUTO-GENERATED-CONTENT:START (GENERATE_SERVERLESS_PLUGIN_TABLE)-->
       plugin list will be generated here
     <!-- AUTO-GENERATED-CONTENT:END -->
      */
-    GENERATE_PLUGIN_LIST: function(content, options) {
+    GENERATE_SERVERLESS_PLUGIN_TABLE: function(content, options) {
       const commandsFile = path.join(__dirname, 'plugins.json')
       const plugins = JSON.parse(fs.readFileSync(commandsFile, 'utf8'))
       let md =  '| Plugin name | description  |\n'
