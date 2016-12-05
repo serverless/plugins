@@ -6,7 +6,7 @@ const path = require('path')
 const markdownMagic = require('markdown-magic')
 
 const config = {
-  commands: {
+  transforms: {
     /*
     In readme.md the below comment block adds the list to the readme
     <!-- AUTO-GENERATED-CONTENT:START (GENERATE_PLUGIN_LIST)-->
