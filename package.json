@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/serverless/community-plugins.git"
   },
-  "dependencies": {
-    "markdown-steroids": "0.0.2"
-  },
-  "devDependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "markdown-magic": "^0.1.0"
+  }
 }

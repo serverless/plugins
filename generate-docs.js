@@ -3,7 +3,7 @@
  */
 const fs = require('fs')
 const path = require('path')
-const markdownSteriods = require('markdown-steroids')
+const markdownMagic = require('markdown-magic')
 
 const config = {
   commands: {
@@ -41,4 +41,6 @@ function toTitleCase(str) {
 
 const markdownPath = path.join(__dirname, 'README.md')
 // const markdownPath = path.join(__dirname, '..', 'test/fixtures/test.md')
-markdownSteriods(markdownPath, config)
+markdownMagic(markdownPath, config, function() {
+  console.log('Docs updated!')
+})
