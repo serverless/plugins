@@ -18,7 +18,7 @@ const config = {
       const plugins = JSON.parse(fs.readFileSync(commandsFile, 'utf8'))
       let md =  '| Plugin name | description  |\n'
           md += '|:--------------------------- |:-----|\n'
-      plugins.plugins.sort(function (a, b) {
+      plugins.sort(function (a, b) {
           return a.name < b.name ? -1 : 1;
       }).forEach(function(data) {
           md += `| [${formatPluginName(data.name)}](${data.githubUrl}) | ${data.description} |\n`
