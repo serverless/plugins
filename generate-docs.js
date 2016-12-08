@@ -2,6 +2,7 @@
  * This example generated adds content to the repos README.md file
  */
 const fs = require('fs')
+const url = require('url')
 const path = require('path')
 const markdownMagic = require('markdown-magic')
 
@@ -16,16 +17,36 @@ const config = {
     GENERATE_SERVERLESS_PLUGIN_TABLE: function(content, options) {
       const commandsFile = path.join(__dirname, 'plugins.json')
       const plugins = JSON.parse(fs.readFileSync(commandsFile, 'utf8'))
-      let md =  '| Plugin name | description  |\n'
-          md += '|:--------------------------- |:-----|\n'
+      let md =  '| Plugin | Author |\n'
+       md += '|:---------------------------|:---------:|\n'
+
       plugins.sort(function (a, b) {
           return a.name < b.name ? -1 : 1;
       }).forEach(function(data) {
-          md += `| [${formatPluginName(data.name)}](${data.githubUrl}) | ${data.description} |\n`
+          const userName = username(data.githubUrl)
+          const profileURL = `http://github.com/${userName}`
+          md += `| **[${formatPluginName(data.name)}](${data.githubUrl})** -`
+          md += ` ${data.description} | [${userName}](${profileURL}) | \n`
       });
       return md.replace(/^\s+|\s+$/g, '')
     }
   }
+}
+
+function username(repo) {
+  if (!repo) {
+    return null;
+  }
+
+  var o = url.parse(repo);
+  var path = o.path;
+
+  if (path.length && path.charAt(0) === '/') {
+    path = path.slice(1);
+  }
+
+  path = path.split('/')[0];
+  return path;
 }
 
 function formatPluginName (string) {
