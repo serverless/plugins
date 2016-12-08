@@ -25,7 +25,7 @@ const config = {
       }).forEach(function(data) {
           const userName = username(data.githubUrl)
           const profileURL = `http://github.com/${userName}`
-          md += `| **[${formatPluginName(data.name)}](${data.githubUrl})** -`
+          md += `| **[${formatPluginName(data.name)}](${data.githubUrl})** <br/>`
           md += ` ${data.description} | [${userName}](${profileURL}) | \n`
       });
       return md.replace(/^\s+|\s+$/g, '')
