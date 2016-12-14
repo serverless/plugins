@@ -1,0 +1,7 @@
+version: '2'
+services:
+  node:
+    image: node:latest
+    working_dir: /app
+    volumes:
+      - .:/app
