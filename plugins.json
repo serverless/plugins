@@ -85,11 +85,6 @@
     "githubUrl": "https://github.com/nicka/serverless-plugin-diff"
   },
   {
-    "name": "serverless-plugin-stage-variables",
-    "description": "Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's",
-    "githubUrl": "https://github.com/svdgraaf/serverless-plugin-stage-variables"
-  },
-  {
     "name": "serverless-run-function-plugin",
     "description": "Run serverless function locally",
     "githubUrl": "https://github.com/lithin/serverless-run-function-plugin"
@@ -145,4 +140,3 @@
     "githubUrl": "https://github.com/9cookies/serverless-aws-models"
   }
 ]
-
