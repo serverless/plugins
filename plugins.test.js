@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let plugins = fs.readFileSync('./plugins.json').toString();
+const plugins = fs.readFileSync('./plugins.json').toString();
 
 // helper function
 const countPluginKey = (plugins, key) => plugins
@@ -12,15 +12,32 @@ describe('plugins', () => {
   });
 
   it('should have all required keys', () => {
-    plugins = JSON.parse(plugins);
-    const pluginsCount = plugins.length;
+    const parsed = JSON.parse(plugins);
+    const pluginsCount = parsed.length;
 
-    const nameCount = countPluginKey(plugins, 'name');
-    const descriptionCount = countPluginKey(plugins, 'description');
-    const githubUrlCount = countPluginKey(plugins, 'githubUrl');
+    const nameCount = countPluginKey(parsed, 'name');
+    const descriptionCount = countPluginKey(parsed, 'description');
+    const githubUrlCount = countPluginKey(parsed, 'githubUrl');
 
     expect(nameCount).toBe(pluginsCount);
     expect(descriptionCount).toBe(pluginsCount);
     expect(githubUrlCount).toBe(pluginsCount);
+  });
+
+  it('should be unique', () => {
+    const parsed = JSON.parse(plugins);
+    const pluginsCount = parsed.length;
+
+    // create an array only containing the plugin names
+    const pluginNames = parsed.map((plugin) => plugin.name);
+
+    const uniquePlugins = [];
+    pluginNames.forEach((plugin) => {
+      if (uniquePlugins.indexOf(plugin) === -1) uniquePlugins.push(plugin)
+    });
+
+    const uniquePluginsCount = uniquePlugins.length;
+
+    expect(pluginsCount).toBe(uniquePluginsCount);
   });
 });
