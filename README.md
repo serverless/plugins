@@ -16,6 +16,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 - Do not remove or modify this section. Make all updates to plugins.json -->
 | Plugin | Author |
 |:---------------------------|:---------:|
+| **[Raml Serverless](https://github.com/andrewcurioso/raml-serverless)** <br/> Serverless plugin to work with RAML API spec documents | [andrewcurioso](http://github.com/andrewcurioso) | 
 | **[Serverless Alexa Plugin](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
 | **[Serverless Aws Documentation](https://github.com/9cookies/serverless-aws-documentation)** <br/> Serverless plugin to add documentation and models to the serverless generated API Gateway | [9cookies](http://github.com/9cookies) | 
 | **[Serverless Build Plugin](https://github.com/nfour/serverless-build-plugin)** <br/> A Node.js focused build plugin for serverless. | [nfour](http://github.com/nfour) | 
@@ -36,7 +37,6 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Plugin Optimize](https://github.com/FidelLimited/serverless-plugin-optimize)** <br/> Bundle with Browserify, transpile with Babel to ES5 and minify with Uglify your Serverless functions. | [FidelLimited](http://github.com/FidelLimited) | 
 | **[Serverless Plugin Package Dotenv File](https://github.com/ACloudGuru/serverless-plugin-package-dotenv-file)** <br/> A Serverless plugin to copy a .env file into the serverless package | [ACloudGuru](http://github.com/ACloudGuru) | 
 | **[Serverless Plugin Stack Outputs](https://github.com/svdgraaf/serverless-plugin-stack-outputs)** <br/> Displays stack outputs for your serverless stacks when `sls info` is ran | [svdgraaf](http://github.com/svdgraaf) | 
-| **[Serverless Plugin Stage Variables](https://github.com/svdgraaf/serverless-plugin-stage-variables)** <br/> Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's | [svdgraaf](http://github.com/svdgraaf) | 
 | **[Serverless Plugin Stage Variables](https://github.com/svdgraaf/serverless-plugin-stage-variables)** <br/> Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's | [svdgraaf](http://github.com/svdgraaf) | 
 | **[Serverless Plugin Write Env Vars](https://github.com/silvermine/serverless-plugin-write-env-vars)** <br/> Write environment variables out to a file that is compatible with dotenv | [silvermine](http://github.com/silvermine) | 
 | **[Serverless Resources Env](https://github.com/rurri/serverless-resources-env)** <br/> After Deploy, this plugin fetches cloudformation resource identifiers and sets them on AWS lambdas, and creates local .<state>-env file | [rurri](http://github.com/rurri) | 
