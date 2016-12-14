@@ -5,7 +5,8 @@
   "author": "Serverless",
   "license": "MIT",
   "scripts": {
-    "docs": "node generate-docs.js"
+    "docs": "node generate-docs.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -13,6 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "jest": "^17.0.3",
     "markdown-magic": "^0.1.0"
   }
 }
