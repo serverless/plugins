@@ -143,5 +143,10 @@
     "name": "raml-serverless",
     "description": "Serverless plugin to work with RAML API spec documents",
     "githubUrl": "https://github.com/andrewcurioso/raml-serverless"
+  },
+  {
+    "name": "serverless-python-requirements",
+    "description": "Serverless plugin to bundle Python packages",
+    "githubUrl": "https://github.com/UnitedIncome/serverless-python-requirements"
   }
 ]
