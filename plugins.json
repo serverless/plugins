@@ -148,5 +148,10 @@
     "name": "serverless-python-requirements",
     "description": "Serverless plugin to bundle Python packages",
     "githubUrl": "https://github.com/UnitedIncome/serverless-python-requirements"
+  },
+  {
+    "name": "serverless-dotnet",
+    "description": "A serverless plugin to run 'dotnet' commands as part of the deploy process",
+    "githubUrl": "https://github.com/fruffin/serverless-dotnet"
   }
 ]
