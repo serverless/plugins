@@ -158,5 +158,10 @@
     "name": "serverless-enable-api-logs",
     "description": "Enables Coudwatch logging for API Gateway events",
     "githubUrl": "https://github.com/paulSambolin/serverless-enable-api-logs"
+  },
+  {
+    "name": "serverless-python-individually",
+    "description": "A serverless framework plugin to install multiple lambda functions written in python",
+    "githubUrl": "https://github.com/cfchou/serverless-python-individually"
   }
 ]
