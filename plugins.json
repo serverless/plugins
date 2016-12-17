@@ -153,5 +153,10 @@
     "name": "serverless-dotnet",
     "description": "A serverless plugin to run 'dotnet' commands as part of the deploy process",
     "githubUrl": "https://github.com/fruffin/serverless-dotnet"
+  },
+  {
+    "name": "serverless-enable-api-logs",
+    "description": "Enables Coudwatch logging for API Gateway events",
+    "githubUrl": "https://github.com/paulSambolin/serverless-enable-api-logs"
   }
 ]
