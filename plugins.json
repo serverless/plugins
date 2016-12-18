@@ -163,5 +163,10 @@
     "name": "serverless-python-individually",
     "description": "A serverless framework plugin to install multiple lambda functions written in python",
     "githubUrl": "https://github.com/cfchou/serverless-python-individually"
+  },
+  {
+    "name": "serverless-plugin-subscription-filter",
+    "description": "A serverless plugin to register AWS CloudWatchLogs subscription filter",
+    "githubUrl": "https://github.com/tsub/serverless-plugin-subscription-filter"
   }
 ]
