@@ -168,5 +168,10 @@
     "name": "serverless-plugin-subscription-filter",
     "description": "A serverless plugin to register AWS CloudWatchLogs subscription filter",
     "githubUrl": "https://github.com/tsub/serverless-plugin-subscription-filter"
+  },
+  {
+    "name": "serverless-step-functions",
+    "description": "AWS Step Functions with Serverless Framework.",
+    "githubUrl": "https://github.com/horike37/serverless-step-functions"
   }
 ]
