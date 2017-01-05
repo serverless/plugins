@@ -2,7 +2,7 @@
 
 ## Community Plugins
 
-<img align="right" width="112" height="112" src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/images/plugin-thumbnail.jpg">[Serverless Plugins](https://serverless.com/framework/docs/providers/aws/guide/plugins/) allow users to extend or overwrite the framework's core functionality. Many of these plugins are contributed by our amazing community members! 🎉
+<img align="right" width="135" height="135" src="https://cloud.githubusercontent.com/assets/20538501/21665215/e3c9aae6-d2b0-11e6-9865-498d91318e7a.png">[Serverless Plugins](https://serverless.com/framework/docs/providers/aws/guide/plugins/) allow users to extend or overwrite the framework's core functionality. Many of these plugins are contributed by our amazing community members! 🎉
 
 This repository is meant to be the one stop shop for all the awesome plugins out there in the serverless ecosytem.
 
