@@ -173,5 +173,10 @@
     "name": "serverless-step-functions",
     "description": "AWS Step Functions with Serverless Framework.",
     "githubUrl": "https://github.com/horike37/serverless-step-functions"
+  },
+  {
+    "name": "serverless-plugin-scripts",
+    "description": "Add scripting capabilities to the Serverless Framework",
+    "githubUrl": "https://github.com/mvila/serverless-plugin-scripts"
   }
 ]
