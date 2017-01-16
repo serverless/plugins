@@ -178,5 +178,10 @@
     "name": "serverless-plugin-scripts",
     "description": "Add scripting capabilities to the Serverless Framework",
     "githubUrl": "https://github.com/mvila/serverless-plugin-scripts"
+  },
+  {
+    "name": "serverless-plugin-bind-deployment-id",
+    "description": "A Serverless plugin to bind the randomly generated deployment resource to your custom resources",
+    "githubUrl": "https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id"
   }
 ]
