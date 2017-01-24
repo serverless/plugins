@@ -126,8 +126,13 @@
   },
   {
     "name": "serverless-mocha-plugin",
-    "description": "A Serverless Plugin for the Serverless Framework which adds support for test driven development using mocha",
+    "description": "A Serverless Plugin for the Serverless Framework which adds support for test-driven development using Mocha",
     "githubUrl": "https://github.com/SC5/serverless-mocha-plugin"
+  },
+  {
+    "name": "serverless-jest-plugin",
+    "description": "A Serverless Plugin for the Serverless Framework which adds support for test-driven development using Jest",
+    "githubUrl": "https://github.com/SC5/serverless-jest-plugin"
   },
   {
     "name": "serverless-plugin-cfauthorizer",
