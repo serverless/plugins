@@ -198,4 +198,9 @@
     "name": "serverless-coffeescript",
     "description": "A Serverless plugin to compile your CoffeeScript into JavaScript at deployment",
     "githubUrl": "https://github.com/duanefields/serverless-coffeescript"
+  },
+  {
+    "name": "serverless-plugin-lambda-dead-letter",
+    "description": "A Serverless plugin that can configure a lambda with a dead letter queue or topic",
+    "githubUrl": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter"
   }]
