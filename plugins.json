@@ -203,4 +203,9 @@
     "name": "serverless-plugin-lambda-dead-letter",
     "description": "A Serverless plugin that can configure a lambda with a dead letter queue or topic",
     "githubUrl": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter"
-  }]
+  },
+{
+  "name": "serverless-plugin-encode-env-var-objects",
+  "description": "Serverless plugin to encode any environment variable objects.",
+  "githubUrl": "https://github.com/yonomi/serverless-plugin-encode-env-var-objects"
+}]
