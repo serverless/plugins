@@ -92,7 +92,7 @@
   {
     "name": "serverless-scriptable-plugin",
     "description": "Customize Serverless behavior without writing a plugin.",
-    "githubUrl": "https://github.com/wei-xu-myob/serverless-scriptable-plugin"
+    "githubUrl": "https://github.com/weixu365/serverless-scriptable-plugin"
   },
   {
     "name": "serverless-subscription-filter",
