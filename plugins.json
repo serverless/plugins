@@ -204,14 +204,19 @@
     "description": "A Serverless plugin that can configure a lambda with a dead letter queue or topic",
     "githubUrl": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter"
   },
-{
-  "name": "serverless-plugin-encode-env-var-objects",
-  "description": "Serverless plugin to encode any environment variable objects.",
-  "githubUrl": "https://github.com/yonomi/serverless-plugin-encode-env-var-objects"
-},
   {
-     "name": "serverless-dir-config-plugin",
-  "description": "EXPERIMENTAL - Serverless plugin to load function and resource definitions from a directory.",
-  "githubUrl": "https://github.com/economysizegeek/serverless-dir-config-plugin"
+    "name": "serverless-plugin-encode-env-var-objects",
+    "description": "Serverless plugin to encode any environment variable objects.",
+    "githubUrl": "https://github.com/yonomi/serverless-plugin-encode-env-var-objects"
+  },
+  {
+    "name": "serverless-dir-config-plugin",
+    "description": "EXPERIMENTAL - Serverless plugin to load function and resource definitions from a directory.",
+    "githubUrl": "https://github.com/economysizegeek/serverless-dir-config-plugin"
+  },
+  {
+    "name": "serverless-cljs-plugin",
+    "description": "Enables Clojurescript as an implementation language for Lambda handlers",
+    "githubUrl": "https://github.com/nervous-systems/serverless-cljs-plugin"
   }
 ]
