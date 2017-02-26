@@ -218,5 +218,10 @@
     "name": "serverless-cljs-plugin",
     "description": "Enables Clojurescript as an implementation language for Lambda handlers",
     "githubUrl": "https://github.com/nervous-systems/serverless-cljs-plugin"
+  },
+  {
+    "name": "serverless-prune-plugin",
+    "description": "Deletes old versions of functions from AWS, preserving recent and aliased versions",
+    "githubUrl": "https://github.com/claygregory/serverless-prune-plugin"
   }
 ]
