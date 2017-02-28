@@ -223,5 +223,10 @@
     "name": "serverless-prune-plugin",
     "description": "Deletes old versions of functions from AWS, preserving recent and aliased versions",
     "githubUrl": "https://github.com/claygregory/serverless-prune-plugin"
+  },
+  {
+    "name": "serverless-offline-scheduler",
+    "description": "Runs scheduled functions offline while integrating with serverless-offline",
+    "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler"
   }
 ]
