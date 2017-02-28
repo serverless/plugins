@@ -70,6 +70,11 @@
     "githubUrl": "https://github.com/dherault/serverless-offline"
   },
   {
+    "name": "serverless-plugin-simulate",
+    "description": "Simulate AWS Lambda and API Gateway locally using Docker",
+    "githubUrl": "https://github.com/gertjvr/serverless-plugin-simulate"
+  },
+  {
     "name": "serverless-plugin-optimize",
     "description": "Bundle with Browserify, transpile with Babel to ES5 and minify with Uglify your Serverless functions.",
     "githubUrl": "https://github.com/FidelLimited/serverless-plugin-optimize"
