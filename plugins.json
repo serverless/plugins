@@ -233,5 +233,10 @@
     "name": "serverless-offline-scheduler",
     "description": "Runs scheduled functions offline while integrating with serverless-offline",
     "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler"
+  },
+  {
+    "name": "serverless-aws-alias",
+    "description": "This plugin enables use of AWS aliases on Lambda functions.",
+    "githubUrl": "https://github.com/HyperBrain/serverless-aws-alias"
   }
 ]
