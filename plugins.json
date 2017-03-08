@@ -80,6 +80,11 @@
     "githubUrl": "https://github.com/FidelLimited/serverless-plugin-optimize"
   },
   {
+    "name": "serverless-plugin-select",
+    "description": "Select which functions are to be deployed based on region and stage.",
+    "githubUrl": "https://github.com/FidelLimited/serverless-plugin-select"
+  },
+  {
     "name": "serverless-plugin-browserify",
     "description": "Speed up your node based lambda's",
     "githubUrl": "https://github.com/doapp-ryanp/serverless-plugin-browserify"
