@@ -243,5 +243,10 @@
     "name": "serverless-aws-alias",
     "description": "This plugin enables use of AWS aliases on Lambda functions.",
     "githubUrl": "https://github.com/HyperBrain/serverless-aws-alias"
+  },
+  {
+    "name": "serverless-plugin-simulate",
+    "description": "Emulate AWS λ and API Gateway locally using docker lambda images to run Lambda functions, supports all Lambda languages.",
+    "githubUrl": "https://github.com/gertjvr/serverless-plugin-simulate"
   }
 ]
