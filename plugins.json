@@ -85,6 +85,11 @@
     "githubUrl": "https://github.com/FidelLimited/serverless-plugin-select"
   },
   {
+    "name": "serverless-plugin-warmup",
+    "description": "Keep your lambdas warm during Winter.",
+    "githubUrl": "https://github.com/FidelLimited/serverless-plugin-warmup"
+  },
+  {
     "name": "serverless-plugin-browserify",
     "description": "Speed up your node based lambda's",
     "githubUrl": "https://github.com/doapp-ryanp/serverless-plugin-browserify"
