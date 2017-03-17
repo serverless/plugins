@@ -253,5 +253,10 @@
     "name": "serverless-plugin-webpack",
     "description": "A serverless plugin to automatically bundle your functions individually with webpack",
     "githubUrl": "https://github.com/goldwasserexchange/serverless-plugin-webpack"
+  },
+  {
+    "name": "serverless-sqs-fifo",
+    "description": "A serverless plugin to handle creation of sqs fifo queue's in aws (stop-gap)",
+    "githubUrl": "https://github.com/vortarian/serverless-sqs-fifo"
   }
 ]
