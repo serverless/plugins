@@ -258,5 +258,10 @@
     "name": "serverless-sqs-fifo",
     "description": "A serverless plugin to handle creation of sqs fifo queue's in aws (stop-gap)",
     "githubUrl": "https://github.com/vortarian/serverless-sqs-fifo"
-  }
+  },
+  {
+    "name": "serverless-sqs-alarms-plugin",
+    "description": "Wrapper to setup CloudWatch Alarms on SQS queue length",
+    "githubUrl": "https://github.com/sbstjn/serverless-sqs-alarms-plugin"
+  }   
 ]
