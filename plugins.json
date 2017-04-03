@@ -263,5 +263,10 @@
     "name": "serverless-sqs-alarms-plugin",
     "description": "Wrapper to setup CloudWatch Alarms on SQS queue length",
     "githubUrl": "https://github.com/sbstjn/serverless-sqs-alarms-plugin"
-  }   
+  },
+  {
+    "name": "serverless-dotenv",
+    "description": "Fetch environment variables and write it to a .env file",
+    "githubUrl": "https://github.com/Jimdo/serverless-dotenv"
+  }
 ]
