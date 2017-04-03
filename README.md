@@ -26,6 +26,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Command Line Event Args](https://github.com/horike37/serverless-command-line-event-args)** <br/> This module is Serverless Framework plugin. Event JSON passes to your Lambda function in commandline. | [horike37](http://github.com/horike37) | 
 | **[Serverless Crypt](https://github.com/marcy-terui/serverless-crypt)** <br/> Securing the secrets on Serverless Framework by AWS KMS encryption. | [marcy-terui](http://github.com/marcy-terui) | 
 | **[Serverless Dir Config Plugin](https://github.com/economysizegeek/serverless-dir-config-plugin)** <br/> EXPERIMENTAL - Serverless plugin to load function and resource definitions from a directory. | [economysizegeek](http://github.com/economysizegeek) | 
+| **[Serverless Dotenv](https://github.com/Jimdo/serverless-dotenv)** <br/> Fetch environment variables and write it to a .env file | [Jimdo](http://github.com/Jimdo) | 
 | **[Serverless Dotnet](https://github.com/fruffin/serverless-dotnet)** <br/> A serverless plugin to run 'dotnet' commands as part of the deploy process | [fruffin](http://github.com/fruffin) | 
 | **[Serverless Dynamodb Local](https://github.com/99xt/serverless-dynamodb-local)** <br/> Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless | [99xt](http://github.com/99xt) | 
 | **[Serverless Enable Api Logs](https://github.com/paulSambolin/serverless-enable-api-logs)** <br/> Enables Coudwatch logging for API Gateway events | [paulSambolin](http://github.com/paulSambolin) | 
