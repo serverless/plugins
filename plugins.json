@@ -268,5 +268,10 @@
     "name": "serverless-dotenv",
     "description": "Fetch environment variables and write it to a .env file",
     "githubUrl": "https://github.com/Jimdo/serverless-dotenv"
+  },
+    {
+    "name": "serverless-hooks-plugin",
+    "description": "Run arbitrary commands on any lifecycle event in serverless",
+    "githubUrl": "https://github.com/uswitch/serverless-hooks-plugin"
   }
 ]
