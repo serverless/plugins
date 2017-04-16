@@ -278,5 +278,5 @@
     "name": "serverless-dynalite",
     "description": "Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates.",
     "githubUrl": "https://github.com/sdd/serverless-dynalite"
-  },
+  }
 ]
