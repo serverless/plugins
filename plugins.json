@@ -273,5 +273,10 @@
     "name": "serverless-hooks-plugin",
     "description": "Run arbitrary commands on any lifecycle event in serverless",
     "githubUrl": "https://github.com/uswitch/serverless-hooks-plugin"
+  },
+  {
+    "name": "serverless-dynalite",
+    "description": "Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates.",
+    "githubUrl": "https://github.com/sdd/serverless-dynalite"
   }
 ]
