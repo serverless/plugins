@@ -278,5 +278,10 @@
     "name": "serverless-dynalite",
     "description": "Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates.",
     "githubUrl": "https://github.com/sdd/serverless-dynalite"
+  },
+  {
+    "name": "serverless-apig-s3",
+    "description": "Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3.",
+    "githubUrl": "https://github.com/sdd/serverless-apig-s3"
   }
 ]
