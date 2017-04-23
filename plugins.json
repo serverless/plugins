@@ -283,5 +283,10 @@
     "name": "serverless-apig-s3",
     "description": "Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3.",
     "githubUrl": "https://github.com/sdd/serverless-apig-s3"
+  },
+  {
+    "name": "serverless-plugin-typescript",
+    "description": "Serverless plugin for zero-config Typescript support.",
+    "githubUrl": "https://github.com/graphcool/serverless-plugin-typescript"
   }
 ]
