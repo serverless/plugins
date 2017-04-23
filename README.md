@@ -18,6 +18,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 |:---------------------------|:---------:|
 | **[Raml Serverless](https://github.com/andrewcurioso/raml-serverless)** <br/> Serverless plugin to work with RAML API spec documents | [andrewcurioso](http://github.com/andrewcurioso) | 
 | **[Serverless Alexa Plugin](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
+| **[Serverless Apig S3](https://github.com/sdd/serverless-apig-s3)** <br/> Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3. | [sdd](http://github.com/sdd) | 
 | **[Serverless Aws Alias](https://github.com/HyperBrain/serverless-aws-alias)** <br/> This plugin enables use of AWS aliases on Lambda functions. | [HyperBrain](http://github.com/HyperBrain) | 
 | **[Serverless Aws Documentation](https://github.com/9cookies/serverless-aws-documentation)** <br/> Serverless plugin to add documentation and models to the serverless generated API Gateway | [9cookies](http://github.com/9cookies) | 
 | **[Serverless Build Plugin](https://github.com/nfour/serverless-build-plugin)** <br/> A Node.js focused build plugin for serverless. | [nfour](http://github.com/nfour) | 
@@ -28,6 +29,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Dir Config Plugin](https://github.com/economysizegeek/serverless-dir-config-plugin)** <br/> EXPERIMENTAL - Serverless plugin to load function and resource definitions from a directory. | [economysizegeek](http://github.com/economysizegeek) | 
 | **[Serverless Dotenv](https://github.com/Jimdo/serverless-dotenv)** <br/> Fetch environment variables and write it to a .env file | [Jimdo](http://github.com/Jimdo) | 
 | **[Serverless Dotnet](https://github.com/fruffin/serverless-dotnet)** <br/> A serverless plugin to run 'dotnet' commands as part of the deploy process | [fruffin](http://github.com/fruffin) | 
+| **[Serverless Dynalite](https://github.com/sdd/serverless-dynalite)** <br/> Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates. | [sdd](http://github.com/sdd) | 
 | **[Serverless Dynamodb Local](https://github.com/99xt/serverless-dynamodb-local)** <br/> Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless | [99xt](http://github.com/99xt) | 
 | **[Serverless Enable Api Logs](https://github.com/paulSambolin/serverless-enable-api-logs)** <br/> Enables Coudwatch logging for API Gateway events | [paulSambolin](http://github.com/paulSambolin) | 
 | **[Serverless Event Constant Inputs](https://github.com/dittto/serverless-event-constant-inputs)** <br/> Allows you to add constant inputs to events in Serverless 1.0. For more info see [constant values in Cloudwatch](https://aws.amazon.com/blogs/compute/simply-serverless-use-constant-values-in-cloudwatch-event-triggered-lambda-functions/) | [dittto](http://github.com/dittto) | 
@@ -56,6 +58,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Plugin Stack Outputs](https://github.com/svdgraaf/serverless-plugin-stack-outputs)** <br/> Displays stack outputs for your serverless stacks when `sls info` is ran | [svdgraaf](http://github.com/svdgraaf) | 
 | **[Serverless Plugin Stage Variables](https://github.com/svdgraaf/serverless-plugin-stage-variables)** <br/> Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's | [svdgraaf](http://github.com/svdgraaf) | 
 | **[Serverless Plugin Subscription Filter](https://github.com/tsub/serverless-plugin-subscription-filter)** <br/> A serverless plugin to register AWS CloudWatchLogs subscription filter | [tsub](http://github.com/tsub) | 
+| **[Serverless Plugin Typescript](https://github.com/graphcool/serverless-plugin-typescript)** <br/> Serverless plugin for zero-config Typescript support. | [graphcool](http://github.com/graphcool) | 
 | **[Serverless Plugin Warmup](https://github.com/FidelLimited/serverless-plugin-warmup)** <br/> Keep your lambdas warm during Winter. | [FidelLimited](http://github.com/FidelLimited) | 
 | **[Serverless Plugin Webpack](https://github.com/goldwasserexchange/serverless-plugin-webpack)** <br/> A serverless plugin to automatically bundle your functions individually with webpack | [goldwasserexchange](http://github.com/goldwasserexchange) | 
 | **[Serverless Plugin Write Env Vars](https://github.com/silvermine/serverless-plugin-write-env-vars)** <br/> Write environment variables out to a file that is compatible with dotenv | [silvermine](http://github.com/silvermine) | 
