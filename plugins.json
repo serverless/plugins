@@ -288,5 +288,15 @@
     "name": "serverless-plugin-typescript",
     "description": "Serverless plugin for zero-config Typescript support.",
     "githubUrl": "https://github.com/graphcool/serverless-plugin-typescript"
+  },
+  {
+    "name": "serverless-parameters",
+    "description": "Add parameters to the generated cloudformation templates",
+    "githubUrl": "https://github.com/svdgraaf/serverless-parameters"
+  },
+  {
+    "name": "serverless-pseudo-parameters",
+    "description": "Use ${AWS::AccountId} and other cloudformation pseudo parameters in your serverless.yml values",
+    "githubUrl": "https://github.com/svdgraaf/serverless-pseudo-parameters"
   }
 ]
