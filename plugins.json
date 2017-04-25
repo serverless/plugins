@@ -205,6 +205,11 @@
     "githubUrl": "https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id"
   },
   {
+    "name": "serverless-plugin-git-variables",
+    "description": "A Serverless plugin to expose git variables (branch name, HEAD description, full commit hash) to your serverless services",
+    "githubUrl": "https://github.com/jacob-meacham/serverless-plugin-git-variables"
+  },
+  {
     "name": "serverless-plugin-graphiql",
     "description": "A Serverless plugin to run a local http server for graphiql and your graphql handler",
     "githubUrl": "https://github.com/bencooling/serverless-plugin-graphiql"
