@@ -18,6 +18,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 |:---------------------------|:---------:|
 | **[Raml Serverless](https://github.com/andrewcurioso/raml-serverless)** <br/> Serverless plugin to work with RAML API spec documents | [andrewcurioso](http://github.com/andrewcurioso) | 
 | **[Serverless Alexa Plugin](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
+| **[Serverless Api Stage](https://github.com/leftclickben/serverless-api-stage)** <br/> Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway. | [leftclickben](http://github.com/leftclickben) | 
 | **[Serverless Apig S3](https://github.com/sdd/serverless-apig-s3)** <br/> Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3. | [sdd](http://github.com/sdd) | 
 | **[Serverless Aws Alias](https://github.com/HyperBrain/serverless-aws-alias)** <br/> This plugin enables use of AWS aliases on Lambda functions. | [HyperBrain](http://github.com/HyperBrain) | 
 | **[Serverless Aws Documentation](https://github.com/9cookies/serverless-aws-documentation)** <br/> Serverless plugin to add documentation and models to the serverless generated API Gateway | [9cookies](http://github.com/9cookies) | 
@@ -48,6 +49,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Plugin Diff](https://github.com/nicka/serverless-plugin-diff)** <br/> Compares your local AWS CloudFormation templates against deployed ones. | [nicka](http://github.com/nicka) | 
 | **[Serverless Plugin Encode Env Var Objects](https://github.com/yonomi/serverless-plugin-encode-env-var-objects)** <br/> Serverless plugin to encode any environment variable objects. | [yonomi](http://github.com/yonomi) | 
 | **[Serverless Plugin External Sns Events](https://github.com/silvermine/serverless-plugin-external-sns-events)** <br/> Add ability for functions to use existing or external SNS topics as an event source | [silvermine](http://github.com/silvermine) | 
+| **[Serverless Plugin Git Variables](https://github.com/jacob-meacham/serverless-plugin-git-variables)** <br/> A Serverless plugin to expose git variables (branch name, HEAD description, full commit hash) to your serverless services | [jacob-meacham](http://github.com/jacob-meacham) | 
 | **[Serverless Plugin Graphiql](https://github.com/bencooling/serverless-plugin-graphiql)** <br/> A Serverless plugin to run a local http server for graphiql and your graphql handler | [bencooling](http://github.com/bencooling) | 
 | **[Serverless Plugin Include Dependencies](https://github.com/dougmoscrop/serverless-plugin-include-dependencies)** <br/> This is a Serverless plugin that should make your deployed functions smaller. | [dougmoscrop](http://github.com/dougmoscrop) | 
 | **[Serverless Plugin Lambda Dead Letter](https://github.com/gmetzker/serverless-plugin-lambda-dead-letter)** <br/> A Serverless plugin that can configure a lambda with a dead letter queue or topic | [gmetzker](http://github.com/gmetzker) | 

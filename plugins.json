@@ -308,5 +308,10 @@
     "name": "serverless-dynamodb-ttl",
     "description": "Configure DynamoDB TTL in serverless.yml (until CloudFormation supports this).",
     "githubUrl": "https://github.com/Jimdo/serverless-dynamodb-ttl"
+  },
+  {
+    "name": "serverless-api-stage",
+    "description": "Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway.",
+    "githubUrl": "https://github.com/leftclickben/serverless-api-stage"
   }
 ]
