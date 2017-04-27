@@ -313,5 +313,10 @@
     "name": "serverless-api-stage",
     "description": "Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway.",
     "githubUrl": "https://github.com/leftclickben/serverless-api-stage"
+  },
+  {
+    "name": "serverless-export-env",
+    "description": "Export environment variables into a .env file with automatic AWS CloudFormation reference resolution.",
+    "githubUrl": "https://github.com/arabold/serverless-export-env"
   }
 ]
