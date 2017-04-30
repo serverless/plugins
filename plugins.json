@@ -319,9 +319,14 @@
     "description": "Export environment variables into a .env file with automatic AWS CloudFormation reference resolution.",
     "githubUrl": "https://github.com/arabold/serverless-export-env"
   },
-   {
+  {
     "name": "serverless-package-python-functions",
     "description": "Packaging Python Lambda functions with only the dependencies/requirements they need.",
     "githubUrl": "https://github.com/ubaniabalogun/serverless-package-python-functions"
+  },
+  {
+    "name": "serverless-plugin-iopipe",
+    "description": "See inside your Lambda functions with high fidelity metrics and monitoring.",
+    "githubUrl": "https://github.com/iopipe/serverless-plugin-iopipe"
   }
 ]
