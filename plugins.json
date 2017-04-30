@@ -318,5 +318,10 @@
     "name": "serverless-export-env",
     "description": "Export environment variables into a .env file with automatic AWS CloudFormation reference resolution.",
     "githubUrl": "https://github.com/arabold/serverless-export-env"
+  },
+   {
+    "name": "serverless-package-python-functions",
+    "description": "Packaging Python Lambda functions with only the dependencies/requirements they need.",
+    "githubUrl": "https://github.com/ubaniabalogun/serverless-package-python-functions"
   }
 ]
