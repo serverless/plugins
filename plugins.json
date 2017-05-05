@@ -328,5 +328,10 @@
     "name": "serverless-plugin-iopipe",
     "description": "See inside your Lambda functions with high fidelity metrics and monitoring.",
     "githubUrl": "https://github.com/iopipe/serverless-plugin-iopipe"
+  },
+  {
+    "name": "serverless-sam",
+    "description": "Exports an AWS SAM template for a service created with the Serverless Framework.",
+    "githubUrl": "https://github.com/SAPessi/serverless-sam"
   }
 ]
