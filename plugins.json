@@ -333,5 +333,10 @@
     "name": "serverless-sam",
     "description": "Exports an AWS SAM template for a service created with the Serverless Framework.",
     "githubUrl": "https://github.com/SAPessi/serverless-sam"
+  },
+  {
+    "name": "serverless-vpc-discovery",
+    "description": "Serverless plugin for discovering VPC / Subnet / Security Group configuration by name.",
+    "githubUrl": "https://github.com/amplify-education/serverless-vpc-discovery"
   }
 ]
