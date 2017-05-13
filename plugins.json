@@ -30,6 +30,11 @@
     "githubUrl": "https://github.com/dittto/serverless-event-constant-inputs"
   },
   {
+    "name": "serverless-kms-secrets",
+    "description": "Allows to easily encrypt and decrypt secrets using KMS from the serverless CLI",
+    "githubUrl": "https://github.com/SC5/serverless-kms-secrets"
+  },
+  {
     "name": "serverless-plugin-stack-outputs",
     "description": "Displays stack outputs for your serverless stacks when `sls info` is ran",
     "githubUrl": "https://github.com/svdgraaf/serverless-plugin-stack-outputs"
