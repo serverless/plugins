@@ -38,6 +38,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Export Env](https://github.com/arabold/serverless-export-env)** <br/> Export environment variables into a .env file with automatic AWS CloudFormation reference resolution. | [arabold](http://github.com/arabold) | 
 | **[Serverless Hooks Plugin](https://github.com/uswitch/serverless-hooks-plugin)** <br/> Run arbitrary commands on any lifecycle event in serverless | [uswitch](http://github.com/uswitch) | 
 | **[Serverless Jest Plugin](https://github.com/SC5/serverless-jest-plugin)** <br/> A Serverless Plugin for the Serverless Framework which adds support for test-driven development using Jest | [SC5](http://github.com/SC5) | 
+| **[Serverless Kms Secrets](https://github.com/SC5/serverless-kms-secrets)** <br/> Allows to easily encrypt and decrypt secrets using KMS from the serverless CLI | [SC5](http://github.com/SC5) | 
 | **[Serverless Mocha Plugin](https://github.com/SC5/serverless-mocha-plugin)** <br/> A Serverless Plugin for the Serverless Framework which adds support for test-driven development using Mocha | [SC5](http://github.com/SC5) | 
 | **[Serverless Offline](https://github.com/dherault/serverless-offline)** <br/> Emulate AWS λ and API Gateway locally when developing your Serverless project | [dherault](http://github.com/dherault) | 
 | **[Serverless Offline Scheduler](https://github.com/ajmath/serverless-offline-scheduler)** <br/> Runs scheduled functions offline while integrating with serverless-offline | [ajmath](http://github.com/ajmath) | 
