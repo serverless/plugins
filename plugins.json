@@ -343,5 +343,10 @@
     "name": "serverless-vpc-discovery",
     "description": "Serverless plugin for discovering VPC / Subnet / Security Group configuration by name.",
     "githubUrl": "https://github.com/amplify-education/serverless-vpc-discovery"
+  },
+  {
+    "name": "serverless-kubeless",
+    "description": "Serverless plugin for deploying functions to Kubeless.",
+    "githubUrl": "https://github.com/ngtuna/serverless-kubeless"
   }
 ]
