@@ -347,6 +347,6 @@
   {
     "name": "serverless-kubeless",
     "description": "Serverless plugin for deploying functions to Kubeless.",
-    "githubUrl": "https://github.com/ngtuna/serverless-kubeless"
+    "githubUrl": "https://github.com/bitnami/kubeless-serverless"
   }
 ]
