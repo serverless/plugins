@@ -348,5 +348,10 @@
     "name": "serverless-kubeless",
     "description": "Serverless plugin for deploying functions to Kubeless.",
     "githubUrl": "https://github.com/bitnami/kubeless-serverless"
+  },
+  {
+    "name": "serverless-apigwy-binary",
+    "description": "Serverless plugin for configuring API Gateway to return binary responses",
+    "githubUrl": "https://github.com/ryanmurakami/serverless-apigwy-binary"
   }
 ]
