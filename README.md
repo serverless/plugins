@@ -20,6 +20,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Alexa Plugin](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
 | **[Serverless Api Stage](https://github.com/leftclickben/serverless-api-stage)** <br/> Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway. | [leftclickben](http://github.com/leftclickben) | 
 | **[Serverless Apig S3](https://github.com/sdd/serverless-apig-s3)** <br/> Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3. | [sdd](http://github.com/sdd) | 
+| **[Serverless Apigwy Binary](https://github.com/ryanmurakami/serverless-apigwy-binary)** <br/> Serverless plugin for configuring API Gateway to return binary responses | [ryanmurakami](http://github.com/ryanmurakami) | 
 | **[Serverless Aws Alias](https://github.com/HyperBrain/serverless-aws-alias)** <br/> This plugin enables use of AWS aliases on Lambda functions. | [HyperBrain](http://github.com/HyperBrain) | 
 | **[Serverless Aws Documentation](https://github.com/9cookies/serverless-aws-documentation)** <br/> Serverless plugin to add documentation and models to the serverless generated API Gateway | [9cookies](http://github.com/9cookies) | 
 | **[Serverless Build Plugin](https://github.com/nfour/serverless-build-plugin)** <br/> A Node.js focused build plugin for serverless. | [nfour](http://github.com/nfour) | 
@@ -28,6 +29,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Command Line Event Args](https://github.com/horike37/serverless-command-line-event-args)** <br/> This module is Serverless Framework plugin. Event JSON passes to your Lambda function in commandline. | [horike37](http://github.com/horike37) | 
 | **[Serverless Crypt](https://github.com/marcy-terui/serverless-crypt)** <br/> Securing the secrets on Serverless Framework by AWS KMS encryption. | [marcy-terui](http://github.com/marcy-terui) | 
 | **[Serverless Dir Config Plugin](https://github.com/economysizegeek/serverless-dir-config-plugin)** <br/> EXPERIMENTAL - Serverless plugin to load function and resource definitions from a directory. | [economysizegeek](http://github.com/economysizegeek) | 
+| **[Serverless Domain Manager](https://github.com/amplify-education/serverless-domain-manager)** <br/> Serverless plugin for managing custom domains with API Gateways. | [amplify-education](http://github.com/amplify-education) | 
 | **[Serverless Dotenv](https://github.com/Jimdo/serverless-dotenv)** <br/> Fetch environment variables and write it to a .env file | [Jimdo](http://github.com/Jimdo) | 
 | **[Serverless Dotnet](https://github.com/fruffin/serverless-dotnet)** <br/> A serverless plugin to run 'dotnet' commands as part of the deploy process | [fruffin](http://github.com/fruffin) | 
 | **[Serverless Dynalite](https://github.com/sdd/serverless-dynalite)** <br/> Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates. | [sdd](http://github.com/sdd) | 
