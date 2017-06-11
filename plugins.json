@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-apigw-binary",
+    "description": "Plugin to enable binary support in AWS API Gateway.",
+    "githubUrl": "https://github.com/maciejtreder/serverless-apigw-binary"
+  },
+  {
     "name": "serverless-domain-manager",
     "description": "Serverless plugin for managing custom domains with API Gateways.",
     "githubUrl": "https://github.com/amplify-education/serverless-domain-manager"
