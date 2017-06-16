@@ -363,5 +363,10 @@
     "name": "serverless-apigwy-binary",
     "description": "Serverless plugin for configuring API Gateway to return binary responses",
     "githubUrl": "https://github.com/ryanmurakami/serverless-apigwy-binary"
+  },
+  {
+    "name": "serverless-plugin-browserifier",
+    "description": "Reduce the size and speed up your Node.js based lambda's using browserify.",
+    "githubUrl": "https://github.com/digitalmaas/serverless-plugin-browserifier"
   }
 ]
