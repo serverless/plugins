@@ -16,11 +16,11 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 - Do not remove or modify this section. Make all updates to plugins.json -->
 | Plugin | Author |
 |:---------------------------|:---------:|
-| **[API GW binary support](https://github.com/maciejtreder/serverless-apigw-binary)** <br/> Serverless plugin to enable binary support in AWS API Gateway. | [Maciej Treder](https://github.com/maciejtreder) | 
 | **[Raml Serverless](https://github.com/andrewcurioso/raml-serverless)** <br/> Serverless plugin to work with RAML API spec documents | [andrewcurioso](http://github.com/andrewcurioso) | 
 | **[Serverless Alexa Plugin](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
 | **[Serverless Api Stage](https://github.com/leftclickben/serverless-api-stage)** <br/> Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway. | [leftclickben](http://github.com/leftclickben) | 
 | **[Serverless Apig S3](https://github.com/sdd/serverless-apig-s3)** <br/> Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3. | [sdd](http://github.com/sdd) | 
+| **[Serverless Apigw Binary](https://github.com/maciejtreder/serverless-apigw-binary)** <br/> Plugin to enable binary support in AWS API Gateway. | [maciejtreder](http://github.com/maciejtreder) | 
 | **[Serverless Apigwy Binary](https://github.com/ryanmurakami/serverless-apigwy-binary)** <br/> Serverless plugin for configuring API Gateway to return binary responses | [ryanmurakami](http://github.com/ryanmurakami) | 
 | **[Serverless Aws Alias](https://github.com/HyperBrain/serverless-aws-alias)** <br/> This plugin enables use of AWS aliases on Lambda functions. | [HyperBrain](http://github.com/HyperBrain) | 
 | **[Serverless Aws Documentation](https://github.com/9cookies/serverless-aws-documentation)** <br/> Serverless plugin to add documentation and models to the serverless generated API Gateway | [9cookies](http://github.com/9cookies) | 
@@ -50,6 +50,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Parameters](https://github.com/svdgraaf/serverless-parameters)** <br/> Add parameters to the generated cloudformation templates | [svdgraaf](http://github.com/svdgraaf) | 
 | **[Serverless Plugin Aws Alerts](https://github.com/ACloudGuru/serverless-plugin-aws-alerts)** <br/> A Serverless plugin to easily add CloudWatch alarms to functions | [ACloudGuru](http://github.com/ACloudGuru) | 
 | **[Serverless Plugin Bind Deployment Id](https://github.com/jacob-meacham/serverless-plugin-bind-deployment-id)** <br/> A Serverless plugin to bind the randomly generated deployment resource to your custom resources | [jacob-meacham](http://github.com/jacob-meacham) | 
+| **[Serverless Plugin Browserifier](https://github.com/digitalmaas/serverless-plugin-browserifier)** <br/> Reduce the size and speed up your Node.js based lambda's using browserify. | [digitalmaas](http://github.com/digitalmaas) | 
 | **[Serverless Plugin Browserify](https://github.com/doapp-ryanp/serverless-plugin-browserify)** <br/> Speed up your node based lambda's | [doapp-ryanp](http://github.com/doapp-ryanp) | 
 | **[Serverless Plugin Cfauthorizer](https://github.com/SC5/serverless-plugin-cfauthorizer)** <br/> This plugin allows you to define your own API Gateway Authorizers as the Serverless CloudFormation resources and apply them to HTTP endpoints. | [SC5](http://github.com/SC5) | 
 | **[Serverless Plugin Cloudwatch Sumologic](https://github.com/ACloudGuru/serverless-plugin-cloudwatch-sumologic)** <br/> Plugin which auto-subscribes a log delivery lambda function to lambda log groups created by serverless | [ACloudGuru](http://github.com/ACloudGuru) | 
