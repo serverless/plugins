@@ -368,5 +368,10 @@
     "name": "serverless-plugin-browserifier",
     "description": "Reduce the size and speed up your Node.js based lambda's using browserify.",
     "githubUrl": "https://github.com/digitalmaas/serverless-plugin-browserifier"
+  },
+  {
+    "name": "serverless-shell",
+    "description": "Drop to a runtime shell with all the environment variables set that you'd have in lambda.",
+    "githubUrl": "https://github.com/UnitedIncome/serverless-shell"
   }
 ]
