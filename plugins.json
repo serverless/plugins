@@ -373,5 +373,10 @@
     "name": "serverless-shell",
     "description": "Drop to a runtime shell with all the environment variables set that you'd have in lambda.",
     "githubUrl": "https://github.com/UnitedIncome/serverless-shell"
+  },
+  {
+    "name": "serverless-stack-output",
+    "description": "Store output from your AWS CloudFormation Stack in JSON/YAML/TOML files, or to pass it to a JavaScript function for further processing.",
+    "githubUrl": "https://github.com/sbstjn/serverless-stack-output"
   }
 ]
