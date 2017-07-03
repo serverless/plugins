@@ -378,5 +378,10 @@
     "name": "serverless-stack-output",
     "description": "Store output from your AWS CloudFormation Stack in JSON/YAML/TOML files, or to pass it to a JavaScript function for further processing.",
     "githubUrl": "https://github.com/sbstjn/serverless-stack-output"
+  },
+  {
+    "name": "serverless-gulp",
+    "description": "A thin task wrapper around @goserverless that allows you to automate build, test and deploy tasks using gulp",
+    "githubUrl": "https://github.com/rhythminme/serverless-gulp"
   }
 ]
