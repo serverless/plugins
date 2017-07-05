@@ -383,5 +383,10 @@
     "name": "serverless-gulp",
     "description": "A thin task wrapper around @goserverless that allows you to automate build, test and deploy tasks using gulp",
     "githubUrl": "https://github.com/rhythminme/serverless-gulp"
+  },
+  {
+    "name": "serverless-sentry",
+    "description": "Automatic monitoring of memory usage, execution timeouts and forwarding of Lambda errors to Sentry (https://sentry.io).",
+    "githubUrl": "https://github.com/arabold/serverless-sentry-plugin"
   }
 ]
