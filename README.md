@@ -84,6 +84,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Run Function Plugin](https://github.com/lithin/serverless-run-function-plugin)** <br/> Run serverless function locally | [lithin](http://github.com/lithin) | 
 | **[Serverless Sam](https://github.com/SAPessi/serverless-sam)** <br/> Exports an AWS SAM template for a service created with the Serverless Framework. | [SAPessi](http://github.com/SAPessi) | 
 | **[Serverless Scriptable Plugin](https://github.com/weixu365/serverless-scriptable-plugin)** <br/> Customize Serverless behavior without writing a plugin. | [weixu365](http://github.com/weixu365) | 
+| **[Serverless Sentry](https://github.com/arabold/serverless-sentry-plugin)** <br/> Automatic monitoring of memory usage, execution timeouts and forwarding of Lambda errors to Sentry (https://sentry.io). | [arabold](http://github.com/arabold) | 
 | **[Serverless Shell](https://github.com/UnitedIncome/serverless-shell)** <br/> Drop to a runtime shell with all the environment variables set that you'd have in lambda. | [UnitedIncome](http://github.com/UnitedIncome) | 
 | **[Serverless Sqs Alarms Plugin](https://github.com/sbstjn/serverless-sqs-alarms-plugin)** <br/> Wrapper to setup CloudWatch Alarms on SQS queue length | [sbstjn](http://github.com/sbstjn) | 
 | **[Serverless Sqs Fifo](https://github.com/vortarian/serverless-sqs-fifo)** <br/> A serverless plugin to handle creation of sqs fifo queue's in aws (stop-gap) | [vortarian](http://github.com/vortarian) | 
