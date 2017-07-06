@@ -388,5 +388,15 @@
     "name": "serverless-sentry",
     "description": "Automatic monitoring of memory usage, execution timeouts and forwarding of Lambda errors to Sentry (https://sentry.io).",
     "githubUrl": "https://github.com/arabold/serverless-sentry-plugin"
+  },
+  {
+    "name": "serverless-env-generator",
+    "description": "Manage environment variables with YAML and load them with dotenv. Supports variable encryption with KMS, multiple stages and custom profiles.",
+    "githubUrl": "https://github.com/DieProduktMacher/serverless-env-generator"
+  },
+  {
+    "name": "serverless-local-dev-server",
+    "description": "Speeds up development of Alexa Skills, Chatbots and APIs by exposing your functions as local HTTP endpoints and mapping received events.",
+    "githubUrl": "https://github.com/DieProduktMacher/serverless-local-dev-server"
   }
 ]
