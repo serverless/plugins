@@ -10,6 +10,11 @@
     "githubUrl": "https://github.com/amplify-education/serverless-domain-manager"
   },
   {
+    "name": "serverless-log-forwarding",
+    "description": "Serverless plugin for forwarding CloudWatch logs to another Lambda function.",
+    "githubUrl": "https://github.com/amplify-education/serverless-log-forwarding"
+  },
+  {
     "name": "serverless-plugin-external-sns-events",
     "description": "Add ability for functions to use existing or external SNS topics as an event source",
     "githubUrl": "https://github.com/silvermine/serverless-plugin-external-sns-events"
