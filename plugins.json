@@ -403,5 +403,15 @@
     "name": "serverless-local-dev-server",
     "description": "Speeds up development of Alexa Skills, Chatbots and APIs by exposing your functions as local HTTP endpoints and mapping received events.",
     "githubUrl": "https://github.com/DieProduktMacher/serverless-local-dev-server"
+  },
+  {
+    "name": "serverless-plugin-stack-config",
+    "description": "A serverless plugin to manage configurations for a stack across micro-services.",
+    "githubUrl": "https://github.com/rawphp/serverless-plugin-stack-config.git"
+  },
+  {
+    "name": "serverless-plugin-elastic-beanstalk",
+    "description": "A serverless plugin to deploy applications to AWS ElasticBeanstalk.",
+    "githubUrl": "https://github.com/rawphp/serverless-plugin-elastic-beanstalk.git"
   }
 ]
