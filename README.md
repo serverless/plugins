@@ -34,6 +34,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Dotenv](https://github.com/Jimdo/serverless-dotenv)** <br/> Fetch environment variables and write it to a .env file | [Jimdo](http://github.com/Jimdo) | 
 | **[Serverless Dotnet](https://github.com/fruffin/serverless-dotnet)** <br/> A serverless plugin to run 'dotnet' commands as part of the deploy process | [fruffin](http://github.com/fruffin) | 
 | **[Serverless Dynalite](https://github.com/sdd/serverless-dynalite)** <br/> Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates. | [sdd](http://github.com/sdd) | 
+| **[Serverless Dynamodb Autoscaling](https://github.com/sbstjn/serverless-dynamodb-autoscaling)** <br/> Configure Amazon DynamoDB's native Auto Scaling for your table capacities. | [sbstjn](http://github.com/sbstjn) | 
 | **[Serverless Dynamodb Local](https://github.com/99xt/serverless-dynamodb-local)** <br/> Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless | [99xt](http://github.com/99xt) | 
 | **[Serverless Dynamodb Ttl](https://github.com/Jimdo/serverless-dynamodb-ttl)** <br/> Configure DynamoDB TTL in serverless.yml (until CloudFormation supports this). | [Jimdo](http://github.com/Jimdo) | 
 | **[Serverless Enable Api Logs](https://github.com/paulSambolin/serverless-enable-api-logs)** <br/> Enables Coudwatch logging for API Gateway events | [paulSambolin](http://github.com/paulSambolin) | 
