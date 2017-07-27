@@ -423,5 +423,10 @@
     "name": "serverless-dynamodb-autoscaling",
     "description": "Configure Amazon DynamoDB's native Auto Scaling for your table capacities.",
     "githubUrl": "https://github.com/sbstjn/serverless-dynamodb-autoscaling"
+  },
+  {
+    "name": "serverless-plugin-bespoken",
+    "description": "Creates a local server and a proxy so you don't have to deploy anytime you want to test your code",
+    "githubUrl": "https://github.com/bespoken/serverless-plugin-bespoken"
   }
 ]
