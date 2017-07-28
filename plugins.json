@@ -428,5 +428,10 @@
     "name": "serverless-plugin-bespoken",
     "description": "Creates a local server and a proxy so you don't have to deploy anytime you want to test your code",
     "githubUrl": "https://github.com/bespoken/serverless-plugin-bespoken"
+  },
+  {
+    "name": "serverless-s3bucket-sync",
+    "description": "Sync a local folder with a S3 bucket after sls deploy",
+    "githubUrl": "https://github.com/sbstjn/serverless-s3bucket-sync"
   }
 ]
