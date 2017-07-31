@@ -433,5 +433,10 @@
     "name": "serverless-s3bucket-sync",
     "description": "Sync a local folder with a S3 bucket after sls deploy",
     "githubUrl": "https://github.com/sbstjn/serverless-s3bucket-sync"
+  },
+  {
+    "name": "serverless-s3-sync",
+    "description": "A plugin to sync local directories and S3 prefixes for Serverless Framework,",
+    "githubUrl": "https://github.com/k1LoW/serverless-s3-sync"
   }
 ]
