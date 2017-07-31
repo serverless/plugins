@@ -90,6 +90,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Resources Env](https://github.com/rurri/serverless-resources-env)** <br/> After Deploy, this plugin fetches cloudformation resource identifiers and sets them on AWS lambdas, and creates local .<state>-env file | [rurri](http://github.com/rurri) | 
 | **[Serverless Run Function Plugin](https://github.com/lithin/serverless-run-function-plugin)** <br/> Run serverless function locally | [lithin](http://github.com/lithin) | 
 | **[Serverless S3 Remover](https://github.com/sinofseven/serverless-s3-remover)** <br/> A serverless plugin to make s3 buckets empty before deleting cloudformation stack when ```sls remove``` | [sinofseven](http://github.com/sinofseven) | 
+| **[Serverless S3 Sync](https://github.com/k1LoW/serverless-s3-sync)** <br/> A plugin to sync local directories and S3 prefixes for Serverless Framework, | [k1LoW](http://github.com/k1LoW) | 
 | **[Serverless S3bucket Sync](https://github.com/sbstjn/serverless-s3bucket-sync)** <br/> Sync a local folder with a S3 bucket after sls deploy | [sbstjn](http://github.com/sbstjn) | 
 | **[Serverless Sam](https://github.com/SAPessi/serverless-sam)** <br/> Exports an AWS SAM template for a service created with the Serverless Framework. | [SAPessi](http://github.com/SAPessi) | 
 | **[Serverless Scriptable Plugin](https://github.com/weixu365/serverless-scriptable-plugin)** <br/> Customize Serverless behavior without writing a plugin. | [weixu365](http://github.com/weixu365) | 
