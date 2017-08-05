@@ -438,5 +438,10 @@
     "name": "serverless-s3-sync",
     "description": "A plugin to sync local directories and S3 prefixes for Serverless Framework,",
     "githubUrl": "https://github.com/k1LoW/serverless-s3-sync"
+  },
+  {
+    "name": "serverless-nested-stack",
+    "description": "A plugin to Workaround for Cloudformation 200 resource limit",
+    "githubUrl": "https://github.com/jagdish-176/serverless-nested-stack"
   }
 ]
