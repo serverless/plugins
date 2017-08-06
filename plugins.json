@@ -294,7 +294,7 @@
     "description": "Fetch environment variables and write it to a .env file",
     "githubUrl": "https://github.com/Jimdo/serverless-dotenv"
   },
-    {
+  {
     "name": "serverless-hooks-plugin",
     "description": "Run arbitrary commands on any lifecycle event in serverless",
     "githubUrl": "https://github.com/uswitch/serverless-hooks-plugin"
@@ -412,8 +412,7 @@
   {
     "name": "serverless-plugin-elastic-beanstalk",
     "description": "A serverless plugin to deploy applications to AWS ElasticBeanstalk.",
-    "githubUrl": "https://github.com/rawphp/serverless-plugin-elastic-beanstalk
-    "
+    "githubUrl": "https://github.com/rawphp/serverless-plugin-elastic-beanstalk"
   },
   {
     "name": "serverless-s3-remover",
