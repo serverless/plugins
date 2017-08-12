@@ -443,5 +443,25 @@
     "name": "serverless-nested-stack",
     "description": "A plugin to Workaround for Cloudformation 200 resource limit",
     "githubUrl": "https://github.com/jagdish-176/serverless-nested-stack"
+  },
+  {
+    "name": "serverless-plugin-common-excludes",
+    "description": "Adds commonly excluded files to package.excludes",
+    "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-common-excludes"
+  },
+  {
+    "name": "serverless-plugin-custom-domain",
+    "description": "Reliably sets a BasePathMapping to an API Gateway Custom Domain",
+    "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-custom-domain"
+  },
+  {
+    "name": "serverless-plugin-split-stacks",
+    "description": "Migrate certain resources to nested stacks",
+    "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-split-stacks"
+  },
+  {
+    "name": "serverless-plugin-log-subscription",
+    "description": "Adds a CloudWatch LogSubscription for functions",
+    "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-log-subscription"
   }
 ]
