@@ -463,5 +463,10 @@
     "name": "serverless-plugin-log-subscription",
     "description": "Adds a CloudWatch LogSubscription for functions",
     "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-log-subscription"
+  },
+  {
+    "name": "serverless-cf-vars",
+    "description": "Enables use of AWS pseudo functions and Fn::Sub string substitution",
+    "githubUrl": "https://gitlab.com/kabo/serverless-cf-vars"
   }
 ]
