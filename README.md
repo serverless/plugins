@@ -25,6 +25,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Aws Alias](https://github.com/HyperBrain/serverless-aws-alias)** <br/> This plugin enables use of AWS aliases on Lambda functions. | [HyperBrain](http://github.com/HyperBrain) | 
 | **[Serverless Aws Documentation](https://github.com/9cookies/serverless-aws-documentation)** <br/> Serverless plugin to add documentation and models to the serverless generated API Gateway | [9cookies](http://github.com/9cookies) | 
 | **[Serverless Build Plugin](https://github.com/nfour/serverless-build-plugin)** <br/> A Node.js focused build plugin for serverless. | [nfour](http://github.com/nfour) | 
+| **[Serverless Cf Vars](https://gitlab.com/kabo/serverless-cf-vars)** <br/> Enables use of AWS pseudo functions and Fn::Sub string substitution | [kabo](http://github.com/kabo) | 
 | **[Serverless Cljs Plugin](https://github.com/nervous-systems/serverless-cljs-plugin)** <br/> Enables Clojurescript as an implementation language for Lambda handlers | [nervous-systems](http://github.com/nervous-systems) | 
 | **[Serverless Coffeescript](https://github.com/duanefields/serverless-coffeescript)** <br/> A Serverless plugin to compile your CoffeeScript into JavaScript at deployment | [duanefields](http://github.com/duanefields) | 
 | **[Serverless Command Line Event Args](https://github.com/horike37/serverless-command-line-event-args)** <br/> This module is Serverless Framework plugin. Event JSON passes to your Lambda function in commandline. | [horike37](http://github.com/horike37) | 
