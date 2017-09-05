@@ -473,5 +473,10 @@
     "name": "serverless-cf-vars",
     "description": "Enables use of AWS pseudo functions and Fn::Sub string substitution",
     "githubUrl": "https://gitlab.com/kabo/serverless-cf-vars"
+  },
+  {
+    "name": "serverless-apigateway-plugin",
+    "description": "Configure the AWS api gateway: Binary support, Headers and Body template mappings",
+    "githubUrl": "https://github.com/GFG/serverless-apigateway-plugin"
   }
 ]
