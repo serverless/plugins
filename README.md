@@ -110,7 +110,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Serverless Step Functions](https://github.com/horike37/serverless-step-functions)** <br/> AWS Step Functions with Serverless Framework. | [horike37](http://github.com/horike37) | 
 | **[Serverless Subscription Filter](https://github.com/blackevil245/serverless-subscription-filter)** <br/> Serverless plugin to register subscription filter for Lambda logs. Register and pipe the logs of one lambda to another to process. | [blackevil245](http://github.com/blackevil245) | 
 | **[Serverless Vpc Discovery](https://github.com/amplify-education/serverless-vpc-discovery)** <br/> Serverless plugin for discovering VPC / Subnet / Security Group configuration by name. | [amplify-education](http://github.com/amplify-education) | 
-| **[Serverless Webpack](https://github.com/elastic-coders/serverless-webpack)** <br/> Serverless plugin to bundle your lambdas with Webpack | [elastic-coders](http://github.com/elastic-coders) | 
+| **[Serverless Webpack](https://github.com/serverless-heaven/serverless-webpack)** <br/> Serverless plugin to bundle your lambdas with Webpack | [serverless-heaven](http://github.com/serverless-heaven) | 
 | **[Serverless Wsgi](https://github.com/logandk/serverless-wsgi)** <br/> Serverless plugin to deploy WSGI applications (Flask/Django/Pyramid etc.) and bundle Python packages | [logandk](http://github.com/logandk) |
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END - Do not remove or modify this section. Make all updates to plugins.json -->
 
