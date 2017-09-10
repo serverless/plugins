@@ -142,7 +142,7 @@
   {
     "name": "serverless-webpack",
     "description": "Serverless plugin to bundle your lambdas with Webpack",
-    "githubUrl": "https://github.com/elastic-coders/serverless-webpack"
+    "githubUrl": "https://github.com/serverless-heaven/serverless-webpack"
   },
   {
     "name": "serverless-wsgi",
