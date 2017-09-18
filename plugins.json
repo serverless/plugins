@@ -493,5 +493,10 @@
     "name": "serverless-plugin-offline-kinesis-events",
     "description": "Plugin that works with serverless-offline to allow offline testing of serverless functions that are triggered by Kinesis events.",
     "githubUrl": "https://github.com/DopplerLabs/serverless-plugin-offline-kinesis-events"
+  },
+  {
+    "name": "serverless-micro",
+    "description": "Plugin to help manage multiple micro services under one main service.",
+    "githubUrl": "https://github.com/barstoolsports/serverless-micro"
   }
 ]
