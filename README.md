@@ -18,7 +18,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 |:---------------------------|:---------:|
 | **[Raml Serverless](https://github.com/andrewcurioso/raml-serverless)** <br/> Serverless plugin to work with RAML API spec documents | [andrewcurioso](http://github.com/andrewcurioso) | 
 | **[Serverless Alexa Plugin](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
-| **[Serverless Api Cloudfront](https://github.com/Droplr/serverless-api-cloudfront)** <br/> Plugin that adds CloudFront distribution in front of your API Gateway. | [Droplr](http://github.com/Droplr) | 
+| **[Serverless Api Cloudfront](https://github.com/Droplr/serverless-api-cloudfront)** <br/> Plugin that adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log. | [Droplr](http://github.com/Droplr) | 
 | **[Serverless Api Stage](https://github.com/leftclickben/serverless-api-stage)** <br/> Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway. | [leftclickben](http://github.com/leftclickben) | 
 | **[Serverless Apig S3](https://github.com/sdd/serverless-apig-s3)** <br/> Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3. | [sdd](http://github.com/sdd) | 
 | **[Serverless Apigateway Plugin](https://github.com/GFG/serverless-apigateway-plugin)** <br/> Configure the AWS api gateway: Binary support, Headers and Body template mappings | [GFG](http://github.com/GFG) | 

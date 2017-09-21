@@ -501,7 +501,7 @@
   },
   {
     "name": "serverless-api-cloudfront",
-    "description": "Plugin that adds CloudFront distribution in front of your API Gateway.",
+    "description": "Plugin that adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log.",
     "githubUrl": "https://github.com/Droplr/serverless-api-cloudfront"
   }
 ]
