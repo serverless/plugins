@@ -498,5 +498,10 @@
     "name": "serverless-micro",
     "description": "Plugin to help manage multiple micro services under one main service.",
     "githubUrl": "https://github.com/barstoolsports/serverless-micro"
+  },
+  {
+    "name": "serverless-api-cloudfront",
+    "description": "Plugin that adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log.",
+    "githubUrl": "https://github.com/Droplr/serverless-api-cloudfront"
   }
 ]
