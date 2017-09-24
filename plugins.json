@@ -503,5 +503,10 @@
     "name": "serverless-api-cloudfront",
     "description": "Plugin that adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log.",
     "githubUrl": "https://github.com/Droplr/serverless-api-cloudfront"
+  },
+  {
+    "name": "serverless-localstack-sns",
+    "description": "Serverless plugin to listen to localstack SNS and call serverless functions with the events.",
+    "githubUrl": "https://github.com/mj1618/serverless-localstack-sns"
   }
 ]
