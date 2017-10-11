@@ -508,10 +508,5 @@
     "name": "serverless-offline-sns",
     "description": "Serverless plugin to run a local SNS server and call serverless SNS handlers with events notifications.",
     "githubUrl": "https://github.com/mj1618/serverless-offline-sns"
-  },
-  {
-    "name": "serverless-pseudo-parameters",
-    "description": "Use CloudFormation Pseudo Parameters in your Serverless project",
-    "githubUrl": "https://github.com/svdgraaf/serverless-pseudo-parameters"
   }
 ]
