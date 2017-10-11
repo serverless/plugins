@@ -6,6 +6,8 @@ const url = require('url')
 const path = require('path')
 const markdownMagic = require('markdown-magic')
 
+const commonPartRe = /(?:(?:^|-)serverless-plugin(?:-|$))|(?:(?:^|-)serverless(?:-|$))/;
+
 const config = {
   transforms: {
     /*
@@ -21,11 +23,14 @@ const config = {
        md += '|:---------------------------|:---------:|\n'
 
       plugins.sort(function (a, b) {
-          return a.name < b.name ? -1 : 1;
+        const aName = a.name.toLowerCase();
+        const bName = b.name.toLowerCase();
+        return aName.replace(commonPartRe, '').localeCompare(bName.replace(commonPartRe, '')) ||
+          aName.localeCompare(bName);
       }).forEach(function(data) {
           const userName = username(data.githubUrl)
           const profileURL = `http://github.com/${userName}`
-          md += `| **[${formatPluginName(data.name)}](${data.githubUrl})** <br/>`
+          md += `| **[${formatPluginName(data.name)} - \`${data.name.toLowerCase()}\`](${data.githubUrl})** <br/>`
           md += ` ${data.description} | [${userName}](${profileURL}) | \n`
       });
       return md.replace(/^\s+|\s+$/g, '')
@@ -50,7 +55,7 @@ function username(repo) {
 }
 
 function formatPluginName (string) {
-  return toTitleCase(string.replace(/-/g, ' '))
+  return toTitleCase(string.toLowerCase().replace(commonPartRe, '').replace(/-/g, ' '))
 }
 
 function toTitleCase(str) {
