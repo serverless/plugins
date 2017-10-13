@@ -508,5 +508,10 @@
     "name": "serverless-offline-sns",
     "description": "Serverless plugin to run a local SNS server and call serverless SNS handlers with events notifications.",
     "githubUrl": "https://github.com/mj1618/serverless-offline-sns"
+  },
+  {
+    "name": "serverless-plugin-api-docs",
+    "description": "Serverless plugin to automatically create a lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.",
+    "githubUrl": "https://github.com/8select/serverless-plugin-api-docs"
   }
 ]
