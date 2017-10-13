@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-ssm-fetch",
+    "description": "Sets \"AWS Systems Manager Parameter Store (SSM)\" parameters into functions' environment variables.",
+    "githubUrl": "https://github.com/gozup/serverless-ssm-fetch"
+  },
+  {
     "name": "serverless-custom-packaging-plugin",
     "description": "Plugin to package your sourcecode using a custom target path inside the zip.",
     "githubUrl": "https://github.com/hypoport/serverless-custom-packaging-plugin"
