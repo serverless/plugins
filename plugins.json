@@ -316,7 +316,7 @@
   },
   {
     "name": "serverless-apig-s3",
-    "description": "Serve static front-end content from S3 via the API Gatewy and deploy client bundle to S3.",
+    "description": "Serve static front-end content from S3 via the API Gateway and deploy client bundle to S3.",
     "githubUrl": "https://github.com/sdd/serverless-apig-s3"
   },
   {
@@ -518,10 +518,13 @@
     "name": "serverless-plugin-api-docs",
     "description": "Serverless plugin to automatically create a lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.",
     "githubUrl": "https://github.com/8select/serverless-plugin-api-docs"
-  },
-  {
+  }, {
     "name": "serverless-stage-manager",
     "description": "Super simple Serverless plugin for validating stage names before deployment",
     "githubUrl": "https://github.com/jeremydaly/serverless-stage-manager"
+  }, {
+    "name": "serverless-spa",
+    "description": "Serverless plugin to deploy your website to AWS S3 using Webpack to bundle it.",
+    "githubUrl": "https://github.com/gilmarsquinelato/serverless-spa"
   }
 ]
