@@ -526,5 +526,13 @@
     "name": "serverless-spa",
     "description": "Serverless plugin to deploy your website to AWS S3 using Webpack to bundle it.",
     "githubUrl": "https://github.com/gilmarsquinelato/serverless-spa"
+  }, {
+    "name": "serverless-aws-nested-stacks",
+    "description": "Yet another AWS nested stack plugin!",
+    "githubUrl": "https://github.com/concon121/serverless-plugin-nested-stacks"
+  }, {
+    "name": "serverless-aws-resource-names",
+    "description": "Serverless plugin to alter the default naming conventions for sls resources via a simple mapping file.",
+    "githubUrl": "https://github.com/concon121/serverless-plugin-aws-resource-names"
   }
 ]
