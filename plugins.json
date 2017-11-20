@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-plugin-chrome",
+    "description": "Plugin which bundles and ensures that Headless Chrome/Chromium is running when your AWS Lambda function handler is invoked.",
+    "githubUrl": "https://github.com/adieuadieu/serverless-chrome/tree/master/packages/serverless-plugin"
+  },
+  {
     "name": "serverless-ssm-fetch",
     "description": "Sets \"AWS Systems Manager Parameter Store (SSM)\" parameters into functions' environment variables.",
     "githubUrl": "https://github.com/gozup/serverless-ssm-fetch"
@@ -518,19 +523,23 @@
     "name": "serverless-plugin-api-docs",
     "description": "Serverless plugin to automatically create a lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.",
     "githubUrl": "https://github.com/8select/serverless-plugin-api-docs"
-  }, {
+  },
+  {
     "name": "serverless-stage-manager",
     "description": "Super simple Serverless plugin for validating stage names before deployment",
     "githubUrl": "https://github.com/jeremydaly/serverless-stage-manager"
-  }, {
+  },
+  {
     "name": "serverless-spa",
     "description": "Serverless plugin to deploy your website to AWS S3 using Webpack to bundle it.",
     "githubUrl": "https://github.com/gilmarsquinelato/serverless-spa"
-  }, {
+  },
+  {
     "name": "serverless-aws-nested-stacks",
     "description": "Yet another AWS nested stack plugin!",
     "githubUrl": "https://github.com/concon121/serverless-plugin-nested-stacks"
-  }, {
+  },
+  {
     "name": "serverless-aws-resource-names",
     "description": "Serverless plugin to alter the default naming conventions for sls resources via a simple mapping file.",
     "githubUrl": "https://github.com/concon121/serverless-plugin-aws-resource-names"
