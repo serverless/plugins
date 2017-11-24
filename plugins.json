@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-alexa-skills",
+    "description": "Manage your Alexa Skills with Serverless Framework.",
+    "githubUrl": "https://github.com/marcy-terui/serverless-alexa-skills"
+  },
+  {
     "name": "serverless-plugin-chrome",
     "description": "Plugin which bundles and ensures that Headless Chrome/Chromium is running when your AWS Lambda function handler is invoked.",
     "githubUrl": "https://github.com/adieuadieu/serverless-chrome/tree/master/packages/serverless-plugin"

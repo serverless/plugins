@@ -17,6 +17,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | Plugin | Author |
 |:---------------------------|:---------:|
 | **[Alexa Plugin - `serverless-alexa-plugin`](https://github.com/rajington/serverless-alexa-plugin)** <br/> Serverless plugin to support Alexa Lambda events | [rajington](http://github.com/rajington) | 
+| **[Alexa Skills - `serverless-alexa-skills`](https://github.com/marcy-terui/serverless-alexa-skills)** <br/> Manage your Alexa Skills with Serverless Framework. | [marcy-terui](http://github.com/marcy-terui) | 
 | **[Api Cloudfront - `serverless-api-cloudfront`](https://github.com/Droplr/serverless-api-cloudfront)** <br/> Plugin that adds CloudFront distribution in front of your API Gateway for custom domain, CDN caching and access log. | [Droplr](http://github.com/Droplr) | 
 | **[Api Docs - `serverless-plugin-api-docs`](https://github.com/8select/serverless-plugin-api-docs)** <br/> Serverless plugin to automatically create a lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file. | [8select](http://github.com/8select) | 
 | **[Api Stage - `serverless-api-stage`](https://github.com/leftclickben/serverless-api-stage)** <br/> Serverless API Stage plugin, enables stage variables and logging for AWS API Gateway. | [leftclickben](http://github.com/leftclickben) | 
