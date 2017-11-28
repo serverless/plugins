@@ -548,5 +548,10 @@
     "name": "serverless-aws-resource-names",
     "description": "Serverless plugin to alter the default naming conventions for sls resources via a simple mapping file.",
     "githubUrl": "https://github.com/concon121/serverless-plugin-aws-resource-names"
+  },
+  {
+    "name": "serverless-attach-managed-policy",
+    "description": "A Serverless plugin to automatically attach an AWS Managed IAM Policy (or Policies) to all IAM Roles created by the Service.",
+    "githubUrl": "https://github.com/Nordstrom/serverless-attach-managed-policy"
   }
 ]
