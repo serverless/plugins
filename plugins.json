@@ -553,5 +553,25 @@
     "name": "serverless-attach-managed-policy",
     "description": "A Serverless plugin to automatically attach an AWS Managed IAM Policy (or Policies) to all IAM Roles created by the Service.",
     "githubUrl": "https://github.com/Nordstrom/serverless-attach-managed-policy"
+  },
+  {
+    "name": "serverless-plugin-reducer",
+    "description": "Reduce Node.js lambda package so it contains only lambda dependencies",
+    "githubUrl": "https://github.com/medikoo/serverless-plugin-reducer"
+  },
+  {
+    "name": "serverless-plugin-transpiler",
+    "description": "Transpile lambda files during packaging step",
+    "githubUrl": "https://github.com/medikoo/serverless-plugin-transpiler"
+  },
+  {
+    "name": "serverless-plugin-dynamodb-autoscaling",
+    "description": "Auto generate auto scaling configuration for configured DynamoDB tables",
+    "githubUrl": "https://github.com/medikoo/serverless-plugin-dynamodb-autoscaling"
+  },
+  {
+    "name": "serverless-plugin-vpc-eni-cleanup",
+    "description": "Automatic cleanup of VPC network interfaces on stage removal",
+    "githubUrl": "https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup"
   }
 ]
