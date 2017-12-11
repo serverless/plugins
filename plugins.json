@@ -578,5 +578,15 @@
     "name": "serverless-plugin-vpc-eni-cleanup",
     "description": "Automatic cleanup of VPC network interfaces on stage removal",
     "githubUrl": "https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup"
+  },
+  {
+    "name": "serverless-plugin-tracer",
+    "description": "Trace serverless hooks as they execute",
+    "githubUrl": "https://github.com/enykeev/serverless-plugin-tracer/"
+  },
+  {
+    "name": "serverless-plugin-stackstorm",
+    "description": "Reusable Functions from StackStorm Exchange",
+    "githubUrl": "https://github.com/StackStorm/serverless-plugin-stackstorm"
   }
 ]
