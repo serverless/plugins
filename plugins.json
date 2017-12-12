@@ -578,5 +578,10 @@
     "name": "serverless-plugin-vpc-eni-cleanup",
     "description": "Automatic cleanup of VPC network interfaces on stage removal",
     "githubUrl": "https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup"
+  },
+  {
+    "name": "serverless-iot-local",
+    "description": "AWS Iot events with serverless-offline",
+    "githubUrl": "https://github.com/tradle/serverless-iot-local"
   }
 ]
