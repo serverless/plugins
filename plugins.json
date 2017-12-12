@@ -580,6 +580,16 @@
     "githubUrl": "https://github.com/medikoo/serverless-plugin-vpc-eni-cleanup"
   },
   {
+    "name": "serverless-plugin-tracer",
+    "description": "Trace serverless hooks as they execute",
+    "githubUrl": "https://github.com/enykeev/serverless-plugin-tracer/"
+  },
+  {
+    "name": "serverless-plugin-stackstorm",
+    "description": "Reusable Functions from StackStorm Exchange",
+    "githubUrl": "https://github.com/StackStorm/serverless-plugin-stackstorm"
+  },
+  {
     "name": "serverless-iot-local",
     "description": "AWS Iot events with serverless-offline",
     "githubUrl": "https://github.com/tradle/serverless-iot-local"
