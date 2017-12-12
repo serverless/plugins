@@ -588,5 +588,10 @@
     "name": "serverless-plugin-stackstorm",
     "description": "Reusable Functions from StackStorm Exchange",
     "githubUrl": "https://github.com/StackStorm/serverless-plugin-stackstorm"
+  },
+  {
+    "name": "serverless-iot-local",
+    "description": "AWS Iot events with serverless-offline",
+    "githubUrl": "https://github.com/tradle/serverless-iot-local"
   }
 ]
