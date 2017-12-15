@@ -593,5 +593,10 @@
     "name": "serverless-iot-local",
     "description": "AWS Iot events with serverless-offline",
     "githubUrl": "https://github.com/tradle/serverless-iot-local"
+  },
+  {
+    "name": "serverless-sns-filter",
+    "description": "Serverless plugin to add SNS Subscription Filters to events",
+    "githubUrl": "https://github.com/MechanicalRock/serverless-sns-filter"
   }
 ]
