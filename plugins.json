@@ -598,5 +598,10 @@
     "name": "serverless-sns-filter",
     "description": "Serverless plugin to add SNS Subscription Filters to events",
     "githubUrl": "https://github.com/MechanicalRock/serverless-sns-filter"
-  }
+  },
+  {
+    "name": "serverless-reqvalidator-plugin",
+    "description": "Serverless plugin to add request validator to API Gateway methods",
+    "githubUrl": "https://github.com/RafPe/serverless-reqvalidator-plugin"
+  }  
 ]
