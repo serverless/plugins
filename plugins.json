@@ -603,5 +603,10 @@
     "name": "serverless-reqvalidator-plugin",
     "description": "Serverless plugin to add request validator to API Gateway methods",
     "githubUrl": "https://github.com/RafPe/serverless-reqvalidator-plugin"
-  }  
+  },
+  {
+    "name": "serverless-ephemeral",
+    "description": "Build and include custom stateless libraries for any language",
+    "githubUrl": "https://github.com/Accenture/serverless-ephemeral"
+  }
 ]
