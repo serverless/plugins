@@ -608,5 +608,10 @@
     "name": "serverless-ephemeral",
     "description": "Build and include custom stateless libraries for any language",
     "githubUrl": "https://github.com/Accenture/serverless-ephemeral"
+  },
+  {
+    "name": "serverless-s3-encryption",
+    "description": "Set or remove the encryption settings on your s3 buckets",
+    "githubUrl": "https://github.com/tradle/serverless-s3-encryption"
   }
 ]
