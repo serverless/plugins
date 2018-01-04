@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-cloudformation-parameter-setter",
+    "description": "Set CloudFormation parameters when deploying.",
+    "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-parameter-setter"
+  },
+  {
     "name": "serverless-alexa-skills",
     "description": "Manage your Alexa Skills with Serverless Framework.",
     "githubUrl": "https://github.com/marcy-terui/serverless-alexa-skills"
