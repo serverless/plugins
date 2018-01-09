@@ -615,6 +615,11 @@
     "githubUrl": "https://github.com/Accenture/serverless-ephemeral"
   },
   {
+    "name": "serverless-content-encoding",
+    "description": "Enable Content Encoding in AWS API Gateway during deployment",
+    "githubUrl": "https://github.com/xeno-dohai/serverless-content-encoding"
+  },
+  {
     "name": "serverless-s3-encryption",
     "description": "Set or remove the encryption settings on your s3 buckets",
     "githubUrl": "https://github.com/tradle/serverless-s3-encryption"
