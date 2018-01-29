@@ -633,5 +633,10 @@
     "name": "serverless-plugin-provider-groups",
     "description": "A plugin to allow management of grouped settings within large serverless projects.",
     "githubUrl": "https://github.com/loanmarket/serverless-plugin-provider-groups"
+  },
+  {
+    "name": "serverless-cloudformation-resource-counter",
+    "description": "A plugin to count the resources generated in the AWS CloudFormation stack after deployment.",
+    "githubUrl": "https://github.com/drexler/serverless-cloudformation-resource-counter"
   }
 ]
