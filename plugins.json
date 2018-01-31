@@ -325,6 +325,11 @@
     "githubUrl": "https://github.com/Jimdo/serverless-dotenv"
   },
   {
+    "name": "serverless-haskell",
+    "description": "Deploying Haskell applications to AWS Lambda with Serverless",
+    "githubUrl": "https://github.com/seek-oss/serverless-haskell"
+  },
+  {
     "name": "serverless-hooks-plugin",
     "description": "Run arbitrary commands on any lifecycle event in serverless",
     "githubUrl": "https://github.com/uswitch/serverless-hooks-plugin"
