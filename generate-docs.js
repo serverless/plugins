@@ -19,8 +19,8 @@ const config = {
     GENERATE_SERVERLESS_PLUGIN_TABLE: function(content, options) {
       const commandsFile = path.join(__dirname, 'plugins.json')
       const plugins = JSON.parse(fs.readFileSync(commandsFile, 'utf8'))
-      let md =  '| Plugin | Author | Stats |\n'
-       md += '|:---------------------------|:---------:|:-----------:|\n'
+      let md =  '| Plugin | Stats |\n'
+       md += '|:---------------------------|:-----------:|\n'
 
       plugins.sort(function (a, b) {
         const aName = a.name.toLowerCase();
@@ -31,9 +31,9 @@ const config = {
           const userName = username(data.githubUrl)
           const profileURL = `http://github.com/${userName}`
           const repoName = data.githubUrl.split('.com/')[1];
-          md += `| **[${formatPluginName(data.name)} - \`${data.name.toLowerCase()}\`](${data.githubUrl})** <br/>`
-          md += ` ${data.description} | [${userName}](${profileURL}) | `
-          md += `![Github Stars](https://img.shields.io/github/stars/${repoName}.svg?style=social&label=Stars&style=flat-square) <br/> ![NPM Downloads](https://img.shields.io/npm/dt/${data.name}.svg?label=Downloads)|\n`
+          md += `| **[${formatPluginName(data.name)} - \`${data.name.toLowerCase()}\`](${data.githubUrl})** <br/> by [${userName}](${profileURL}) <br/>`
+          md += ` ${data.description} | `
+          md += `![Github Stars](https://img.shields.io/github/stars/${repoName}.svg?label=Stars&style=for-the-badge) <br/> ![NPM Downloads](https://img.shields.io/npm/dt/${data.name}.svg?label=Downloads&style=for-the-badge)|\n`
       });
       return md.replace(/^\s+|\s+$/g, '')
     }
