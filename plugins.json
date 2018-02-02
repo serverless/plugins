@@ -643,5 +643,10 @@
     "name": "serverless-cloudformation-resource-counter",
     "description": "A plugin to count the resources generated in the AWS CloudFormation stack after deployment.",
     "githubUrl": "https://github.com/drexler/serverless-cloudformation-resource-counter"
+  },
+  {
+    "name": "serverless-iam-roles-per-function",
+    "description": "Serverless Plugin for easily defining IAM roles per function via the use of iamRoleStatements at the function level.",
+    "githubUrl": "https://github.com/functionalone/serverless-iam-roles-per-function"
   }
 ]
