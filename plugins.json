@@ -653,5 +653,10 @@
     "name": "serverless-functions-base-path",
     "description": "Easily define a base path where your serverless functions are located.",
     "githubUrl": "https://github.com/kevinrambaud/serverless-functions-base-path"
+  },
+  {
+    "name": "serverless-static",
+    "description": "Easily serve files from a folder while developing on localhost with the serverless-offline plugin",
+    "githubUrl": "https://github.com/iliasbhal/serverless-static"
   }
 ]
