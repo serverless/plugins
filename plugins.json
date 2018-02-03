@@ -653,5 +653,10 @@
     "name": "serverless-functions-base-path",
     "description": "Easily define a base path where your serverless functions are located.",
     "githubUrl": "https://github.com/kevinrambaud/serverless-functions-base-path"
+  },
+  {
+    "name": "serverless-iam-roles-per-function",
+    "description": "Plugin for easily defining IAM roles per function via the use of iamRoleStatements at the function level.",
+    "githubUrl": "https://github.com/functionalone/serverless-iam-roles-per-function"
   }
 ]
