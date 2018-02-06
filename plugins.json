@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-appsync-plugin",
+    "description": "Serverless Plugin to deploy AppSync GraphQL API",
+    "githubUrl": "https://github.com/sid88in/serverless-appsync-plugin"
+  },
+  {
     "name": "serverless-cloudformation-parameter-setter",
     "description": "Set CloudFormation parameters when deploying.",
     "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-parameter-setter"
