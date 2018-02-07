@@ -665,6 +665,11 @@
     "githubUrl": "https://github.com/kevinrambaud/serverless-functions-base-path"
   },
   {
+    "name": "serverless-static",
+    "description": "Easily serve files from a folder while developing on localhost with the serverless-offline plugin",
+    "githubUrl": "https://github.com/iliasbhal/serverless-static"
+  },
+  {
     "name": "serverless-plugin-node-shim",
     "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
