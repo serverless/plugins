@@ -673,5 +673,10 @@
     "name": "serverless-plugin-node-shim",
     "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
+  },
+  {
+    "name": "serverless-local-environment",
+    "description": "Serverless plugin to set local environment variables and remote environment variable to different values",
+    "githubUrl": "https://github.com/piercus/serverless-local-environment"
   }
 ]
