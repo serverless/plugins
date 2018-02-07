@@ -390,6 +390,11 @@
     "githubUrl": "https://github.com/iopipe/serverless-plugin-iopipe"
   },
   {
+    "name": "serverless-plugin-metric",
+    "description": "Creates dynamically AWS metric-filter resources with custom patterns",
+    "githubUrl": "https://github.com/alex20465/serverless-plugin-metric"
+  },
+  {
     "name": "serverless-sam",
     "description": "Exports an AWS SAM template for a service created with the Serverless Framework.",
     "githubUrl": "https://github.com/SAPessi/serverless-sam"
