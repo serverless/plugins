@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-appsync-plugin",
+    "description": "Serverless Plugin to deploy AppSync GraphQL API",
+    "githubUrl": "https://github.com/sid88in/serverless-appsync-plugin"
+  },
+  {
     "name": "serverless-cloudformation-parameter-setter",
     "description": "Set CloudFormation parameters when deploying.",
     "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-parameter-setter"
@@ -385,6 +390,11 @@
     "githubUrl": "https://github.com/iopipe/serverless-plugin-iopipe"
   },
   {
+    "name": "serverless-plugin-metric",
+    "description": "Creates dynamically AWS metric-filter resources with custom patterns",
+    "githubUrl": "https://github.com/alex20465/serverless-plugin-metric"
+  },
+  {
     "name": "serverless-sam",
     "description": "Exports an AWS SAM template for a service created with the Serverless Framework.",
     "githubUrl": "https://github.com/SAPessi/serverless-sam"
@@ -658,5 +668,10 @@
     "name": "serverless-static",
     "description": "Easily serve files from a folder while developing on localhost with the serverless-offline plugin",
     "githubUrl": "https://github.com/iliasbhal/serverless-static"
+  },
+  {
+    "name": "serverless-plugin-node-shim",
+    "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
+    "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
   }
 ]
