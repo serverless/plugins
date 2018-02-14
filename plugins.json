@@ -673,5 +673,10 @@
     "name": "serverless-plugin-node-shim",
     "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
+  },
+  {
+    "name": "serverless-sthree-env",
+    "description": "Serverless plugin to get config from a json formatted file in S3 and copy them to environment variable",
+    "githubUrl": "https://github.com/StyleTributeIT/serverless-sthree-env"
   }
 ]
