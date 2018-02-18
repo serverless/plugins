@@ -673,5 +673,10 @@
     "name": "serverless-plugin-node-shim",
     "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
+  },
+  {
+    "name": "serverless-cloudformation-sub-variables",
+    "description": "Serverless framework plugin for easily supporting AWS CloudFormation Sub function variables",
+    "githubUrl": "https://github.com/santiagocardenas/serverless-cloudformation-sub-variables"
   }
 ]
