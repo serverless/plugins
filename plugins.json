@@ -673,5 +673,10 @@
     "name": "serverless-plugin-node-shim",
     "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
+  },
+  {
+    "name": "serverless-plugin-canary-deployments",
+    "description": "A Serverless plugin to implement canary deployments of Lambda functions",
+    "githubUrl": "https://github.com/davidgf/serverless-plugin-canary-deployments"
   }
 ]
