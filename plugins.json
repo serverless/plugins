@@ -683,5 +683,10 @@
     "name": "serverless-plugin-canary-deployments",
     "description": "A Serverless plugin to implement canary deployments of Lambda functions",
     "githubUrl": "https://github.com/davidgf/serverless-plugin-canary-deployments"
+  },
+  {
+    "name": "serverless-go-build",
+    "description": "Build go source files (or public functions) using yml definition file",
+    "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
   }
 ]
