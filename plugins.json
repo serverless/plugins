@@ -680,6 +680,11 @@
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
   },
   {
+    "name": "serverless-local-environment",
+    "description": "Serverless plugin to set local environment variables and remote environment variable to different values",
+    "githubUrl": "https://github.com/piercus/serverless-local-environment"
+  },
+  {
     "name": "serverless-cloudformation-sub-variables",
     "description": "Serverless framework plugin for easily supporting AWS CloudFormation Sub function variables",
     "githubUrl": "https://github.com/santiagocardenas/serverless-cloudformation-sub-variables"
