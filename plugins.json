@@ -680,6 +680,11 @@
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
   },
   {
+    "name": "serverless-sthree-env",
+    "description": "Serverless plugin to get config from a json formatted file in S3 and copy them to environment variable",
+    "githubUrl": "https://github.com/StyleTributeIT/serverless-sthree-env"
+  },
+  {
     "name": "serverless-plugin-canary-deployments",
     "description": "A Serverless plugin to implement canary deployments of Lambda functions",
     "githubUrl": "https://github.com/davidgf/serverless-plugin-canary-deployments"
