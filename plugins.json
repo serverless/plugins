@@ -680,6 +680,11 @@
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim"
   },
   {
+    "name": "serverless-cloudformation-sub-variables",
+    "description": "Serverless framework plugin for easily supporting AWS CloudFormation Sub function variables",
+    "githubUrl": "https://github.com/santiagocardenas/serverless-cloudformation-sub-variables"
+  },
+  {
     "name": "serverless-sthree-env",
     "description": "Serverless plugin to get config from a json formatted file in S3 and copy them to environment variable",
     "githubUrl": "https://github.com/StyleTributeIT/serverless-sthree-env"
