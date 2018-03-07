@@ -703,5 +703,10 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
+  },
+  {
+    "name": "go-serverless",
+    "description": "GoFormation for Serverless. Create serverless configs with Go Structs.",
+    "githubUrl": "https://github.com/thepauleh/goserverless"
   }
 ]
