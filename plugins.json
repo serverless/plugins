@@ -703,5 +703,10 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
+  },
+  {
+    "name": "serverless-local-schedule",
+    "description": "Schedule AWS CloudWatch Event based invocations in local time(with DST support!)",
+    "githubUrl": "https://github.com/UnitedIncome/serverless-local-schedule"
   }
 ]
