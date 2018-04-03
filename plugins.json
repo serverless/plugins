@@ -703,5 +703,10 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
+  },
+  {
+    "name": "serverless-package-common",
+    "description": "Deploy microservice Python Serverless services with common code",
+    "githubUrl": "https://github.com/onlicar/serverless-package-common"
   }
 ]
