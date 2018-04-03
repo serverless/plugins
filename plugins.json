@@ -703,5 +703,10 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
+  },
+  {
+    "name": "serverless-apib-validator",
+    "description": "Validate that an API Blueprint has full coverage over a Serverless config",
+    "githubUrl": "https://github.com/onlicar/serverless-apib-validator"
   }
 ]
