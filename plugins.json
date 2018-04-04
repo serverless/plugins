@@ -703,5 +703,20 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
-  }
+  },
+  {
+    "name": "serverless-tag-api-gateway",
+    "description": "Serverless plugin to tag API Gateway",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-api-gateway"
+  },
+  {
+    "name": "serverless-tag-cloud-watch-logs",
+    "description": "Serverless plugin to tag CloudWatchLogs",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
+  },
+  {
+    "name": "serverless-tag-sqs",
+    "description": "Serverless plugin to tag SQS - Simple Queue Service",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-sqs"
+  }  
 ]
