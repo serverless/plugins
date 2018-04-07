@@ -706,7 +706,7 @@
   },
   {
     "name": "serverless-express",
-    "description": "Make express apps compatible with serverless framework.",
+    "description": "Making express app development compatible with serverless framework.",
     "githubUrl": "https://github.com/mikestaub/serverless-express"
   }
 ]
