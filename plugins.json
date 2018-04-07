@@ -703,5 +703,10 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
+  },
+  {
+    "name": "serverless-express",
+    "description": "Make express apps compatible with serverless framework.",
+    "githubUrl": "https://github.com/mikestaub/serverless-express"
   }
 ]
