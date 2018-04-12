@@ -125,6 +125,11 @@
     "githubUrl": "https://github.com/janders223/serverless-offline-ssm"
   },
   {
+    "name": "serverless-offline-direct-lambda",
+    "description": "Allow offline direct lambda-to-lambda interactions by exposing lambdas with no API Gateway event via HTTP.",
+    "githubUrl": "https://github.com/civicteam/serverless-offline-direct-lambda"
+  },
+  {
     "name": "serverless-plugin-simulate",
     "description": "Simulate AWS Lambda and API Gateway locally using Docker",
     "githubUrl": "https://github.com/gertjvr/serverless-plugin-simulate"
