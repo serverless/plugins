@@ -724,16 +724,6 @@
     "description": "GoFormation for Serverless. Create serverless configs with Go Structs.",
     "githubUrl": "https://github.com/thepauleh/goserverless"
   },
-   {
-    "name": "serverless-tag-api-gateway",
-    "description": "Serverless plugin to tag API Gateway",
-    "githubUrl": "https://github.com/gfragoso/serverless-tag-api-gateway"
-  },
-  {
-    "name": "serverless-tag-cloud-watch-logs",
-    "description": "Serverless plugin to tag CloudWatchLogs",
-    "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
-  },
   {
     "name": "serverless-tag-sqs",
     "description": "Serverless plugin to tag SQS - Simple Queue Service",
@@ -768,10 +758,5 @@
     "name": "serverless-tag-cloud-watch-logs",
     "description": "Serverless plugin to tag CloudWatchLogs",
     "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
-  },
-  {
-    "name": "serverless-tag-sqs",
-    "description": "Serverless plugin to tag SQS - Simple Queue Service",
-    "githubUrl": "https://github.com/gfragoso/serverless-tag-sqs"
   }
 ]
