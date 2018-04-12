@@ -753,5 +753,25 @@
     "name": "serverless-apib-validator",
     "description": "Validate that an API Blueprint has full coverage over a Serverless config",
     "githubUrl": "https://github.com/onlicar/serverless-apib-validator"
+  },
+  {
+   "name": "serverless-package-common",
+   "description": "Deploy microservice Python Serverless services with common code",
+   "githubUrl": "https://github.com/onlicar/serverless-package-common"
+  },
+  {
+    "name": "serverless-tag-api-gateway",
+    "description": "Serverless plugin to tag API Gateway",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-api-gateway"
+  },
+  {
+    "name": "serverless-tag-cloud-watch-logs",
+    "description": "Serverless plugin to tag CloudWatchLogs",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
+  },
+  {
+    "name": "serverless-tag-sqs",
+    "description": "Serverless plugin to tag SQS - Simple Queue Service",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-sqs"
   }
 ]
