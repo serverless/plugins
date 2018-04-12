@@ -718,5 +718,15 @@
     "name": "serverless-tag-sqs",
     "description": "Serverless plugin to tag SQS - Simple Queue Service",
     "githubUrl": "https://github.com/gfragoso/serverless-tag-sqs"
-  }  
+  },
+  {
+    "name": "serverless-express",
+    "description": "Making express app development compatible with serverless framework.",
+    "githubUrl": "https://github.com/mikestaub/serverless-express"
+  },
+  {
+    "name": "serverless-aliyun-function-compute",
+    "description": "Serverless Alibaba Cloud Function Compute Plugin",
+    "githubUrl": "https://github.com/aliyun/serverless-aliyun-function-compute"
+  }
 ]
