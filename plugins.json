@@ -708,5 +708,35 @@
     "name": "serverless-local-schedule",
     "description": "Schedule AWS CloudWatch Event based invocations in local time(with DST support!)",
     "githubUrl": "https://github.com/UnitedIncome/serverless-local-schedule"
+  },
+  {
+    "name": "go-serverless",
+    "description": "GoFormation for Serverless. Create serverless configs with Go Structs.",
+    "githubUrl": "https://github.com/thepauleh/goserverless"
+  },
+   {
+    "name": "serverless-tag-api-gateway",
+    "description": "Serverless plugin to tag API Gateway",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-api-gateway"
+  },
+  {
+    "name": "serverless-tag-cloud-watch-logs",
+    "description": "Serverless plugin to tag CloudWatchLogs",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
+  },
+  {
+    "name": "serverless-tag-sqs",
+    "description": "Serverless plugin to tag SQS - Simple Queue Service",
+    "githubUrl": "https://github.com/gfragoso/serverless-tag-sqs"
+  },
+  {
+    "name": "serverless-express",
+    "description": "Making express app development compatible with serverless framework.",
+    "githubUrl": "https://github.com/mikestaub/serverless-express"
+  },
+  {
+    "name": "serverless-aliyun-function-compute",
+    "description": "Serverless Alibaba Cloud Function Compute Plugin",
+    "githubUrl": "https://github.com/aliyun/serverless-aliyun-function-compute"
   }
 ]
