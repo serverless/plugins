@@ -703,5 +703,10 @@
     "name": "serverless-go-build",
     "description": "Build go source files (or public functions) using yml definition file",
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
+  },
+  {
+    "name": "serverless-aliyun-function-compute",
+    "description": "Serverless Alibaba Cloud Function Compute Plugin",
+    "githubUrl": "https://github.com/aliyun/serverless-aliyun-function-compute"
   }
 ]
