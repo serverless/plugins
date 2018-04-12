@@ -705,6 +705,11 @@
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build"
   },
   {
+    "name": "serverless-local-schedule",
+    "description": "Schedule AWS CloudWatch Event based invocations in local time(with DST support!)",
+    "githubUrl": "https://github.com/UnitedIncome/serverless-local-schedule"
+  },
+  {
     "name": "go-serverless",
     "description": "GoFormation for Serverless. Create serverless configs with Go Structs.",
     "githubUrl": "https://github.com/thepauleh/goserverless"
