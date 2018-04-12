@@ -750,11 +750,6 @@
     "githubUrl": "https://github.com/aliyun/serverless-aliyun-function-compute"
   },
   {
-    "name": "serverless-package-common",
-    "description": "Deploy microservice Python Serverless services with common code",
-    "githubUrl": "https://github.com/onlicar/serverless-package-common"
-  },
-  {
     "name": "serverless-apib-validator",
     "description": "Validate that an API Blueprint has full coverage over a Serverless config",
     "githubUrl": "https://github.com/onlicar/serverless-apib-validator"
