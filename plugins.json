@@ -647,7 +647,7 @@
   {
     "name": "serverless-content-encoding",
     "description": "Enable Content Encoding in AWS API Gateway during deployment",
-    "githubUrl": "https://github.com/xeno-dohai/serverless-content-encoding"
+    "githubUrl": "https://github.com/dong-dohai/serverless-content-encoding"
   },
   {
     "name": "serverless-s3-encryption",
