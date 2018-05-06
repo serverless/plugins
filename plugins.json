@@ -758,5 +758,10 @@
     "name": "serverless-tag-cloud-watch-logs",
     "description": "Serverless plugin to tag CloudWatchLogs",
     "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
+  },
+  {
+    "name": "serverless-ding",
+    "description": "Serverless plugin to audibly alert user after deployment",
+    "githubUrl": "https://github.com/sidgonuts/serverless-ding"
   }
 ]
