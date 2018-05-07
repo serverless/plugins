@@ -765,6 +765,11 @@
     "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
   },
   {
+    "name": "serverless-create-global-dynamodb-table",
+    "description": "Serverless plugin to create dynamodb global tables",
+    "githubUrl": "https://github.com/rrahul963/serverless-create-global-dynamodb-table"
+  },
+  {
     "name": "serverless-ding",
     "description": "Serverless plugin to audibly alert user after deployment",
     "githubUrl": "https://github.com/sidgonuts/serverless-ding"
