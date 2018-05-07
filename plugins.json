@@ -763,5 +763,10 @@
     "name": "serverless-ding",
     "description": "Serverless plugin to audibly alert user after deployment",
     "githubUrl": "https://github.com/sidgonuts/serverless-ding"
+  },
+  {
+    "name": "serverless-ignore",
+    "description": "Serverless plugin to ignore files (.slsignore)",
+    "githubUrl": "https://github.com/nya1/serverless-ignore"
   }
 ]
