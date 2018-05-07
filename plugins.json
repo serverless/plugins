@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-finch",
+    "description": "A Serverless plugin to deploy static website assets to AWS S3.",
+    "githubUrl": "https://github.com/fernando-mc/serverless-finch"
+  },
+  {
     "name": "serverless-appsync-plugin",
     "description": "Serverless Plugin to deploy AppSync GraphQL API",
     "githubUrl": "https://github.com/sid88in/serverless-appsync-plugin"
