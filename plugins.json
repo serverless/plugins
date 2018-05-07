@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-finch",
+    "description": "A Serverless plugin to deploy static website assets to AWS S3.",
+    "githubUrl": "https://github.com/fernando-mc/serverless-finch"
+  },
+  {
     "name": "serverless-appsync-plugin",
     "description": "Serverless Plugin to deploy AppSync GraphQL API",
     "githubUrl": "https://github.com/sid88in/serverless-appsync-plugin"
@@ -642,7 +647,7 @@
   {
     "name": "serverless-content-encoding",
     "description": "Enable Content Encoding in AWS API Gateway during deployment",
-    "githubUrl": "https://github.com/xeno-dohai/serverless-content-encoding"
+    "githubUrl": "https://github.com/dong-dohai/serverless-content-encoding"
   },
   {
     "name": "serverless-s3-encryption",
@@ -753,6 +758,11 @@
     "name": "serverless-tag-cloud-watch-logs",
     "description": "Serverless plugin to tag CloudWatchLogs",
     "githubUrl": "https://github.com/gfragoso/serverless-tag-cloud-watch-logs"
+  },
+  {
+    "name": "serverless-create-global-dynamodb-table",
+    "description": "Serverless plugin to create dynamodb global tables",
+    "githubUrl": "https://github.com/rrahul963/serverless-create-global-dynamodb-table"
   },
   {
     "name": "serverless-ding",
