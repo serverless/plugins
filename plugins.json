@@ -768,5 +768,10 @@
     "name": "serverless-ignore",
     "description": "Serverless plugin to ignore files (.slsignore)",
     "githubUrl": "https://github.com/nya1/serverless-ignore"
+  },
+  {
+    "name": "serverless-puresec-cli",
+    "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
+    "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
   }
 ]
