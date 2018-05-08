@@ -778,5 +778,10 @@
     "name": "serverless-puresec-cli",
     "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
     "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
+  },
+  {
+    "name": "serverless-dependson-plugin",
+    "description": "Serverless plugin that automatically generates DependsOn references for AWS Lambdas to prevent AWS RequestLimitExceeded errors.",
+    "githubUrl": "https://github.com/bwinant/serverless-dependson-plugin"
   }
 ]
