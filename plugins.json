@@ -778,5 +778,10 @@
     "name": "serverless-puresec-cli",
     "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
     "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
+  },
+  {
+    "name": "serverless-plugin-offline-dynamodb-stream",
+    "description": "Serverless Plugin for emulating dynamodb stream triggering lambda functions offline",
+    "githubUrl": "https://github.com/orchestrated-io/serverless-plugin-offline-dynamodb-stream"
   }
 ]
