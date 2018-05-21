@@ -778,5 +778,10 @@
     "name": "serverless-puresec-cli",
     "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
     "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
+  },
+  {
+    "name": "serverless-plugin-colocate",
+    "description": "Serverless Plugin to keep your configuration next to your code.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
   }
 ]
