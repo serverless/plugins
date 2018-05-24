@@ -1,5 +1,10 @@
 [
   {
+    "name": "fullstack-serverless",
+    "description": "A Serverless plugin to create an AWS CloudFront distribution that serves static web content from S3 and routes API traffic to API Gateway.",
+    "githubUrl": "https://github.com/MadSkills-io/fullstack-serverless"
+  },
+  {
     "name": "serverless-finch",
     "description": "A Serverless plugin to deploy static website assets to AWS S3.",
     "githubUrl": "https://github.com/fernando-mc/serverless-finch"
@@ -778,6 +783,11 @@
     "name": "serverless-puresec-cli",
     "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
     "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
+  },
+  {
+    "name": "serverless-plugin-colocate",
+    "description": "Serverless Plugin to keep your configuration next to your code.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
   },
   {
     "name": "serverless-plugin-offline-dynamodb-stream",
