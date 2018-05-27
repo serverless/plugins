@@ -790,6 +790,11 @@
     "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
   },
   {
+    "name": "serverless-plugin-registry",
+    "description": "Serverless plugin to register function names with AWS SSM Parameter Store.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-registry"
+  },
+  {
     "name": "serverless-plugin-offline-dynamodb-stream",
     "description": "Serverless Plugin for emulating dynamodb stream triggering lambda functions offline",
     "githubUrl": "https://github.com/orchestrated-io/serverless-plugin-offline-dynamodb-stream"
