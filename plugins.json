@@ -1,5 +1,10 @@
 [
   {
+    "name": "fullstack-serverless",
+    "description": "A Serverless plugin to create an AWS CloudFront distribution that serves static web content from S3 and routes API traffic to API Gateway.",
+    "githubUrl": "https://github.com/MadSkills-io/fullstack-serverless"
+  },
+  {
     "name": "serverless-finch",
     "description": "A Serverless plugin to deploy static website assets to AWS S3.",
     "githubUrl": "https://github.com/fernando-mc/serverless-finch"
@@ -783,5 +788,20 @@
     "name": "serverless-dependson-plugin",
     "description": "Serverless plugin that automatically generates DependsOn references for AWS Lambdas to prevent AWS RequestLimitExceeded errors.",
     "githubUrl": "https://github.com/bwinant/serverless-dependson-plugin"
+  },
+  {
+    "name": "serverless-plugin-colocate",
+    "description": "Serverless Plugin to keep your configuration next to your code.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
+  },
+  {
+    "name": "serverless-plugin-offline-dynamodb-stream",
+    "description": "Serverless Plugin for emulating dynamodb stream triggering lambda functions offline",
+    "githubUrl": "https://github.com/orchestrated-io/serverless-plugin-offline-dynamodb-stream"
+  },
+  {
+    "name": "serverless-basic-authentication",
+    "description": "Serverless Plugin for adding Basic Authentication to your api",
+    "githubUrl": "https://github.com/svdgraaf/serverless-basic-authentication"
   }
 ]
