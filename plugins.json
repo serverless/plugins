@@ -803,5 +803,10 @@
     "name": "serverless-basic-authentication",
     "description": "Serverless Plugin for adding Basic Authentication to your api",
     "githubUrl": "https://github.com/svdgraaf/serverless-basic-authentication"
+  },
+  {
+    "name": "serverless-rust",
+    "description": "Deploy Rustlang applications to AWS Lambda",
+    "githubUrl": "https://github.com/softprops/serverless-rust"
   }
 ]
