@@ -808,5 +808,10 @@
     "name": "serverless-rust",
     "description": "Deploy Rustlang applications to AWS Lambda",
     "githubUrl": "https://github.com/softprops/serverless-rust"
-  }
+  },
+  {
+    "name": "serverless-cognito-add-custom-attributes",
+    "description": "Serverless Plugin for adding custom attributes to an existing CloudFormation-managed CognitoUserPool and CognitoUserPoolClient without losing all your users",
+    "githubUrl": "https://github.com/GetWala/serverless-cognito-add-custom-attributes"
+  }	   
 ]
