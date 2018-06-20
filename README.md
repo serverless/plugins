@@ -12,6 +12,8 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 
 **[Add your plugin to the list](https://github.com/serverless/community-plugins/edit/master/plugins.json)**
 
+After adding your plugin to the `plugins.json` file, run `npm run docs` to regenerate the plugin list table in the `readme.md` file.
+
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (GENERATE_SERVERLESS_PLUGIN_TABLE)
 - Do not remove or modify this section. Make all updates to plugins.json -->
 | Plugin | Stats |
@@ -180,7 +182,3 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 | **[Write Env Vars - `serverless-plugin-write-env-vars`](https://github.com/silvermine/serverless-plugin-write-env-vars)** <br/> by [silvermine](http://github.com/silvermine) <br/> Write environment variables out to a file that is compatible with dotenv | ![Github Stars](https://img.shields.io/github/stars/silvermine/serverless-plugin-write-env-vars.svg?label=Stars&style=for-the-badge) <br/> ![NPM Downloads](https://img.shields.io/npm/dt/serverless-plugin-write-env-vars.svg?label=Downloads&style=for-the-badge)|
 | **[Wsgi - `serverless-wsgi`](https://github.com/logandk/serverless-wsgi)** <br/> by [logandk](http://github.com/logandk) <br/> Serverless plugin to deploy WSGI applications (Flask/Django/Pyramid etc.) and bundle Python packages | ![Github Stars](https://img.shields.io/github/stars/logandk/serverless-wsgi.svg?label=Stars&style=for-the-badge) <br/> ![NPM Downloads](https://img.shields.io/npm/dt/serverless-wsgi.svg?label=Downloads&style=for-the-badge)|
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END - Do not remove or modify this section. Make all updates to plugins.json -->
-
-### [Add your plugin to the list](https://github.com/serverless/plugins/edit/master/plugins.json)
-
-After adding your plugin to the `plugins.json` file, run `npm run docs` to regenerate the plugin list table in the `readme.md` file.
