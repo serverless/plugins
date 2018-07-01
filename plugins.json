@@ -790,6 +790,11 @@
     "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
   },
   {
+    "name": "serverless-plugin-parent",
+    "description": "Serverless Plugin that allows you to keep common configuration in a parent serverless.yml",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-parent"
+  },
+  {
     "name": "serverless-plugin-registry",
     "description": "Serverless plugin to register function names with AWS SSM Parameter Store.",
     "githubUrl": "https://github.com/aronim/serverless-plugin-registry"
