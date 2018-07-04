@@ -510,6 +510,11 @@
     "githubUrl": "https://github.com/k1LoW/serverless-s3-sync"
   },
   {
+    "name": "serverless-build-client",
+    "description": "Build your static website with environment variables defined in serverless.yml",
+    "githubUrl": "https://github.com/tgfischer/serverless-build-client"
+  },
+  {
     "name": "serverless-nested-stack",
     "description": "A plugin to Workaround for Cloudformation 200 resource limit",
     "githubUrl": "https://github.com/jagdish-176/serverless-nested-stack"
