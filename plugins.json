@@ -805,6 +805,11 @@
     "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
   },
   {
+    "name": "serverless-plugin-fastdeploy",
+    "description": "Serverless Plugin to perform fast deployments for large service packages.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-fastdeploy"
+  },
+  {
     "name": "serverless-plugin-parent",
     "description": "Serverless Plugin that allows you to keep common configuration in a parent serverless.yml",
     "githubUrl": "https://github.com/aronim/serverless-plugin-parent"
