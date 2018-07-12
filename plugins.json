@@ -475,6 +475,11 @@
     "githubUrl": "https://github.com/DieProduktMacher/serverless-env-generator"
   },
   {
+    "name": "serverless-plugin-embedded-env-in-code",
+    "description": "Replace environment variables with static strings before deployment. It’s for Lambda@Edge.",
+    "githubUrl": "https://github.com/zaru/serverless-plugin-embedded-env-in-code"
+  },
+  {
     "name": "serverless-local-dev-server",
     "description": "Speeds up development of Alexa Skills, Chatbots and APIs by exposing your functions as local HTTP endpoints and mapping received events.",
     "githubUrl": "https://github.com/DieProduktMacher/serverless-local-dev-server"
