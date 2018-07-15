@@ -760,9 +760,9 @@
     "githubUrl": "https://github.com/onlicar/serverless-apib-validator"
   },
   {
-   "name": "serverless-package-common",
-   "description": "Deploy microservice Python Serverless services with common code",
-   "githubUrl": "https://github.com/onlicar/serverless-package-common"
+    "name": "serverless-package-common",
+    "description": "Deploy microservice Python Serverless services with common code",
+    "githubUrl": "https://github.com/onlicar/serverless-package-common"
   },
   {
     "name": "serverless-tag-api-gateway",
@@ -838,5 +838,10 @@
     "name": "serverless-cognito-add-custom-attributes",
     "description": "Serverless Plugin for adding custom attributes to an existing CloudFormation-managed CognitoUserPool and CognitoUserPoolClient without losing all your users",
     "githubUrl": "https://github.com/GetWala/serverless-cognito-add-custom-attributes"
-  }	   
+  },
+  {
+    "name": "serverless-plugin-ifelse",
+    "description": "A Serverless Plugin to write If Else conditions in serverless YAML file",
+    "githubUrl": "https://github.com/anantab/serverless-plugin-ifelse"
+  }
 ]
