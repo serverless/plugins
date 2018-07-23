@@ -848,5 +848,10 @@
     "name": "serverless-plugin-ifelse",
     "description": "A Serverless Plugin to write If Else conditions in serverless YAML file",
     "githubUrl": "https://github.com/anantab/serverless-plugin-ifelse"
+  },
+  {
+    "name": "serverless-print-dots",
+    "description": "A Serverless plugin for printing dots in Serverless log during deployment to indicate progress and prevent timeouts in CI/CD platforms.",
+    "githubUrl": "https://github.com/amirklick/serverless-print-dots"
   }
 ]
