@@ -853,5 +853,10 @@
     "name": "serverless-print-dots",
     "description": "A Serverless plugin for printing dots in Serverless log during deployment to indicate progress and prevent timeouts in CI/CD platforms.",
     "githubUrl": "https://github.com/amirklick/serverless-print-dots"
+  },
+  {
+    "name": "serverless-es-plugin",
+    "description": "A Serverless plugin to transport logs to ElasticSearch",
+    "githubUrl": "https://github.com/daniel-cottone/serverless-es-logs"
   }
 ]
