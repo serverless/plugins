@@ -855,7 +855,7 @@
     "githubUrl": "https://github.com/amirklick/serverless-print-dots"
   },
   {
-    "name": "serverless-es-plugin",
+    "name": "serverless-es-logs",
     "description": "A Serverless plugin to transport logs to ElasticSearch",
     "githubUrl": "https://github.com/daniel-cottone/serverless-es-logs"
   }
