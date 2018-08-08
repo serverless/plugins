@@ -778,5 +778,10 @@
     "name": "serverless-ignore",
     "description": "Serverless plugin to ignore files (.slsignore)",
     "githubUrl": "https://github.com/nya1/serverless-ignore"
+  },
+  {
+    "name": "serverless-add-api-key",
+    "description": "Serverless plugin to add same api key for multiple serverless services i.e. to re-use apikey across multiple api gateway apis.",
+    "githubUrl": "https://github.com/rrahul963/serverless-add-api-key"
   }
 ]
