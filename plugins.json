@@ -799,7 +799,7 @@
     "description": "Serverless plugin to add same api key for multiple serverless services i.e. to re-use apikey across multiple api gateway apis.",
     "githubUrl": "https://github.com/rrahul963/serverless-add-api-key"
   },
-  }
+  {
     "name": "serverless-puresec-cli",
     "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
     "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
