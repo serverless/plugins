@@ -1,5 +1,10 @@
 [
   {
+    "name": "fullstack-serverless",
+    "description": "A Serverless plugin to create an AWS CloudFront distribution that serves static web content from S3 and routes API traffic to API Gateway.",
+    "githubUrl": "https://github.com/MadSkills-io/fullstack-serverless"
+  },
+  {
     "name": "serverless-finch",
     "description": "A Serverless plugin to deploy static website assets to AWS S3.",
     "githubUrl": "https://github.com/fernando-mc/serverless-finch"
@@ -118,6 +123,11 @@
     "name": "serverless-dynamodb-local",
     "description": "Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless",
     "githubUrl": "https://github.com/99xt/serverless-dynamodb-local"
+  },
+  {
+    "name": "serverless-dynamodb-fixtures",
+    "description": "Serverless Dynamodb Fixtures - Allows to load data on DynamoDB tables",
+    "githubUrl": "https://github.com/chechu/serverless-dynamodb-fixtures"
   },
   {
     "name": "serverless-offline",
@@ -465,6 +475,11 @@
     "githubUrl": "https://github.com/DieProduktMacher/serverless-env-generator"
   },
   {
+    "name": "serverless-plugin-embedded-env-in-code",
+    "description": "Replace environment variables with static strings before deployment. It’s for Lambda@Edge.",
+    "githubUrl": "https://github.com/zaru/serverless-plugin-embedded-env-in-code"
+  },
+  {
     "name": "serverless-local-dev-server",
     "description": "Speeds up development of Alexa Skills, Chatbots and APIs by exposing your functions as local HTTP endpoints and mapping received events.",
     "githubUrl": "https://github.com/DieProduktMacher/serverless-local-dev-server"
@@ -503,6 +518,11 @@
     "name": "serverless-s3-sync",
     "description": "A plugin to sync local directories and S3 prefixes for Serverless Framework,",
     "githubUrl": "https://github.com/k1LoW/serverless-s3-sync"
+  },
+  {
+    "name": "serverless-build-client",
+    "description": "Build your static website with environment variables defined in serverless.yml",
+    "githubUrl": "https://github.com/tgfischer/serverless-build-client"
   },
   {
     "name": "serverless-nested-stack",
@@ -568,11 +588,6 @@
     "name": "serverless-offline-sns",
     "description": "Serverless plugin to run a local SNS server and call serverless SNS handlers with events notifications.",
     "githubUrl": "https://github.com/mj1618/serverless-offline-sns"
-  },
-  {
-    "name": "serverless-plugin-api-docs",
-    "description": "Serverless plugin to automatically create a lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.",
-    "githubUrl": "https://github.com/8select/serverless-plugin-api-docs"
   },
   {
     "name": "serverless-stage-manager",
@@ -750,9 +765,9 @@
     "githubUrl": "https://github.com/onlicar/serverless-apib-validator"
   },
   {
-   "name": "serverless-package-common",
-   "description": "Deploy microservice Python Serverless services with common code",
-   "githubUrl": "https://github.com/onlicar/serverless-package-common"
+    "name": "serverless-package-common",
+    "description": "Deploy microservice Python Serverless services with common code",
+    "githubUrl": "https://github.com/onlicar/serverless-package-common"
   },
   {
     "name": "serverless-tag-api-gateway",
@@ -783,5 +798,70 @@
     "name": "serverless-add-api-key",
     "description": "Serverless plugin to add same api key for multiple serverless services i.e. to re-use apikey across multiple api gateway apis.",
     "githubUrl": "https://github.com/rrahul963/serverless-add-api-key"
+  },
+  }
+    "name": "serverless-puresec-cli",
+    "description": "Serverless Plugin for magically creating IAM roles that are least privileged per function.",
+    "githubUrl": "https://github.com/puresec/serverless-puresec-cli"
+  },
+  {
+    "name": "serverless-dependson-plugin",
+    "description": "Serverless plugin that automatically generates DependsOn references for AWS Lambdas to prevent AWS RequestLimitExceeded errors.",
+    "githubUrl": "https://github.com/bwinant/serverless-dependson-plugin"
+  },
+  {
+    "name": "serverless-plugin-colocate",
+    "description": "Serverless Plugin to keep your configuration next to your code.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-colocate"
+  },
+  {
+    "name": "serverless-plugin-fastdeploy",
+    "description": "Serverless Plugin to perform fast deployments for large service packages.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-fastdeploy"
+  },
+  {
+    "name": "serverless-plugin-parent",
+    "description": "Serverless Plugin that allows you to keep common configuration in a parent serverless.yml",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-parent"
+  },
+  {
+    "name": "serverless-plugin-registry",
+    "description": "Serverless plugin to register function names with AWS SSM Parameter Store.",
+    "githubUrl": "https://github.com/aronim/serverless-plugin-registry"
+  },
+  {
+    "name": "serverless-plugin-offline-dynamodb-stream",
+    "description": "Serverless Plugin for emulating dynamodb stream triggering lambda functions offline",
+    "githubUrl": "https://github.com/orchestrated-io/serverless-plugin-offline-dynamodb-stream"
+  },
+  {
+    "name": "serverless-basic-authentication",
+    "description": "Serverless Plugin for adding Basic Authentication to your api",
+    "githubUrl": "https://github.com/svdgraaf/serverless-basic-authentication"
+  },
+  {
+    "name": "serverless-rust",
+    "description": "Deploy Rustlang applications to AWS Lambda",
+    "githubUrl": "https://github.com/softprops/serverless-rust"
+  },
+  {
+    "name": "serverless-cognito-add-custom-attributes",
+    "description": "Serverless Plugin for adding custom attributes to an existing CloudFormation-managed CognitoUserPool and CognitoUserPoolClient without losing all your users",
+    "githubUrl": "https://github.com/GetWala/serverless-cognito-add-custom-attributes"
+  },
+  {
+    "name": "serverless-plugin-ifelse",
+    "description": "A Serverless Plugin to write If Else conditions in serverless YAML file",
+    "githubUrl": "https://github.com/anantab/serverless-plugin-ifelse"
+  },
+  {
+    "name": "serverless-print-dots",
+    "description": "A Serverless plugin for printing dots in Serverless log during deployment to indicate progress and prevent timeouts in CI/CD platforms.",
+    "githubUrl": "https://github.com/amirklick/serverless-print-dots"
+  },
+  {
+    "name": "serverless-es-logs",
+    "description": "A Serverless plugin to transport logs to ElasticSearch",
+    "githubUrl": "https://github.com/daniel-cottone/serverless-es-logs"
   }
 ]
