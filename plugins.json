@@ -859,7 +859,6 @@
     "description": "A Serverless plugin to transport logs to ElasticSearch",
     "githubUrl": "https://github.com/daniel-cottone/serverless-es-logs"
   },
-  ,
   {
     "name": "serverless-package-external",
     "description": "A Serverless plugin to add external folders to the deploy package",
