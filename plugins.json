@@ -873,5 +873,10 @@
     "name": "serverless-package-external",
     "description": "A Serverless plugin to add external folders to the deploy package",
     "githubUrl": "https://github.com/epsagon/serverless-package-external"
+  },
+  {
+    "name": "serverless-consul-variables",
+    "description": "Retrieve serverless variables from Consul kv",
+    "githubUrl": "https://github.com/zephrax/serverless-consul-variables"
   }
 ]
