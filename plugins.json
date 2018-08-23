@@ -5,6 +5,11 @@
     "githubUrl": "https://github.com/serverless-local-proxy/serverless-local-proxy"
   },
   {
+    "name": "serverless-discovery-plugin",
+    "description": "A serverless plugin to register AWS micro-service endpoints with a discovery service at serverless deploy or serverless remove time.",
+    "githubUrl": "https://github.com/aregier/serverless-discovery-plugin"
+  },
+  {
     "name": "fullstack-serverless",
     "description": "A Serverless plugin to create an AWS CloudFront distribution that serves static web content from S3 and routes API traffic to API Gateway.",
     "githubUrl": "https://github.com/MadSkills-io/fullstack-serverless"
