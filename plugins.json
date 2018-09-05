@@ -883,5 +883,15 @@
     "name": "serverless-consul-variables",
     "description": "Retrieve serverless variables from Consul kv",
     "githubUrl": "https://github.com/zephrax/serverless-consul-variables"
+  },
+  {
+    "name": "serverless-iot-offline",
+    "description": "Serverless plugin that emulates AWS IoT service",
+    "githubUrl": "https://github.com/mitipi/serverless-iot-offline"
+  },
+  {
+    "name": "serverless-ngrok-tunnel",
+    "description": "Serverless plugin that creates ngrok public tunnel on localhost",
+    "githubUrl": "https://github.com/mitipi/serverless-ngrok-tunnel"
   }
 ]
