@@ -893,5 +893,10 @@
     "name": "serverless-ngrok-tunnel",
     "description": "Serverless plugin that creates ngrok public tunnel on localhost",
     "githubUrl": "https://github.com/mitipi/serverless-ngrok-tunnel"
+  },
+  {
+    "name": "serverless-oauth-scopes",
+    "description": "A serverless plugin to set OAuth Scopes on APIGateway methods",
+    "githubUrl": "https://github.com/birdcatcher/serverless-oauth-scopes"
   }
 ]
