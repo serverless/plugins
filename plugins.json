@@ -893,5 +893,10 @@
     "name": "serverless-ngrok-tunnel",
     "description": "Serverless plugin that creates ngrok public tunnel on localhost",
     "githubUrl": "https://github.com/mitipi/serverless-ngrok-tunnel"
+  },
+  {
+    "name": "serverless-vpc-plugin",
+    "description": "Serverless plugin to create a VPC",
+    "githubUrl": "https://github.com/smoketurner/serverless-vpc-plugin"
   }
 ]
