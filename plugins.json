@@ -895,6 +895,11 @@
     "githubUrl": "https://github.com/mitipi/serverless-ngrok-tunnel"
   },
   {
+    "name": "@haftahave/serverless-ses-template",
+    "description": "A serveless plugin that allows automatically creating, updating and removing AWS SES Templates using a configuration file and keeps your AWS SES Templates synced with your configuration file.",
+    "githubUrl": "https://github.com/haftahave/serverless-ses-template"
+  },
+  {
     "name": "serverless-api-gateway-caching",
     "description": "Serverless plugin which configures API Gateway caching",
     "githubUrl": "https://github.com/DianaIonita/serverless-api-gateway-caching"
