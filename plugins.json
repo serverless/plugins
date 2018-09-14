@@ -903,5 +903,9 @@
     "name": "serverless-api-gateway-caching",
     "description": "Serverless plugin which configures API Gateway caching",
     "githubUrl": "https://github.com/DianaIonita/serverless-api-gateway-caching"
+  },
+    "name": "serverless-vpc-plugin",
+    "description": "Serverless plugin to create a VPC",
+    "githubUrl": "https://github.com/smoketurner/serverless-vpc-plugin"
   }
 ]
