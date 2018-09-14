@@ -903,5 +903,10 @@
     "name": "serverless-vpc-plugin",
     "description": "Serverless plugin to create a VPC",
     "githubUrl": "https://github.com/smoketurner/serverless-vpc-plugin"
+  },
+  {
+    "name": "serverless-plugin-monorepo",
+    "description": "A serverless plugin that allows use of serverless in a mono repo. Avoids needing to use nohoist by automatic symlinking of all dependencies.",
+    "githubUrl": "https://github.com/Butterwire/serverless-plugin-monorepo"
   }
 ]
