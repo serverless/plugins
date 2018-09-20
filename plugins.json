@@ -65,6 +65,11 @@
     "githubUrl": "https://github.com/amplify-education/serverless-log-forwarding"
   },
   {
+    "name": "serverless-event-body-option",
+    "description": "Serverless plugin that provides the extra CLI option for the invoke command to support passing the HTTP body data.",
+    "githubUrl": "https://github.com/jubel-han/serverless-event-body-option"
+  },
+  {
     "name": "serverless-plugin-external-sns-events",
     "description": "Add ability for functions to use existing or external SNS topics as an event source",
     "githubUrl": "https://github.com/silvermine/serverless-plugin-external-sns-events"
