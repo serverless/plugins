@@ -923,5 +923,10 @@
     "name": "serverless-plugin-monorepo",
     "description": "A serverless plugin that allows use of serverless in a mono repo. Avoids needing to use nohoist by automatic symlinking of all dependencies.",
     "githubUrl": "https://github.com/Butterwire/serverless-plugin-monorepo"
+  },
+  {
+    "name": "serverless-version-tracker",
+    "description": "A serverless plugin for tracking deployed versions of your code.",
+    "githubUrl": "https://github.com/danepowell/serverless-version-tracker"
   }
 ]
