@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-dotenv-plugin",
+    "description": "Preload environment variables from `.env` into serverless.",
+    "githubUrl": "https://github.com/infrontlabs/serverless-dotenv-plugin"
+  },
+  {
     "name": "serverless-local-proxy",
     "description": "A highly composable plugin for Serverless that speeds up your local development workflow.",
     "githubUrl": "https://github.com/serverless-local-proxy/serverless-local-proxy"
