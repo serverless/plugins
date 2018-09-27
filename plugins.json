@@ -65,6 +65,11 @@
     "githubUrl": "https://github.com/maciejtreder/serverless-apigw-binary"
   },
   {
+    "name": "serverless-certificate-creator",
+    "description": "This serverless plugin creates certificates that you need for your custom domains in API Gateway.",
+    "githubUrl": "https://github.com/schwamster/serverless-certificate-creator"
+  },
+  {
     "name": "serverless-domain-manager",
     "description": "Serverless plugin for managing custom domains with API Gateways.",
     "githubUrl": "https://github.com/amplify-education/serverless-domain-manager"
