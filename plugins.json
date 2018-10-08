@@ -420,6 +420,11 @@
     "githubUrl": "https://github.com/svdgraaf/serverless-parameters"
   },
   {
+    "name": "serverless-plugin-epsagon",
+    "description": "Distributed tracing that helps you monitor and troubleshoot your serverless applications.",
+    "githubUrl": "https://github.com/epsagon/serverless-plugin-epsagon"
+  },
+  {
     "name": "serverless-pseudo-parameters",
     "description": "Use ${AWS::AccountId} and other cloudformation pseudo parameters in your serverless.yml values",
     "githubUrl": "https://github.com/svdgraaf/serverless-pseudo-parameters"
