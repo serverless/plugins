@@ -958,5 +958,10 @@
     "name": "serverless-confirm-command",
     "description": "Make commands (and provider-specific options) requiring confirmation before execution.",
     "githubUrl": "https://github.com/teddy-gustiaux/serverless-confirm-command"
+  },
+  {
+    "name": "serverless-workspaces-plugin",
+    "description": "Resolve and Symlink hoisted dependencies when individually packaging each function",
+    "githubUrl": "https://github.com/sergioramos/serverless-workspaces-plugin"
   }
 ]
