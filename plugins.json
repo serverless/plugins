@@ -35,6 +35,11 @@
     "githubUrl": "https://github.com/aheissenberger/serverless-appsync-offline"
   },
   {
+    "name": "aws-amplify-serverless-plugin",
+    "description": "Generate client-side configuration files for the AWS Amplify library based on your deployed Serverless backend",
+    "githubUrl": "https://github.com/awslabs/aws-amplify-serverless-plugin"
+  },
+  {
     "name": "serverless-cloudformation-parameter-setter",
     "description": "Set CloudFormation parameters when deploying.",
     "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-parameter-setter"
