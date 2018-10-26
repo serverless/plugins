@@ -963,5 +963,10 @@
     "name": "serverless-workspaces-plugin",
     "description": "Resolve and Symlink hoisted dependencies when individually packaging each function",
     "githubUrl": "https://github.com/sergioramos/serverless-workspaces-plugin"
+  },
+  {
+    "name": "serverless-cloudflare-workers",
+    "description": "A serverless plugin allowing you to integrate with [Cloudflare Workers](https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://tutorial.cloudflareworkers.com)",
+    "githubUrl": "https://github.com/cloudflare/serverless-cloudflare-workers"
   }
 ]
