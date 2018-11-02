@@ -480,6 +480,11 @@
     "githubUrl": "https://github.com/serverless/serverless-kubeless"
   },
   {
+    "name": "serverless-kubeless-offline",
+    "description": "Simulates Kubeless NodeJS runtimes to run/call your functions offline using the Serverless Framework.",
+    "githubUrl": "https://github.com/usefulio/serverless-kubeless-offline"
+  },
+  {
     "name": "serverless-apigwy-binary",
     "description": "Serverless plugin for configuring API Gateway to return binary responses",
     "githubUrl": "https://github.com/ryanmurakami/serverless-apigwy-binary"
