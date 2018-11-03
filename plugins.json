@@ -510,6 +510,11 @@
     "githubUrl": "https://github.com/rhythminme/serverless-gulp"
   },
   {
+    "name": "serverless-google-cloudfunctions",
+    "description": "This plugin enables support for Google Cloud Functions within the Serverless Framework.",
+    "githubUrl": "https://github.com/serverless/serverless-google-cloudfunctions"
+  },
+  {
     "name": "serverless-sentry",
     "description": "Automatic monitoring of memory usage, execution timeouts and forwarding of Lambda errors to Sentry (https://sentry.io).",
     "githubUrl": "https://github.com/arabold/serverless-sentry-plugin"
