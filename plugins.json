@@ -978,5 +978,10 @@
     "name": "@endemolshinegroup/serverless-dynamodb-autoscaler",
     "description": "Autoscale DynamoDB resources with a single AWS AutoScalingPlan",
     "githubUrl": "https://github.com/EndemolShineGroup/serverless-dynamodb-autoscaler"
+  },
+  {
+    "name": "serverless-docker-artifacts",
+    "description": "Build your artifacts within docker container.",
+    "githubUrl": "https://github.com/Suor/serverless-docker-artifacts"
   }
 ]
