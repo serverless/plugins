@@ -988,5 +988,10 @@
     "name": "serverless-docker-artifacts",
     "description": "Build your artifacts within docker container.",
     "githubUrl": "https://github.com/Suor/serverless-docker-artifacts"
+  },
+  {
+    "name": "serverless-tesseract",
+    "description": "Add Tesseract OCR Engine to your build.",
+    "githubUrl": "https://github.com/Suor/serverless-tesseract"
   }
 ]
