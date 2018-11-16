@@ -510,6 +510,11 @@
     "githubUrl": "https://github.com/rhythminme/serverless-gulp"
   },
   {
+    "name": "serverless-google-cloudfunctions",
+    "description": "This plugin enables support for Google Cloud Functions within the Serverless Framework.",
+    "githubUrl": "https://github.com/serverless/serverless-google-cloudfunctions"
+  },
+  {
     "name": "serverless-sentry",
     "description": "Automatic monitoring of memory usage, execution timeouts and forwarding of Lambda errors to Sentry (https://sentry.io).",
     "githubUrl": "https://github.com/arabold/serverless-sentry-plugin"
@@ -983,6 +988,11 @@
     "name": "serverless-docker-artifacts",
     "description": "Build your artifacts within docker container.",
     "githubUrl": "https://github.com/Suor/serverless-docker-artifacts"
+  },
+  {
+    "name": "serverless-tesseract",
+    "description": "Add Tesseract OCR Engine to your build.",
+    "githubUrl": "https://github.com/Suor/serverless-tesseract"
   },
   {
     "name": "aws-cognito-idp-userpool-domain",
