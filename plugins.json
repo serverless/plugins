@@ -993,5 +993,10 @@
     "name": "serverless-tesseract",
     "description": "Add Tesseract OCR Engine to your build.",
     "githubUrl": "https://github.com/Suor/serverless-tesseract"
+  },
+  {
+    "name": "aws-cognito-idp-userpool-domain",
+    "description": "Manage (add and remove) aws hosted domain on Cognito Userpools",
+    "githubUrl": "https://github.com/rubentrancoso/aws-cognito-idp-userpool-domain"
   }
 ]
