@@ -1,5 +1,9 @@
 [
   {
+    "name": "serverless-openapi-plugin",
+    "description": "Serverless plugin to generate serverless API architecture from OpenAPI definition.",
+    "githubUrl": "https://github.com/jaumard/serverless-openapi-plugin"
+  },{
     "name": "serverless-dotenv-plugin",
     "description": "Preload environment variables from `.env` into serverless.",
     "githubUrl": "https://github.com/infrontlabs/serverless-dotenv-plugin"
