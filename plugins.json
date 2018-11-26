@@ -998,5 +998,10 @@
     "name": "aws-cognito-idp-userpool-domain",
     "description": "Manage (add and remove) aws hosted domain on Cognito Userpools",
     "githubUrl": "https://github.com/rubentrancoso/aws-cognito-idp-userpool-domain"
+  },
+  {
+    "name": "serverless-parcel",
+    "description": "A Serverless plugin to bundle your functions and assets with Parcel Bundler",
+    "githubUrl": "https://github.com/johnagan/serverless-parcel"
   }
 ]
