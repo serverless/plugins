@@ -1004,6 +1004,11 @@
     "githubUrl": "https://github.com/rubentrancoso/aws-cognito-idp-userpool-domain"
   },
   {
+    "name": "serverless-parcel",
+    "description": "A Serverless plugin to bundle your functions and assets with Parcel Bundler",
+    "githubUrl": "https://github.com/johnagan/serverless-parcel"
+  },
+  {
     "name": "serverless-function-gateway",
     "description": "Publish AWS Lambda functions to selfhosted [function-gateway](https://github.com/KennethWussmann/function-gateway).",
     "githubUrl": "https://github.com/KennethWussmann/serverless-function-gateway"
