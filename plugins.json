@@ -1007,5 +1007,10 @@
     "name": "serverless-parcel",
     "description": "A Serverless plugin to bundle your functions and assets with Parcel Bundler",
     "githubUrl": "https://github.com/johnagan/serverless-parcel"
+  },
+  {
+    "name": "serverless-vault-plugin",
+    "description": "A Serverless plugin to retrieve passwords from vault and encrypt to kms",
+    "githubUrl": "https://github.com/Rondineli/serverless-vault-plugin"
   }
 ]
