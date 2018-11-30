@@ -1012,5 +1012,10 @@
     "name": "serverless-vault-plugin",
     "description": "A Serverless plugin to retrieve passwords from vault and encrypt to kms",
     "githubUrl": "https://github.com/Rondineli/serverless-vault-plugin"
+  },
+  {
+    "name": "serverless-function-gateway",
+    "description": "Publish AWS Lambda functions to selfhosted [function-gateway](https://github.com/KennethWussmann/function-gateway).",
+    "githubUrl": "https://github.com/KennethWussmann/serverless-function-gateway"
   }
 ]
