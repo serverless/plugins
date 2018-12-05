@@ -1017,5 +1017,10 @@
     "name": "serverless-function-gateway",
     "description": "Publish AWS Lambda functions to selfhosted [function-gateway](https://github.com/KennethWussmann/function-gateway).",
     "githubUrl": "https://github.com/KennethWussmann/serverless-function-gateway"
+  },
+  {
+    "name": "serverless-kms-grants",
+    "description": "Create and revoke grants for AWS Lambda functions to use KMS keys.",
+    "githubUrl": "https://github.com/deep-security/serverless-kms-grants"
   }
 ]
