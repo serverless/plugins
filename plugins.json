@@ -79,6 +79,11 @@
     "githubUrl": "https://github.com/schwamster/serverless-certificate-creator"
   },
   {
+    "name": "serverless-log-filter-subscription",
+    "description": "This serverless plugin creates log filter subscription for all lambda functions configured in your projects serverless.yml",
+    "githubUrl": "https://github.com/schwamster/serverless-log-filter-subscription"
+  },
+  {
     "name": "serverless-domain-manager",
     "description": "Serverless plugin for managing custom domains with API Gateways.",
     "githubUrl": "https://github.com/amplify-education/serverless-domain-manager"
