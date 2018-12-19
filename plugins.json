@@ -180,6 +180,11 @@
     "githubUrl": "https://github.com/chechu/serverless-dynamodb-fixtures"
   },
   {
+    "name": "@unly/serverless-plugin-dynamodb-backups",
+    "description": "Configure automated DynamoDB On-Demand backups, with lifecycle handling",
+    "githubUrl": "https://github.com/UnlyEd/serverless-plugin-dynamodb-backups"
+  },
+  {
     "name": "serverless-offline",
     "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project",
     "githubUrl": "https://github.com/dherault/serverless-offline"
