@@ -1033,5 +1033,10 @@
     "name": "serverless-kms-grants",
     "description": "Create and revoke grants for AWS Lambda functions to use KMS keys.",
     "githubUrl": "https://github.com/deep-security/serverless-kms-grants"
+  },
+  {
+    "name": "serverless-rack",
+    "description": "Serverless plugin to deploy Ruby Rack applications (Sinatra/Padrino/Cuba etc.)",
+    "githubUrl": "https://github.com/logandk/serverless-rack"
   }
 ]
