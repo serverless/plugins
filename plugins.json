@@ -1038,5 +1038,10 @@
     "name": "serverless-rack",
     "description": "Serverless plugin to deploy Ruby Rack applications (Sinatra/Padrino/Cuba etc.)",
     "githubUrl": "https://github.com/logandk/serverless-rack"
+  },
+  {
+    "name": "serverless-plugin-parcel",
+    "description": "Serverless Parcel plugin with watch mode and serverless-offline support",
+    "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel"
   }
 ]
