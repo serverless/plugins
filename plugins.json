@@ -1048,5 +1048,10 @@
     "name": "serverless-plugin-parcel",
     "description": "Serverless Parcel plugin with watch mode and serverless-offline support",
     "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel"
+  },
+  {
+    "name": "serverless-plugin-cloudwatch-dashboard",
+    "description": "Serverless plugin to generate AWS CloudWatch dashboard for AWS Lambda functions",
+    "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
   }
 ]
