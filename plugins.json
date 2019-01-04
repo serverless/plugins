@@ -1053,5 +1053,10 @@
     "name": "serverless-plugin-cloudwatch-dashboard",
     "description": "Serverless plugin to generate AWS CloudWatch dashboard for AWS Lambda functions",
     "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
+  },
+  {
+    "name": "serverless-create-dynamodb-global-tables-for-cf-stack",
+    "description": "Create and replicate global dynamodb tables",
+    "githubUrl": "https://github.com/Imran99/serverless-create-dynamodb-global-tables-for-cf-stack"
   }
 ]
