@@ -1048,5 +1048,10 @@
     "name": "serverless-plugin-parcel",
     "description": "Serverless Parcel plugin with watch mode and serverless-offline support",
     "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel"
+  },
+  {
+    "name": "serverless-plugin-typescript-express",
+    "description": "Serverless plugin Typescript support with express integration",
+    "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-typescript-express"
   }
 ]
