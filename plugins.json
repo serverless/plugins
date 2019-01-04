@@ -1053,5 +1053,9 @@
     "name": "serverless-plugin-typescript-express",
     "description": "Serverless plugin Typescript support with express integration",
     "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-typescript-express"
+  }, {
+    "name": "serverless-plugin-cloudwatch-dashboard",
+    "description": "Serverless plugin to generate AWS CloudWatch dashboard for AWS Lambda functions",
+    "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
   }
 ]
