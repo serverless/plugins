@@ -1058,5 +1058,10 @@
     "name": "serverless-http-invoker",
     "description": "Locally invoke Serverless functions via their HTTP event as specified in Serverless.yml. It makes it easy to test not only your handler logic, but also ensures that you have your http events setup properly in serverless.yml without deploying.",
     "githubUrl": "https://github.com/activescott/serverless-http-invoker"
+  },
+  {
+    "name": "serverless-plugin-cloudwatch-dashboard",
+    "description": "Serverless plugin to generate AWS CloudWatch dashboard for AWS Lambda functions",
+    "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
   }
 ]
