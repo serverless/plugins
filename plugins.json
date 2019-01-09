@@ -1065,7 +1065,7 @@
     "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
   },
   {
-    "name": "serverless-tencent-cloud-function",
+    "name": "serverless-tencent-scf",
     "description": "Serverless framework provider plugin for Tencent SCF(Serverless Cloud Function)",
     "githubUrl": "https://github.com/tencentyun/serverless-tencent-cloud-function"
   },
