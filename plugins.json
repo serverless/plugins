@@ -1081,7 +1081,7 @@
   },
   {
     "name": "serverless-plugin-composed-vars",
-    "description": "A plugin that makes custom variables and environment variables easily composable",
+    "description": "A plugin that composes variables based on the deployment stage",
     "githubUrl": "https://github.com/chris-feist/serverless-plugin-composed-vars"
   }
 ]
