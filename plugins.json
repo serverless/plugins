@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-websockets-plugin",
+    "description": "Websocket support for Serverless Framework on AWS",
+    "githubUrl": "https://github.com/serverless/serverless-websockets-plugin"
+  },
+  {
     "name": "serverless-resource-policy",
     "description": "Creates a whitelist of IP or CIDR addresses using serverless resource policies",
     "githubUrl": "https://github.com/HubSpotWebTeam/serverless-resource-policy"
