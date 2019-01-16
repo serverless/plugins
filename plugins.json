@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-websockets-plugin",
+    "description": "Websocket support for Serverless Framework on AWS",
+    "githubUrl": "https://github.com/serverless/serverless-websockets-plugin"
+  },
+  {
     "name": "serverless-resource-policy",
     "description": "Creates a whitelist of IP or CIDR addresses using serverless resource policies",
     "githubUrl": "https://github.com/HubSpotWebTeam/serverless-resource-policy"
@@ -1050,6 +1055,16 @@
     "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel"
   },
   {
+    "name": "serverless-aws-static-file-handler",
+    "description": "An easy way to host the front-end of your web applications on Serverless framework on AWS Lambda along with their APIs written in Serverless.",
+    "githubUrl": "https://github.com/activescott/serverless-aws-static-file-handler"
+  },
+  {
+    "name": "serverless-http-invoker",
+    "description": "Locally invoke Serverless functions via their HTTP event as specified in Serverless.yml. It makes it easy to test not only your handler logic, but also ensures that you have your http events setup properly in serverless.yml without deploying.",
+    "githubUrl": "https://github.com/activescott/serverless-http-invoker"
+  },
+  {
     "name": "serverless-plugin-cloudwatch-dashboard",
     "description": "Serverless plugin to generate AWS CloudWatch dashboard for AWS Lambda functions",
     "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
@@ -1058,5 +1073,25 @@
     "name": "serverless-create-dynamodb-global-tables-for-cf-stack",
     "description": "Create and replicate global dynamodb tables",
     "githubUrl": "https://github.com/Imran99/serverless-create-dynamodb-global-tables-for-cf-stack"
+  },
+  {
+    "name": "serverless-tencent-scf",
+    "description": "Serverless framework provider plugin for Tencent SCF(Serverless Cloud Function)",
+    "githubUrl": "https://github.com/tencentyun/serverless-tencent-cloud-function"
+  },
+  {
+    "name": "serverless-plugin-staging",
+    "description": "A plugin to restrict the deployment of resources or functions on a per stage basis",
+    "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-staging"
+  },
+  {
+    "name": "serverless-fargate-tasks",
+    "description": "A plugin to run fargate tasks as part of your Serverless project",
+    "githubUrl": "https://github.com/svdgraaf/serverless-fargate-tasks"
+  },
+  {
+    "name": "serverless-plugin-composed-vars",
+    "description": "A plugin that composes custom and environment variables based on the deployment stage",
+    "githubUrl": "https://github.com/chris-feist/serverless-plugin-composed-vars"
   }
 ]
