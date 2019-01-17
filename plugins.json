@@ -1070,6 +1070,11 @@
     "githubUrl": "https://github.com/codecentric/serverless-plugin-cloudwatch-dashboard"
   },
   {
+    "name": "serverless-create-dynamodb-global-tables-for-cf-stack",
+    "description": "Create and replicate global dynamodb tables",
+    "githubUrl": "https://github.com/Imran99/serverless-create-dynamodb-global-tables-for-cf-stack"
+  },
+  {
     "name": "serverless-tencent-scf",
     "description": "Serverless framework provider plugin for Tencent SCF(Serverless Cloud Function)",
     "githubUrl": "https://github.com/tencentyun/serverless-tencent-cloud-function"
