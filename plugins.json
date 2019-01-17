@@ -275,6 +275,11 @@
     "githubUrl": "https://github.com/SC5/serverless-mocha-plugin"
   },
   {
+    "name": "serverless-modular",
+    "description": "Helps you deploy and manage multiple features with single root serverless file",
+    "githubUrl": "https://github.com/aa2kb/serverless-modular"
+  },
+  {
     "name": "serverless-jest-plugin",
     "description": "A Serverless Plugin for the Serverless Framework which adds support for test-driven development using Jest",
     "githubUrl": "https://github.com/SC5/serverless-jest-plugin"
