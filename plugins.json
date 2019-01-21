@@ -5,6 +5,11 @@
     "githubUrl": "https://github.com/serverless/serverless-websockets-plugin"
   },
   {
+    "name": "@serverless/enterprise-plugin",
+    "description": "The Serverless Enterprise Plugin",
+    "githubUrl": "https://github.com/serverless/enterprise-plugin"
+  },
+  {
     "name": "serverless-resource-policy",
     "description": "Creates a whitelist of IP or CIDR addresses using serverless resource policies",
     "githubUrl": "https://github.com/HubSpotWebTeam/serverless-resource-policy"
