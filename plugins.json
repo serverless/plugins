@@ -1098,5 +1098,10 @@
     "name": "serverless-plugin-composed-vars",
     "description": "A plugin that composes custom and environment variables based on the deployment stage",
     "githubUrl": "https://github.com/chris-feist/serverless-plugin-composed-vars"
+  },
+  {
+    "name": "serverless-multi-region-plugin",
+    "description": "A plugin for setting up a serverless API in AWS with turnkey multi-region failover",
+    "githubUrl": "https://github.com/unbill/serverless-multi-region-plugin"
   }
 ]
