@@ -1101,7 +1101,7 @@
   },
   {
     "name": "serverless-multi-region-plugin",
-    "description": "A plugin for setting up a serverless API in AWS with turnkey multiregion failover",
+    "description": "A plugin for setting up a serverless API in AWS with turnkey multi-region failover",
     "githubUrl": "https://github.com/unbill/serverless-multi-region-plugin"
   }
 ]
