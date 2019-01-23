@@ -575,6 +575,11 @@
     "githubUrl": "https://github.com/rawphp/serverless-plugin-elastic-beanstalk"
   },
   {
+    "name": "serverless-s3-local",
+    "description": "A serverless plugin to run a S3 clone on your local machine",
+    "githubUrl": "https://github.com/ar90n/serverless-s3-local"
+  },
+  {
     "name": "serverless-s3-remover",
     "description": "A serverless plugin to make s3 buckets empty before deleting cloudformation stack when ```sls remove```",
     "githubUrl": "https://github.com/sinofseven/serverless-s3-remover"
