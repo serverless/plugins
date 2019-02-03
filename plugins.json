@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-ini-env",
+    "description": "Nice Serverless plugin to setup environment variables with ini file",
+    "githubUrl": "https://github.com/agutoli/serverless-ini-env"
+  },
+  {
     "name": "serverless-websockets-plugin",
     "description": "Websocket support for Serverless Framework on AWS",
     "githubUrl": "https://github.com/serverless/serverless-websockets-plugin"
