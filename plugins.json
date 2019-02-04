@@ -345,6 +345,11 @@
     "githubUrl": "https://github.com/horike37/serverless-step-functions"
   },
   {
+    "name": "serverless-apigateway-service-proxy",
+    "description": "This Serverless Framewrok plugin supports the AWS service proxy integration feature of API Gateway.",
+    "githubUrl": "https://github.com/horike37/serverless-apigateway-service-proxy"
+  },
+  {
     "name": "serverless-plugin-scripts",
     "description": "Add scripting capabilities to the Serverless Framework",
     "githubUrl": "https://github.com/mvila/serverless-plugin-scripts"
