@@ -1123,5 +1123,10 @@
     "name": "serverless-multi-region-plugin",
     "description": "A plugin for setting up a serverless API in AWS with turnkey multi-region failover",
     "githubUrl": "https://github.com/unbill/serverless-multi-region-plugin"
+  },
+  {
+    "name": "serverless-plugin-pubsub",
+    "description": "Simple pub/sub configuration with queueing for the Serverless Framework",
+    "githubUrl": "https://github.com/fivepapertigers/serverless-plugin-pubsub"
   }
 ]
