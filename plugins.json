@@ -1080,6 +1080,11 @@
     "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel"
   },
   {
+    "name": "serverless-plugin-typescript-express",
+    "description": "Serverless plugin Typescript support with express integration",
+    "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-typescript-express"
+  }, 
+  {
     "name": "serverless-aws-static-file-handler",
     "description": "An easy way to host the front-end of your web applications on Serverless framework on AWS Lambda along with their APIs written in Serverless.",
     "githubUrl": "https://github.com/activescott/serverless-aws-static-file-handler"
