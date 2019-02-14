@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-layers",
+    "description": "Reduce drastically your lambda size",
+    "githubUrl": "https://github.com/agutoli/serverless-layers"
+  },
+  {
     "name": "serverless-ini-env",
     "description": "Nice Serverless plugin to setup environment variables with ini file",
     "githubUrl": "https://github.com/agutoli/serverless-ini-env"
