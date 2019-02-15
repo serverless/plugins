@@ -1,7 +1,7 @@
 [
   {
     "name": "serverless-layers",
-    "description": "Reduce drastically your lambda size",
+    "description": "How to reduce drastically lambda size",
     "githubUrl": "https://github.com/agutoli/serverless-layers"
   },
   {
