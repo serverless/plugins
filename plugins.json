@@ -1148,5 +1148,10 @@
     "name": "serverless-associate-waf",
     "description": "Associate a regional WAF with the AWS API Gateway used by your Serverless stack",
     "githubUrl": "https://github.com/mikesouza/serverless-associate-waf"
+  },
+  {
+    "name": "serverless-deployment-bucket",
+    "description": "Create and configure the custom Serverless deployment bucket",
+    "githubUrl": "https://github.com/mikesouza/serverless-deployment-bucket"
   }
 ]
