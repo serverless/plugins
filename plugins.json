@@ -1158,5 +1158,10 @@
     "name": "serverless-deployment-bucket",
     "description": "Create and configure the custom Serverless deployment bucket",
     "githubUrl": "https://github.com/mikesouza/serverless-deployment-bucket"
+  },
+  {
+    "name": "serverless-local-kinesis",
+    "description": "Run a local kinesis and automatically fire events",
+    "githubUrl": "https://github.com/pidz-development/serverless-local-kinesis"
   }
 ]
