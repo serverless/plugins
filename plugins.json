@@ -360,6 +360,11 @@
     "githubUrl": "https://github.com/horike37/serverless-apigateway-service-proxy"
   },
   {
+    "name": "serverless-package-customizer",
+    "description": "This allows you to customize packaging system of the Serverless Framework from a command line.",
+    "githubUrl": "https://github.com/horike37/serverless-package-customizer"
+  },
+  {
     "name": "serverless-plugin-scripts",
     "description": "Add scripting capabilities to the Serverless Framework",
     "githubUrl": "https://github.com/mvila/serverless-plugin-scripts"
