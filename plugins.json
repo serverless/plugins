@@ -1075,6 +1075,11 @@
     "githubUrl": "https://github.com/KennethWussmann/serverless-function-gateway"
   },
   {
+    "name": "serverless-function-outputs",
+    "description": "Adds function Name and ARN outputs without version suffix",
+    "githubUrl": "https://github.com/RogerBarreto/serverless-function-outputs"
+  },
+  {
     "name": "serverless-kms-grants",
     "description": "Create and revoke grants for AWS Lambda functions to use KMS keys.",
     "githubUrl": "https://github.com/deep-security/serverless-kms-grants"
