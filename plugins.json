@@ -1168,5 +1168,10 @@
     "name": "serverless-local-kinesis",
     "description": "Run a local kinesis and automatically fire events",
     "githubUrl": "https://github.com/pidz-development/serverless-local-kinesis"
+  },
+  {
+    "name": "serverless-nextjs-plugin",
+    "description": "Deploy serverless next apps with ease",
+    "githubUrl": "https://github.com/danielcondemarin/serverless-nextjs-plugin"
   }
 ]
