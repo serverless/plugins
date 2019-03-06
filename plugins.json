@@ -1173,5 +1173,10 @@
     "name": "serverless-nextjs-plugin",
     "description": "Deploy serverless next apps with ease",
     "githubUrl": "https://github.com/danielcondemarin/serverless-nextjs-plugin"
+  },
+  {
+    "name": "serverless-plugin-tables",
+    "description": "Easily configure table resources, such as DynamoDB",
+    "githubUrl": "https://github.com/chris-feist/serverless-plugin-tables"
   }
 ]
