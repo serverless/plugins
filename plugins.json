@@ -25,6 +25,11 @@
     "githubUrl": "https://github.com/HubSpotWebTeam/serverless-resource-policy"
   },
   {
+    "name": "serverless-plugin-vault-v2",
+    "description": "Simplify integration between serverless and vault to storage environments variables",
+    "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-vault-v2"
+  },
+  {
     "name": "serverless-openapi-plugin",
     "description": "Serverless plugin to generate serverless API architecture from OpenAPI definition.",
     "githubUrl": "https://github.com/jaumard/serverless-openapi-plugin"
