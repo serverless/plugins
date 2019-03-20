@@ -1183,5 +1183,10 @@
     "name": "serverless-plugin-tables",
     "description": "Easily configure table resources, such as DynamoDB",
     "githubUrl": "https://github.com/chris-feist/serverless-plugin-tables"
+  },
+  {
+    "name": "serverless-iopipe-layers",
+    "description": "Monitor, observe and profile your AWS Lambda functions without a code change",
+    "githubUrl": "https://github.com/iopipe/serverless-iopipe-layers"
   }
 ]
