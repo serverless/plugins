@@ -1095,6 +1095,11 @@
     "githubUrl": "https://github.com/logandk/serverless-rack"
   },
   {
+    "name": "serverless-ruby-package",
+    "description": "Improves packaging and deploying gems for Ruby services",
+    "githubUrl": "https://github.com/joshuaflanagan/serverless-ruby-package"
+  },
+  {
     "name": "serverless-plugin-parcel",
     "description": "Serverless Parcel plugin with watch mode and serverless-offline support",
     "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel"
