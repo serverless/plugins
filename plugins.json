@@ -1175,6 +1175,11 @@
     "githubUrl": "https://github.com/mikesouza/serverless-deployment-bucket"
   },
   {
+    "name": "serverless-manifest-plugin",
+    "description": "Generate manifest of api endpoints & stack outputs for consumption in other applications + service discovery",
+    "githubUrl": "https://github.com/DavidWells/serverless-manifest-plugin"
+  },
+  {
     "name": "serverless-local-kinesis",
     "description": "Run a local kinesis and automatically fire events",
     "githubUrl": "https://github.com/pidz-development/serverless-local-kinesis"
