@@ -1198,5 +1198,10 @@
     "name": "serverless-iopipe-layers",
     "description": "Monitor, observe and profile your AWS Lambda functions without a code change",
     "githubUrl": "https://github.com/iopipe/serverless-iopipe-layers"
+  },
+  {
+    "name": "serverless-cloudside-plugin",
+    "description": "Easily reference and use cloudside resources during local development and testing",
+    "githubUrl": "https://github.com/jeremydaly/serverless-cloudside-plugin"
   }
 ]
