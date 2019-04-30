@@ -370,6 +370,11 @@
     "githubUrl": "https://github.com/horike37/serverless-package-customizer"
   },
   {
+    "name": "serverless-package-location-customizer",
+    "description": "A serverless plugin to allow custom S3Bucket and S3Key path when packaging Lambda Functions and Layers.",
+    "githubUrl": "https://github.com/cipri-p/serverless-package-location-customizer"
+  },
+  {
     "name": "serverless-plugin-scripts",
     "description": "Add scripting capabilities to the Serverless Framework",
     "githubUrl": "https://github.com/mvila/serverless-plugin-scripts"
