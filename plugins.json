@@ -5,6 +5,11 @@
     "githubUrl": "https://github.com/agutoli/serverless-layers"
   },
   {
+    "name": "mfa-serverless-plugin",
+    "description": "A plugin that allow use MFA with your credential ",
+    "githubUrl": "https://github.com/alikian/mfa-serverless-plugin"
+  },
+  {
     "name": "serverless-ini-env",
     "description": "Nice Serverless plugin to setup environment variables with ini file",
     "githubUrl": "https://github.com/agutoli/serverless-ini-env"
