@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-plugin-utils",
+    "description": "A collection of serverless framework utilities",
+    "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-utils"
+  },
+  {
     "name": "serverless-layers",
     "description": "How to reduce drastically lambda size",
     "githubUrl": "https://github.com/agutoli/serverless-layers"
