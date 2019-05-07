@@ -570,6 +570,11 @@
     "githubUrl": "https://github.com/serverless/serverless-google-cloudfunctions"
   },
   {
+    "name": "serverless-azure-functions",
+    "description": "A Serverless plugin that adds Azure Functions support to the Serverless Framework.",
+    "githubUrl": "https://github.com/serverless/serverless-azure-functions"
+  },
+  {
     "name": "serverless-sentry",
     "description": "Automatic monitoring of memory usage, execution timeouts and forwarding of Lambda errors to Sentry (https://sentry.io).",
     "githubUrl": "https://github.com/arabold/serverless-sentry-plugin"
