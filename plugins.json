@@ -1218,5 +1218,10 @@
     "name": "serverless-cloudside-plugin",
     "description": "Easily reference and use cloudside resources during local development and testing",
     "githubUrl": "https://github.com/jeremydaly/serverless-cloudside-plugin"
+  },
+  {
+    "name": "serverless-offline-http-mock",
+    "description": "Create mock responses to HTTP(S) requests for local development",
+    "githubUrl": "https://github.com/pianomansam/serverless-offline-http-mock"
   }
 ]
