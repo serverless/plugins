@@ -1223,5 +1223,10 @@
     "name": "serverless-jetpack",
     "description": "A faster JavaScript packager for Serverless applications",
     "githubUrl": "https://github.com/FormidableLabs/serverless-jetpack"
+  },
+  {
+    "name": "serverless-offline-http-mock",
+    "description": "Create mock responses to HTTP(S) requests for local development",
+    "githubUrl": "https://github.com/pianomansam/serverless-offline-http-mock"
   }
 ]
