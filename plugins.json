@@ -442,7 +442,7 @@
   {
     "name": "serverless-aws-alias",
     "description": "This plugin enables use of AWS aliases on Lambda functions.",
-    "githubUrl": "https://github.com/HyperBrain/serverless-aws-alias"
+    "githubUrl": "https://github.com/serverless-heaven/serverless-aws-alias"
   },
   {
     "name": "serverless-plugin-webpack",
