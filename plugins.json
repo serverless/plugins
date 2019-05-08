@@ -1218,5 +1218,10 @@
     "name": "serverless-cloudside-plugin",
     "description": "Easily reference and use cloudside resources during local development and testing",
     "githubUrl": "https://github.com/jeremydaly/serverless-cloudside-plugin"
+  },
+  {
+    "name": "serverless-jetpack",
+    "description": "A faster JavaScript packager for Serverless applications",
+    "githubUrl": "https://github.com/FormidableLabs/serverless-jetpack"
   }
 ]
