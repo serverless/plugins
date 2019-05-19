@@ -1238,5 +1238,10 @@
     "name": "serverless-externals-plugin",
     "description": "Only include listed node modules and their dependencies in Serverless, with support for Rollup and Webpack",
     "githubUrl": "https://github.com/hansottowirtz/serverless-externals-plugin"
+  },
+  {
+    "name": "serverless-plugin-resource-tagging",
+    "description": "Plugin to support stackTags based AWS resource tagging and APIGateway tagging.",
+    "githubUrl": "https://github.com/ilayanambi86/serverless-plugin-resource-tagging"
   }
 ]
