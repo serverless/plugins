@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-export-outputs",
+    "description": "A Serverless plugin for exporting AWS stack outputs to a file",
+    "githubUrl": "https://github.com/honarpour/serverless-export-outputs"
+  },
+  {
     "name": "serverless-plugin-utils",
     "description": "A collection of serverless framework utilities",
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-utils"
