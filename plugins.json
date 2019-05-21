@@ -330,11 +330,6 @@
     "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-changesets"
   },
   {
-    "name": "serverless-aws-documentation",
-    "description": "Serverless plugin to add documentation and models to the serverless generated API Gateway",
-    "githubUrl": "https://github.com/9cookies/serverless-aws-documentation"
-  },
-  {
     "name": "raml-serverless",
     "description": "Serverless plugin to work with RAML API spec documents",
     "githubUrl": "https://github.com/andrewcurioso/raml-serverless"
@@ -1248,11 +1243,6 @@
     "name": "api-gateway-stage-tag-plugin",
     "description": "A shim to tag API Gateway stages until CloudFormation/Serverless support arrives.",
     "githubUrl": "https://github.com/mikepatrick/api-gateway-stage-tag-plugin"
-  },
-  {
-    "name": "serverless-api-compression",
-    "description": "Serverless plugin that enables/disables content compression setting in API Gateway",
-    "githubUrl": "https://github.com/evgenykireev/serverless-api-compression"
   },
   {
     "name": "serverless-api-compression",
