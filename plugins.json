@@ -1259,11 +1259,6 @@
     "githubUrl": "https://github.com/deliveryhero/serverless-aws-documentation",
     "status": "community"
 }, {
-    "name": "serverless-aws-documentation",
-    "description": "Serverless 1.0 plugin to add documentation and models to the serverless generated API Gateway",
-    "githubUrl": "https://github.com/deliveryhero/serverless-aws-documentation",
-    "status": "community"
-}, {
     "name": "serverless-http",
     "description": "Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda",
     "githubUrl": "https://github.com/dougmoscrop/serverless-http",
