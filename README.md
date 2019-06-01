@@ -10,7 +10,7 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 
 ## Community Contributed Plugins
 
-Add your plugin to [the `plugins.json` file](https://github.com/serverless/community-plugins/edit/master/plugins.json), **then run `npm run docs` to regenerate the table below.**
+Add your plugin to [the `plugins.json` file](https://github.com/serverless/community-plugins/edit/master/plugins.json) with the initial status to `none` , **then run `npm run docs` to regenerate the table below.**
 
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (GENERATE_SERVERLESS_PLUGIN_TABLE)
 - Do not remove or modify this section. Make all updates to plugins.json -->
