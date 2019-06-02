@@ -1,5 +1,10 @@
 [
   {
+    "name": "serverless-export-outputs",
+    "description": "A Serverless plugin for exporting AWS stack outputs to a file",
+    "githubUrl": "https://github.com/honarpour/serverless-export-outputs"
+  },
+  {
     "name": "serverless-plugin-utils",
     "description": "A collection of serverless framework utilities",
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-utils"
@@ -205,6 +210,11 @@
     "githubUrl": "https://github.com/horike37/serverless-command-line-event-args"
   },
   {
+    "name": "serverless-dynamodb-client",
+    "description": "This Serverless 0.5.x plugin help you to call AWS Dynamodb SDK without switching between different dynamodb instances, whether you work with Dynamodb local or online in AWS.",
+    "githubUrl": "https://github.com/99xt/serverless-dynamodb-client"
+  },
+  {
     "name": "serverless-dynamodb-local",
     "description": "Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless",
     "githubUrl": "https://github.com/99xt/serverless-dynamodb-local"
@@ -323,11 +333,6 @@
     "name": "serverless-cloudformation-changesets",
     "description": "Natively deploy to CloudFormation via Change sets, instead of directly. Allowing you to queue changes, and safely require escalated roles for final deployment.",
     "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-changesets"
-  },
-  {
-    "name": "serverless-aws-documentation",
-    "description": "Serverless plugin to add documentation and models to the serverless generated API Gateway",
-    "githubUrl": "https://github.com/9cookies/serverless-aws-documentation"
   },
   {
     "name": "raml-serverless",
@@ -1238,6 +1243,101 @@
     "name": "serverless-externals-plugin",
     "description": "Only include listed node modules and their dependencies in Serverless, with support for Rollup and Webpack",
     "githubUrl": "https://github.com/hansottowirtz/serverless-externals-plugin"
+  },
+  {
+    "name": "api-gateway-stage-tag-plugin",
+    "description": "A shim to tag API Gateway stages until CloudFormation/Serverless support arrives.",
+    "githubUrl": "https://github.com/mikepatrick/api-gateway-stage-tag-plugin"
+  },
+  {
+    "name": "serverless-api-compression",
+    "description": "Serverless plugin that enables/disables content compression setting in API Gateway",
+    "githubUrl": "https://github.com/evgenykireev/serverless-api-compression"
+  },
+  {
+    "name": "serverless-aws-documentation",
+    "description": "Serverless 1.0 plugin to add documentation and models to the serverless generated API Gateway",
+    "githubUrl": "https://github.com/deliveryhero/serverless-aws-documentation"
+  },
+  {
+    "name": "serverless-http",
+    "description": "Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda",
+    "githubUrl": "https://github.com/dougmoscrop/serverless-http"
+  },
+  {
+    "name": "serverless-mysql",
+    "description": "A module for managing MySQL connections at SERVERLESS scale",
+    "githubUrl": "https://github.com/jeremydaly/serverless-mysql"
+  },
+  {
+    "name": "serverless-offline-kinesis",
+    "description": "This Serverless-offline-kinesis plugin emulates AWS λ and Kinesis streams on your local machine.",
+    "githubUrl": "https://github.com/CoorpAcademy/serverless-plugins/tree/master/packages/serverless-offline-kinesis"
+  },
+  {
+    "name": "serverless-offline-python",
+    "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project",
+    "githubUrl": "https://github.com/alhazmy13/serverless-offline-python"
+  },
+  {
+    "name": "serverless-openapi-documentation",
+    "description": "Serverless 1.0 plugin to generate OpenAPI V3 documentation from serverless configuration",
+    "githubUrl": "https://github.com/temando/serverless-openapi-documentation"
+  },
+  {
+    "name": "serverless-openwhisk",
+    "description": "Adds Apache OpenWhisk support to the Serverless Framework!",
+    "githubUrl": "https://github.com/serverless/serverless-openwhisk"
+  },
+  {
+    "name": "serverless-plugin-cloudfront-lambda-edge",
+    "description": "Adds Lambda@Edge support to Serverless",
+    "githubUrl": "https://github.com/silvermine/serverless-plugin-cloudfront-lambda-edge"
+  },
+  {
+    "name": "serverless-plugin-cronjob",
+    "description": "This plugin creates cronjobs out of your lambda functions.",
+    "githubUrl": "https://github.com/martinlindenberg/serverless-plugin-cronjob"
+  },
+  {
+    "name": "serverless-plugin-custom-roles",
+    "description": "A Serverless plugin that makes creation of per function IAM roles easier.",
+    "githubUrl": "https://github.com/AntonBazhal/serverless-plugin-custom-roles"
+  },
+  {
+    "name": "serverless-plugin-existing-s3",
+    "description": "Overcomes the CloudFormation limitation on attaching an event to an uncontrolled bucket, for Serverless.com 1.11.0+.",
+    "githubUrl": "https://github.com/matt-filion/serverless-external-s3-event"
+  },
+  {
+    "name": "serverless-plugin-log-retention",
+    "description": "Control the retention of your serverless function's cloudwatch logs.",
+    "githubUrl": "https://github.com/ArtificerEntertainment/serverless-plugin-log-retention"
+  },
+  {
+    "name": "serverless-plugin-newman",
+    "description": "A serverless plugin for newman.",
+    "githubUrl": "https://github.com/rawphp/serverless-plugin-newman"
+  },
+  {
+    "name": "serverless-plugin-tracing",
+    "description": "Enables AWS X-Ray (https://aws.amazon.com/xray/) for the entire Serverless stack or individual functions.",
+    "githubUrl": "https://github.com/alex-murashkin/serverless-plugin-tracing"
+  },
+  {
+    "name": "serverless-s3-deploy",
+    "description": "Plugin for serverless to deploy files to a variety of S3 Buckets",
+    "githubUrl": "https://github.com/funkybob/serverless-s3-deploy"
+  },
+  {
+    "name": "serverless-scheduled-functions",
+    "description": "Schedule your serverless functions",
+    "githubUrl": "https://github.com/reactor-studio/serverless-scheduled-functions"
+  },
+  {
+    "name": "serverless-step-functions-offline",
+    "description": "Emulate step functions locally when developing your Serverless project ",
+    "githubUrl": "https://github.com/vkkis93/serverless-step-functions-offline"
   },
   {
     "name": "serverless-plugin-resource-tagging",
