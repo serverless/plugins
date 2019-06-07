@@ -1340,6 +1340,11 @@
     "githubUrl": "https://github.com/vkkis93/serverless-step-functions-offline"
   },
   {
+    "name": "serverless-sequelize-migrations",
+    "description": "Manage Sequelize migrations on your serverless project",
+    "githubUrl": "https://github.com/manelferreira/serverless-sequelize-migrations"
+  },
+  {
     "name": "serverless-plugin-resource-tagging",
     "description": "Plugin to support stackTags based AWS resource tagging and APIGateway tagging.",
     "githubUrl": "https://github.com/ilayanambi86/serverless-plugin-resource-tagging"
