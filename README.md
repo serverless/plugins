@@ -12,6 +12,8 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 
 Add your plugin to [the `plugins.json` file](https://github.com/serverless/community-plugins/edit/master/plugins.json) with the initial status to `none` , **then run `npm run docs` to regenerate the table below.**
 
+**Note:** Please don't add your plugin at the end of the array in the `plugins.json` file to avoid conflicts. I'd be better if you choose a random place in the array.
+
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (GENERATE_SERVERLESS_PLUGIN_TABLE)
 - Do not remove or modify this section. Make all updates to plugins.json -->
 | Plugin | Stats |
