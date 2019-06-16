@@ -5,6 +5,12 @@
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs"
   },
   {
+    "name": "serverless-plugin-apigateway-sqs",
+    "description": "Plugin that creates an AWS APIGateway resource to connect to an AWS Simple Queue Service (SQS) without the use of a lambda.",
+    "githubUrl": "https://github.com/CodeRecipe-dev/serverless-apigw-sqs-plugin",
+    "status": "none"
+  },
+  {
     "name": "serverless-plugin-utils",
     "description": "A collection of serverless framework utilities",
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-utils"
@@ -1348,10 +1354,5 @@
     "name": "serverless-plugin-resource-tagging",
     "description": "Plugin to support stackTags based AWS resource tagging and APIGateway tagging.",
     "githubUrl": "https://github.com/ilayanambi86/serverless-plugin-resource-tagging"
-  },
-  {
-    "name": "serverless-plugin-apigateway-sqs",
-    "description": "Plugin that creates an AWS APIGateway resource to connect to an AWS Simple Queue Service (SQS) without the use of a lambda.",
-    "githubUrl": "https://github.com/CodeRecipe-dev/serverless-apigw-sqs-plugin"
   }
 ]
