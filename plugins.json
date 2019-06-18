@@ -1,4 +1,9 @@
 [{
+    "name": "serverless-plugin-typetalk",
+    "description": "Sends notification to Typetalk",
+    "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
+    "status": "none"
+}, {
     "name": "serverless-export-outputs",
     "description": "A Serverless plugin for exporting AWS stack outputs to a file",
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs",
