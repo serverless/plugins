@@ -1348,7 +1348,8 @@
   {
     "name": "serverless-plugin-resource-tagging",
     "description": "Plugin to support stackTags based AWS resource tagging and APIGateway tagging.",
-    "githubUrl": "https://github.com/ilayanambi86/serverless-plugin-resource-tagging"
+    "githubUrl": "https://github.com/ilayanambi86/serverless-plugin-resource-tagging",
+    "status": "none"
   },
   {
     "name": "serverless-tag-sns-topic",
