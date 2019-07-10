@@ -1365,5 +1365,11 @@
     "name": "serverless-tag-sns-topic",
     "description": "Serverless plugin to tag SNS Topic",
     "githubUrl": "https://github.com/inokappa/serverless-tag-sns-topic"
+  },
+  {
+	"name": "serverless-plugin-decouple",
+	"description": "Remove ImportValue dependencies by replacing them with the actual values in order to update base exports",
+	"githubUrl": "https://github.com/mutual-of-enumclaw/serverless-plugin-decouple",
+	"status": "none"
   }
 ]
