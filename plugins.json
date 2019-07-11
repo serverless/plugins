@@ -1084,6 +1084,11 @@
     "githubUrl": "https://github.com/EndemolShineGroup/serverless-dynamodb-autoscaler",
     "status": "community"
 }, {
+  "name": "serverless-plugin-decouple",
+  "description": "Remove ImportValue dependencies by replacing them with the actual values in order to update base exports",
+  "githubUrl": "https://github.com/mutual-of-enumclaw/serverless-plugin-decouple",
+  "status": "none"
+}, {
     "name": "serverless-docker-artifacts",
     "description": "Build your artifacts within docker container.",
     "githubUrl": "https://github.com/Suor/serverless-docker-artifacts",
