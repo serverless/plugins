@@ -1370,5 +1370,10 @@
     "name": "serverless-tag-sns-topic",
     "description": "Serverless plugin to tag SNS Topic",
     "githubUrl": "https://github.com/inokappa/serverless-tag-sns-topic"
+  },
+  {
+    "name": "serverless-middleware",
+    "description": "Serverless plugin to allow middleware handlers configured directly in serverless.yaml",
+    "githubUrl": "https://github.com/juanjoDiaz/serverless-middleware"
   }
 ]
