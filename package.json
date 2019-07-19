@@ -14,7 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "^17.0.3",
+    "jest": "^24.8.0",
     "markdown-magic": "^0.1.20"
   }
 }
