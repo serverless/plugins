@@ -1372,6 +1372,12 @@
     "githubUrl": "https://github.com/inokappa/serverless-tag-sns-topic"
   },
   {
+    "name": "serverless-stack-termination-protection",
+    "description": "Serverless plugin to update the CloudFormation stack termination protection.",
+    "githubUrl": "https://github.com/miguel-a-calles-mba/serverless-stack-termination-protection",
+    "status": "none"
+  },
+  {
     "name": "serverless-middleware",
     "description": "Serverless plugin to allow middleware handlers configured directly in serverless.yaml",
     "githubUrl": "https://github.com/juanjoDiaz/serverless-middleware"
