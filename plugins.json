@@ -249,6 +249,11 @@
     "githubUrl": "https://github.com/civicteam/serverless-offline-direct-lambda",
     "status": "none"
 }, {
+	"name": "serverless-offline-edge-lambda",
+    "description": "A plugin for the Serverless Framework that simulates the behavior of AWS CloudFront Edge Lambdas while developing offline",
+    "githubUrl": "https://github.com/evolv-ai/serverless-offline-edge-lambda",
+    "status": "none"
+}, {
     "name": "serverless-plugin-simulate",
     "description": "Simulate AWS Lambda and API Gateway locally using Docker",
     "githubUrl": "https://github.com/gertjvr/serverless-plugin-simulate",
