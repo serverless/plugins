@@ -454,6 +454,11 @@
     "githubUrl": "https://github.com/claygregory/serverless-prune-plugin",
     "status": "approved"
 }, {
+    "name": "@unly/serverless-plugin-dynamodb-backups",
+    "description": "Configure automated DynamoDB \"On-Demand\" backups and manage backups lifecycle, powered by AWS Lambda",
+    "githubUrl": "https://github.com/UnlyEd/serverless-plugin-dynamodb-backups",
+    "status": "community"
+}, {
     "name": "serverless-offline-scheduler",
     "description": "Runs scheduled functions offline while integrating with serverless-offline",
     "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler",
