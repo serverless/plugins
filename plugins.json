@@ -4,15 +4,20 @@
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
     "status": "none"
 }, {
+    "name": "serverless-plugin-test-helper",
+    "description": "Makes it easier to end-to-end test deployed deployed services by saving CloudFormation Stack Outputs locally and exposing values via a simple Node.js library",
+    "githubUrl": "https://github.com/manwaring/serverless-plugin-test-helper",
+    "status": "none"
+},{
     "name": "serverless-export-outputs",
     "description": "A Serverless plugin for exporting AWS stack outputs to a file",
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs",
     "status": "none"
 }, {
-  "name": "serverless-plugin-apigateway-sqs",
-  "description": "Plugin that creates an AWS APIGateway resource to connect to an AWS Simple Queue Service (SQS) without the use of a lambda.",
-  "githubUrl": "https://github.com/CodeRecipe-dev/serverless-apigw-sqs-plugin",
-  "status": "none"
+    "name": "serverless-plugin-apigateway-sqs",
+    "description": "Plugin that creates an AWS APIGateway resource to connect to an AWS Simple Queue Service (SQS) without the use of a lambda.",
+    "githubUrl": "https://github.com/CodeRecipe-dev/serverless-apigw-sqs-plugin",
+    "status": "none"
 }, {
     "name": "serverless-plugin-utils",
     "description": "A collection of serverless framework utilities",
