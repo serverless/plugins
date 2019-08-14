@@ -874,6 +874,11 @@
     "githubUrl": "https://github.com/piercus/serverless-local-environment",
     "status": "community"
 }, {
+    "name": "serverless-offline-schedule",
+    "description": "Emulate schedule events locally when developing your Serverless project",
+    "githubUrl": "https://github.com/Meemaw/serverless-offline-schedule",
+    "status": "none"
+}, {
     "name": "serverless-cloudformation-sub-variables",
     "description": "Serverless framework plugin for easily supporting AWS CloudFormation Sub function variables",
     "githubUrl": "https://github.com/santiagocardenas/serverless-cloudformation-sub-variables",
