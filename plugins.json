@@ -10,7 +10,7 @@
     "status": "none"
 },{
     "name": "serverless-plugin-iam-checker",
-    "description": "Helps automate security controls by preventing overly broad IAM permissions for both actions and resource references. Ships with restrictive defaults and supports custom rule configurations via serverless.yml and environment variables",
+    "description": "Helps automate security controls by preventing overly broad IAM permissions via customizable rules for both actions and resource references. Ships with restrictive defaults and supports custom rule configurations via serverless.yml and environment variables",
     "githubUrl": "https://github.com/manwaring/serverless-plugin-iam-checker",
     "status": "none"
 },{
