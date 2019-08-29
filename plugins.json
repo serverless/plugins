@@ -1388,8 +1388,9 @@
     "status": "none"
   },
   {
-    "name": "serverless-middleware",
-    "description": "Serverless plugin to allow middleware handlers configured directly in serverless.yaml",
-    "githubUrl": "https://github.com/juanjoDiaz/serverless-middleware"
+    "name": "serverless-lumigo",
+    "description": "Serverless monitoring and troubleshooting plugin to easily apply distributed tracing with Lumigo",
+    "githubUrl": "https://github.com/lumigo-io/serverless-lumigo-plugin",
+    "status": "none"
   }
 ]
