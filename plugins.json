@@ -1412,5 +1412,11 @@
     "description": "Serverless monitoring and troubleshooting plugin to easily apply distributed tracing with Lumigo",
     "githubUrl": "https://github.com/lumigo-io/serverless-lumigo-plugin",
     "status": "none"
+  },
+  {
+    "name": "serverless-migrate-plugin",
+    "description": "Allows to create and run migrations using the serverless context",
+    "githubUrl": "https://github.com/EliuX/serverless-migrate-plugin",
+    "status": "none"
   }
 ]
