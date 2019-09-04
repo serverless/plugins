@@ -484,6 +484,11 @@
     "githubUrl": "https://github.com/goldwasserexchange/serverless-plugin-webpack",
     "status": "community"
 }, {
+    "name": "serverless-secret-baker",
+    "description": "A Serverless Framework Plugin for secure, performant, and deterministic secret management.",
+    "githubUrl": "https://github.com/vacasaoss/serverless-secret-baker",
+    "status": "none"
+}, {
     "name": "serverless-sqs-fifo",
     "description": "A serverless plugin to handle creation of sqs fifo queue's in aws (stop-gap)",
     "githubUrl": "https://github.com/vortarian/serverless-sqs-fifo",
