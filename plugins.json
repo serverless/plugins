@@ -464,6 +464,11 @@
     "githubUrl": "https://github.com/claygregory/serverless-prune-plugin",
     "status": "approved"
 }, {
+    "name": "@unly/serverless-env-copy-plugin",
+    "description": "Fetch environment variables and write it to a .env file - Maintained fork from https://github.com/Jimdo/serverless-dotenv",
+    "githubUrl": "https://github.com/UnlyEd/serverless-env-copy-plugin",
+    "status": "community"
+}, {
     "name": "@unly/serverless-plugin-dynamodb-backups",
     "description": "Configure automated DynamoDB \"On-Demand\" backups and manage backups lifecycle, powered by AWS Lambda",
     "githubUrl": "https://github.com/UnlyEd/serverless-plugin-dynamodb-backups",
