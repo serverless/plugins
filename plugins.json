@@ -874,6 +874,11 @@
     "githubUrl": "https://github.com/iliasbhal/serverless-static",
     "status": "none"
 }, {
+    "name": "serverless-plugin-static",
+    "description": "Serving static files locally with serverless-offline or a standalone command",
+    "githubUrl": "https://github.com/a-pavlenko/serverless-plugin-static",
+    "status": "none"
+}, {
     "name": "serverless-plugin-node-shim",
     "description": "Serverless plugin to run your functions in nodejs version (8 LTS, 9+) on aws lambda",
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim",
