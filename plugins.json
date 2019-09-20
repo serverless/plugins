@@ -289,6 +289,11 @@
     "githubUrl": "https://github.com/doapp-ryanp/serverless-plugin-browserify",
     "status": "community"
 }, {
+    "name": "serverless-plugin-datadog",
+    "description": "Monitoring, tracing, and real-time metrics for your Lambda functions",
+    "githubUrl": "https://github.com/DataDog/serverless-plugin-datadog",
+    "status": "none"   
+}, {
     "name": "serverless-plugin-diff",
     "description": "Compares your local AWS CloudFormation templates against deployed ones.",
     "githubUrl": "https://github.com/nicka/serverless-plugin-diff",
