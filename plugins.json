@@ -404,6 +404,11 @@
     "githubUrl": "https://github.com/horike37/serverless-step-functions",
     "status": "certified"
 }, {
+    "name": "serverless-lambda-layer-packager",
+    "description": "A Serverless plugin that allows you to maintain your normal project structure when developing Lambda Layers.",
+    "githubUrl": "https://github.com/bramhoven/serverless-lambda-layer-packager",
+    "status": "none"
+}, {
     "name": "serverless-apigateway-service-proxy",
     "description": "This Serverless Framewrok plugin supports the AWS service proxy integration feature of API Gateway.",
     "githubUrl": "https://github.com/horike37/serverless-apigateway-service-proxy",
