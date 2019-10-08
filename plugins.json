@@ -4,16 +4,21 @@
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
     "status": "none"
 }, {
+    "name": "serverless-localstack",
+    "description": "Serverless plugin for LocalStack - a fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "githubUrl": "https://github.com/LocalStack/serverless-localstack",
+    "status": "none"
+}, {
     "name": "serverless-plugin-test-helper",
     "description": "Makes it easier to end-to-end test deployed deployed services by saving CloudFormation Stack Outputs locally and exposing values via a simple Node.js library",
     "githubUrl": "https://github.com/manwaring/serverless-plugin-test-helper",
     "status": "none"
-},{
+}, {
     "name": "serverless-plugin-iam-checker",
     "description": "Helps automate security controls by preventing overly broad IAM permissions via customizable rules for both actions and resource references. Ships with restrictive defaults and supports custom rule configurations via serverless.yml and environment variables",
     "githubUrl": "https://github.com/manwaring/serverless-plugin-iam-checker",
     "status": "none"
-},{
+}, {
     "name": "serverless-export-outputs",
     "description": "A Serverless plugin for exporting AWS stack outputs to a file",
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs",
@@ -292,7 +297,7 @@
     "name": "serverless-plugin-datadog",
     "description": "Monitoring, tracing, and real-time metrics for your Lambda functions",
     "githubUrl": "https://github.com/DataDog/serverless-plugin-datadog",
-    "status": "none"   
+    "status": "none"
 }, {
     "name": "serverless-plugin-diff",
     "description": "Compares your local AWS CloudFormation templates against deployed ones.",
