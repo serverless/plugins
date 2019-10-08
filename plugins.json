@@ -104,6 +104,11 @@
     "githubUrl": "https://github.com/sid88in/serverless-appsync-plugin",
     "status": "approved"
 }, {
+    "name": "serverless-plugin-tag-cloud-watch-logs",
+    "description": "Small serverless plugin providing a way to add tags to CloudWatch resources",
+    "githubUrl": "https://github.com/pretty-fun-therapy/serverless-plugin-tag-cloud-watch-logs",
+    "status": "none"
+}, {
     "name": "serverless-appsync-offline",
     "description": "Serverless Plugin to run AWS AppSync GraphQL API localy with dynamoDB and lambda resolvers",
     "githubUrl": "https://github.com/aheissenberger/serverless-appsync-offline",
