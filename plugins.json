@@ -854,6 +854,11 @@
     "githubUrl": "https://github.com/RafPe/serverless-reqvalidator-plugin",
     "status": "approved"
 }, {
+    "name": "serverless-plugin-conditional-functions",
+    "description": "A plugin that allows adding simple feature flag per function via a boolean condition.",
+    "githubUrl": "https://github.com/go-dima/serverless-plugin-conditional-functions",
+    "status": "none"
+}, {
     "name": "serverless-ephemeral",
     "description": "Build and include custom stateless libraries for any language",
     "githubUrl": "https://github.com/Accenture/serverless-ephemeral",
