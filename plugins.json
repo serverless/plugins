@@ -1114,6 +1114,11 @@
     "githubUrl": "https://github.com/DianaIonita/serverless-api-gateway-caching",
     "status": "approved"
 }, {
+    "name": "serverless-api-gateway-throttling",
+    "description": "Serverless plugin which configures throttling for API Gateway endpoints",
+    "githubUrl": "https://github.com/DianaIonita/serverless-api-gateway-throttling",
+    "status": "none"
+}, {
     "name": "serverless-vpc-plugin",
     "description": "Serverless plugin to create a VPC",
     "githubUrl": "https://github.com/smoketurner/serverless-vpc-plugin",
