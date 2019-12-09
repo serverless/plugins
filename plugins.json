@@ -499,6 +499,11 @@
     "githubUrl": "https://github.com/UnlyEd/serverless-plugin-dynamodb-backups",
     "status": "community"
 }, {
+    "name": "serverless-convention",
+    "description": "Dynamically import resources by defining a convention, split up your yml",
+    "githubUrl": "https://github.com/LeoPlatform/serverless-convention",
+    "status": "none"
+}, {
     "name": "serverless-offline-scheduler",
     "description": "Runs scheduled functions offline while integrating with serverless-offline",
     "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler",
