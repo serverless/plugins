@@ -19,6 +19,11 @@
     "githubUrl": "https://github.com/manwaring/serverless-plugin-iam-checker",
     "status": "none"
 }, {
+    "name": "serverless-plugin-layer-manager",
+    "description": "Plugin for improved AWS Lambda layer management, including install hooks, export options and improved retain support",
+    "githubUrl": "https://github.com/henhal/serverless-plugin-layer-manager",
+    "status": "none"
+}, {
     "name": "serverless-export-outputs",
     "description": "A Serverless plugin for exporting AWS stack outputs to a file",
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs",
