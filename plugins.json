@@ -89,6 +89,11 @@
     "githubUrl": "https://github.com/serverless-local-proxy/serverless-local-proxy",
     "status": "community"
 }, {
+    "name": "serverless-print-resolved-plugin",
+    "description": "Generate a copy of serverless.yml with all variables resolved.",
+    "githubUrl": "https://github.com/neverendingqs/serverless-print-resolved-plugin",
+    "status": "none"
+}, {
     "name": "serverless-discovery-plugin",
     "description": "A serverless plugin to register AWS micro-service endpoints with a discovery service at serverless deploy or serverless remove time.",
     "githubUrl": "https://github.com/aregier/serverless-discovery-plugin",
