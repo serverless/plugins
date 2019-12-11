@@ -1445,6 +1445,30 @@
     "status": "approved"
   },
   {
+    "name": "serverless-configuration",
+    "description": "Easily customize serverless.yml depending on the stage or whether running online/offline",
+    "githubUrl": "https://github.com/jlopez/serverless-configuration",
+    "status": "none"
+  },
+  {
+    "name": "serverless-hooks",
+    "description": "Run npm scripts on serverless hook events",
+    "githubUrl": "https://github.com/jlopez/serverless-hooks",
+    "status": "none"
+  },
+  {
+    "name": "serverless-introspect",
+    "description": "Introspect serverless internals to aid plugin development",
+    "githubUrl": "https://github.com/jlopez/serverless-introspect",
+    "status": "none"
+  },
+  {
+    "name": "serverless-offline-cfstrip",
+    "description": "Strip CloudFormation serverless variables when running in offline mode",
+    "githubUrl": "https://github.com/jlopez/serverless-cfstrip",
+    "status": "none"
+  },
+  {
     "name": "serverless-sequelize-migrations",
     "description": "Manage Sequelize migrations on your serverless project",
     "githubUrl": "https://github.com/manelferreira/serverless-sequelize-migrations",
