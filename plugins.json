@@ -4,6 +4,11 @@
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
     "status": "none"
 }, {
+    "name": "serverless-plugin-modularize",
+    "description": "Modularize your serverless definitions",
+    "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-modularize",
+    "status": "none"
+}, {
     "name": "serverless-localstack",
     "description": "Serverless plugin for LocalStack - a fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
     "githubUrl": "https://github.com/LocalStack/serverless-localstack",
