@@ -774,6 +774,11 @@
     "githubUrl": "https://github.com/DopplerLabs/serverless-plugin-deploy-environment",
     "status": "community"
 }, {
+    "name": "serverless-import-config-plugin",
+    "description": "Import YAML files in serverless.yaml config file",
+    "githubUrl": "https://github.com/KrysKruk/serverless-import-config-plugin",
+    "status": "none"
+}, {
     "name": "serverless-plugin-aws-resolvers",
     "description": "Resolves variables from ESS, RDS, or Kinesis for serverless services",
     "githubUrl": "https://github.com/DopplerLabs/serverless-plugin-aws-resolvers",
