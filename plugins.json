@@ -164,6 +164,11 @@
     "githubUrl": "https://github.com/schwamster/serverless-certificate-creator",
     "status": "approved"
 }, {
+    "name": "serverless-apigator",
+    "description": "This serverless plugin enables you to write AWS lambda with typescript using Microgamma",
+    "githubUrl": "https://github.com/microgamma/microgamma",
+    "status": "none"
+}, {
     "name": "serverless-log-filter-subscription",
     "description": "This serverless plugin creates log filter subscription for all lambda functions configured in your projects serverless.yml",
     "githubUrl": "https://github.com/schwamster/serverless-log-filter-subscription",
