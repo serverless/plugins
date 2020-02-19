@@ -269,6 +269,11 @@
     "githubUrl": "https://github.com/dherault/serverless-offline",
     "status": "approved"
 }, {
+    "name": "serverless-offline-aws-ssm",
+    "description": "Read SSM parameters an offline.yml file instead of AWS",
+    "githubUrl": "https://github.com/foo4u/serverless-offline-aws-ssm",
+    "status": "none"
+}, {
     "name": "serverless-offline-ssm",
     "description": "Read SSM parameters from a .env file instead of AWS",
     "githubUrl": "https://github.com/janders223/serverless-offline-ssm",
