@@ -269,6 +269,11 @@
     "githubUrl": "https://github.com/dherault/serverless-offline",
     "status": "approved"
 }, {
+    "name": "serverless-offline-local-authorizers-plugin",
+    "description": "Serverless plugin for adding and mocking local authorizers when developing locally with serverless-offline.",
+    "githubUrl": "https://github.com/nlang/serverless-offline-local-authorizers-plugin",
+    "status": "none"
+}, {
     "name": "serverless-offline-ssm",
     "description": "Read SSM parameters from a .env file instead of AWS",
     "githubUrl": "https://github.com/janders223/serverless-offline-ssm",
