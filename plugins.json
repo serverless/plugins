@@ -269,6 +269,11 @@
     "githubUrl": "https://github.com/chechu/serverless-dynamodb-fixtures",
     "status": "none"
 }, {
+    "name": "serverless-dynamo-stream-plugin",
+    "description": "Creates and connects DynamoDB streams for pre-existing tables with AWS Lambdas using Serverless.",
+    "githubUrl": "https://github.com/commandeer/open/tree/development/serverless-dynamo-stream-plugin",
+    "status": "none"
+}, {
     "name": "serverless-offline",
     "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project",
     "githubUrl": "https://github.com/dherault/serverless-offline",
