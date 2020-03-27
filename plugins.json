@@ -89,6 +89,11 @@
     "githubUrl": "https://github.com/serverless-local-proxy/serverless-local-proxy",
     "status": "community"
 }, {
+    "name": "serverless-default-aws-resource-properties",
+    "description": "Set default properties a given CloudFormation resource should have based on type.",
+    "githubUrl": "https://github.com/neverendingqs/serverless-default-aws-resource-properties",
+    "status": "none"
+}, {
     "name": "serverless-print-resolved-plugin",
     "description": "Generate a copy of serverless.yml with all variables resolved.",
     "githubUrl": "https://github.com/neverendingqs/serverless-print-resolved-plugin",
