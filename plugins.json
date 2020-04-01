@@ -114,6 +114,11 @@
     "githubUrl": "https://github.com/sid88in/serverless-appsync-plugin",
     "status": "approved"
 }, {
+    "name": "serverless-appsync-simulator",
+    "description": "Offline support for serverless-appsync-plugin",
+    "githubUrl": "https://github.com/bboure/serverless-appsync-simulator",
+    "status": "none"
+}, {
     "name": "serverless-plugin-tag-cloud-watch-logs",
     "description": "Small serverless plugin providing a way to add tags to CloudWatch resources",
     "githubUrl": "https://github.com/pretty-fun-therapy/serverless-plugin-tag-cloud-watch-logs",
