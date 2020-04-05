@@ -74,6 +74,11 @@
     "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-vault-v2",
     "status": "none"
 }, {
+    "name": "serverless-justauthenticateme-plugin",
+    "description": "Use JustAuthenticateMe to easily authenticate users before hitting your lambdas",
+    "githubUrl": "https://github.com/CoalesceSoftware/serverless-justauthenticateme-plugin",
+    "status": "none"
+}, {
     "name": "serverless-openapi-plugin",
     "description": "Serverless plugin to generate serverless API architecture from OpenAPI definition.",
     "githubUrl": "https://github.com/jaumard/serverless-openapi-plugin",
