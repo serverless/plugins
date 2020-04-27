@@ -1537,5 +1537,11 @@
     "description": "Allows to create and run migrations using the serverless context",
     "githubUrl": "https://github.com/EliuX/serverless-migrate-plugin",
     "status": "none"
+  },
+  {
+    "name": "serverless-disable-functions",
+    "description": "A simple serverless plugin to disable functions.",
+    "githubUrl": "https://github.com/abeMedia/serverless-disable-functions",
+    "status": "none"
   }
 ]
