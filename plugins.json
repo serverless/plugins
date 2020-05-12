@@ -433,7 +433,12 @@
     "description": "A serverless plugin to pack C# lambdas functions that are spread to multiple CS projects.",
     "githubUrl": "https://github.com/tsibelman/serverless-multi-dotnet",
     "status": "community"
-}, {
+},{
+    "name": "serverless-plugin-apigateway-loggroups",
+    "description": "Plugin for the Serverless framework to customize ApiGateway logGroups Properties.",
+    "githubUrl": "https://github.com/kangcifong/serverless-plugin-apigateway-loggroups",
+    "status": "none"
+},{
     "name": "serverless-dotnet",
     "description": "A serverless plugin to run 'dotnet' commands as part of the deploy process",
     "githubUrl": "https://github.com/fruffin/serverless-dotnet",
