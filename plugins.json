@@ -374,6 +374,11 @@
     "githubUrl": "https://github.com/serverless-heaven/serverless-webpack",
     "status": "approved"
 }, {
+    "name": "serverless-esbuild",
+    "description": "Serverless plugin to bundle JavaScript and TypeScript lambdas with esbuild - an extremely fast bundler and minifier",
+    "githubUrl": "https://github.com/floydspace/serverless-esbuild",
+    "status": "community"
+}, {
     "name": "serverless-wsgi",
     "description": "Serverless plugin to deploy WSGI applications (Flask/Django/Pyramid etc.) and bundle Python packages",
     "githubUrl": "https://github.com/logandk/serverless-wsgi",
