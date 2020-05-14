@@ -609,6 +609,11 @@
     "githubUrl": "https://github.com/svdgraaf/serverless-parameters",
     "status": "community"
 }, {
+    "name": "serverless-git-commit-tracker",
+    "description": "Generates a version tracking file for web or API deployment containing the latest git commit version number, deployment stage, and date",
+    "githubUrl": "https://github.com/optimator999/serverless-git-commit-tracker",
+    "status": "none"
+},{
     "name": "serverless-plugin-epsagon",
     "description": "Distributed tracing that helps you monitor and troubleshoot your serverless applications.",
     "githubUrl": "https://github.com/epsagon/serverless-plugin-epsagon",
