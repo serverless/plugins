@@ -974,6 +974,11 @@
     "githubUrl": "https://github.com/jzimmek/serverless-plugin-node-shim",
     "status": "none"
 }, {
+    "name": "serverless-sagemaker-groundtruth",
+    "description": "Serverless Plugin with AWS Sagemaker Groundtruth utilities (local template testing, e2e tests ...)",
+    "githubUrl": "https://github.com/piercus/serverless-sagemaker-groundtruth",
+    "status": "none"
+}, {
     "name": "serverless-local-environment",
     "description": "Serverless plugin to set local environment variables and remote environment variable to different values",
     "githubUrl": "https://github.com/piercus/serverless-local-environment",
