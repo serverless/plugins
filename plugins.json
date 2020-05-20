@@ -1553,5 +1553,11 @@
     "description": "A simple serverless plugin to disable functions.",
     "githubUrl": "https://github.com/abeMedia/serverless-disable-functions",
     "status": "none"
+  },
+  {
+    "name": "serverless-lambda-edge-pre-existing-cloudfront",
+    "description": "A Serverless Framework plugin to create your Lambda@Edge against a pre-existing CloudFront.",
+    "githubUrl": "https://github.com/serverless-operations/serverless-lambda-edge-pre-existing-cloudfront",
+    "status": "none"
   }
 ]
