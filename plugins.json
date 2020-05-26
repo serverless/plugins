@@ -339,6 +339,11 @@
     "githubUrl": "https://github.com/FidelLimited/serverless-plugin-warmup",
     "status": "approved"
 }, {
+    "name": "serverless-plugin-aws-contributor-insights",
+    "description": "Support of AWS CloudWatch Contributor Insights",
+    "githubUrl": "https://github.com/kangcifong/serverless-plugin-aws-contributor-insights",
+    "status": "none"
+}, {
     "name": "serverless-plugin-browserify",
     "description": "Speed up your node based lambda's",
     "githubUrl": "https://github.com/doapp-ryanp/serverless-plugin-browserify",
