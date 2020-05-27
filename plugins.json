@@ -339,6 +339,11 @@
     "githubUrl": "https://github.com/FidelLimited/serverless-plugin-warmup",
     "status": "approved"
 }, {
+    "name": "serverless-plugin-aws-contributor-insights",
+    "description": "Support of AWS CloudWatch Contributor Insights",
+    "githubUrl": "https://github.com/kangcifong/serverless-plugin-aws-contributor-insights",
+    "status": "none"
+}, {
     "name": "serverless-plugin-browserify",
     "description": "Speed up your node based lambda's",
     "githubUrl": "https://github.com/doapp-ryanp/serverless-plugin-browserify",
@@ -433,7 +438,7 @@
     "description": "A serverless plugin to pack C# lambdas functions that are spread to multiple CS projects.",
     "githubUrl": "https://github.com/tsibelman/serverless-multi-dotnet",
     "status": "community"
-}, {
+},{
     "name": "serverless-dotnet",
     "description": "A serverless plugin to run 'dotnet' commands as part of the deploy process",
     "githubUrl": "https://github.com/fruffin/serverless-dotnet",
