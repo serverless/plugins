@@ -10,13 +10,9 @@ If you have ideas for features or plugins, add a new [thread](https://github.com
 
 ## Community Contributed Plugins
 
-Add your plugin to [the `plugins.json` file](https://github.com/serverless/community-plugins/edit/master/plugins.json) with the initial status to `none` , **then run `npm run docs` to regenerate the table below.**
+Add your plugin to [the `plugins.json` file](https://github.com/serverless/community-plugins/edit/master/plugins.json) with the initial status to `active` , **then run `npm run docs` to regenerate the table below.**
 
 **Note:** Please don't add your plugin at the end of the array in the `plugins.json` file to avoid conflicts. It'd be better if you choose a random place in the array.
-
-## Community, Approved and Certified Status
-
-In order for your plugin to be considered for Community, Approved or Certified status, they need to meet certain criteria listed [on this page](https://serverless.com/plugins/criteria/). If you feel your plugin meets that criteria and you wish to apply to have its status changed to match please complete the [form to apply for support status](https://docs.google.com/forms/d/e/1FAIpQLSfliYMIgUvmHzzPcs2JqZaGZ4e730yODa_h84YdX2HC0ruOgQ/viewform) and we will get back to you as soon as we have been able to confirm.
 
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (GENERATE_SERVERLESS_PLUGIN_TABLE)
 - Do not remove or modify this section. Make all updates to plugins.json -->
