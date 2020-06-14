@@ -4,6 +4,11 @@
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
     "status": "active"
 }, {
+    "name": "serverless-plugin-sumologic",
+    "description": "This Serverless plugin deploys Cloudformation Stack with resources required to send Cloudformation Logs to Sumologic. This stack uses AWS Lambda to subscribe to your CloudWatch Log Group and POSTs the log data directly to Sumo HTTP Source.",
+    "githubUrl": "https://github.com/ACloudGuru/serverless-plugin-sumologic",
+    "status": "active"
+}, {
     "name": "serverless-plugin-modularize",
     "description": "Modularize your serverless definitions",
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-modularize",
