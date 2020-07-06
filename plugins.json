@@ -439,6 +439,11 @@
     "githubUrl": "https://github.com/UnitedIncome/serverless-python-requirements",
     "status": "active"
 }, {
+    "name": "serverless-ruby-layer",
+    "description": "A Serverless Plugin to auto deploy gems to AWS Layer using Gemfile",
+    "githubUrl": "https://github.com/navarasu/serverless-ruby-layer",
+    "status": "active"
+}, {
     "name": "serverless-multi-dotnet",
     "description": "A serverless plugin to pack C# lambdas functions that are spread to multiple CS projects.",
     "githubUrl": "https://github.com/tsibelman/serverless-multi-dotnet",
