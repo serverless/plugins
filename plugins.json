@@ -179,6 +179,11 @@
     "githubUrl": "https://github.com/hypoport/serverless-custom-packaging-plugin",
     "status": "active"
 }, {
+    "name": "kumologica-serverless-plugin",
+    "description": "Plugin to package and deploy Kumologica flow into AWS",
+    "githubUrl": "https://github.com/KumologicaHQ/kumologica-serverless-plugin",
+    "status": "none"
+}, {
     "name": "serverless-apigw-binary",
     "description": "Plugin to enable binary support in AWS API Gateway.",
     "githubUrl": "https://github.com/maciejtreder/serverless-apigw-binary",
