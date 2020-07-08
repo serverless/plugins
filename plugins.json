@@ -1444,6 +1444,11 @@
     "githubUrl": "https://github.com/dougmoscrop/serverless-http",
     "status": "active"
 }, {
+    "name": "serverless-snowflake-external-function-plugin",
+    "description": "Serverless Plugin for deploying Snowflake External Functions",
+    "githubUrl": "https://github.com/starschema/serverless-snowflake-external-function-plugin",
+    "status": "active"
+}, {
     "name": "serverless-mysql",
     "description": "A module for managing MySQL connections at SERVERLESS scale",
     "githubUrl": "https://github.com/jeremydaly/serverless-mysql",
