@@ -1309,6 +1309,11 @@
     "githubUrl": "https://github.com/threadheap/serverless-plugin-parcel",
     "status": "active"
 }, {
+    "name": "serverless-plugin-tree-shake",
+    "description": "Shake the dependency tree and only package files needed",
+    "githubUrl": "https://github.com/sergioramos/serverless-plugin-tree-shake",
+    "status": "active"
+}, {
     "name": "serverless-plugin-typescript-express",
     "description": "Serverless plugin Typescript support with express integration",
     "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-typescript-express",
