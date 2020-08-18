@@ -14,6 +14,11 @@
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-modularize",
     "status": "active"
 }, {
+    "name": "serverless-provisioned-concurrency-autoscaling",
+    "description": "Serverless Plugin for AWS Lambda Provisioned Concurrency Auto Scaling configuration",
+    "githubUrl": "https://github.com/neiman-marcus/serverless-provisioned-concurrency-autoscaling",
+    "status": "active"
+}, {
     "name": "serverless-localstack",
     "description": "Serverless plugin for LocalStack - a fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
     "githubUrl": "https://github.com/LocalStack/serverless-localstack",
