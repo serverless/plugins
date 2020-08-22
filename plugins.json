@@ -39,6 +39,11 @@
     "githubUrl": "https://github.com/henhal/serverless-plugin-layer-manager",
     "status": "active"
 }, {
+    "name": "serverless-plugin-lambda-edge",
+    "description": "Plugin for Lambda@Edge, just associating your Lambda function with existing CloudFront distribution via AWS SDK",
+    "githubUrl": "https://github.com/isudzumi/serverless-plugin-lambda-edge",
+    "status": "active"
+}, {
     "name": "serverless-export-outputs",
     "description": "A Serverless plugin for exporting AWS stack outputs to a file",
     "githubUrl": "https://github.com/honarpour/serverless-export-outputs",
