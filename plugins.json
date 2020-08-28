@@ -29,6 +29,11 @@
     "githubUrl": "https://github.com/manwaring/serverless-plugin-test-helper",
     "status": "active"
 }, {
+    "name": "serverless-plugin-dart",
+    "description": "Deploy Dart applications to AWS Lambda",
+    "githubUrl": "https://github.com/katallaxie/serverless-dart",
+    "status": "active"
+}, {
     "name": "serverless-plugin-iam-checker",
     "description": "Helps automate security controls by preventing overly broad IAM permissions via customizable rules for both actions and resource references. Ships with restrictive defaults and supports custom rule configurations via serverless.yml and environment variables",
     "githubUrl": "https://github.com/manwaring/serverless-plugin-iam-checker",
