@@ -464,6 +464,11 @@
     "githubUrl": "https://github.com/UnitedIncome/serverless-python-requirements",
     "status": "active"
 }, {
+    "name": "serverless-pydeps",
+    "description": "Serverless plugin to quickly automate Python dependencies",
+    "githubUrl": "https://github.com/CloudSnorkel/serverless-pydeps",
+    "status": "active"
+}, {
     "name": "serverless-ruby-layer",
     "description": "A Serverless Plugin to auto deploy gems to AWS Layer using Gemfile",
     "githubUrl": "https://github.com/navarasu/serverless-ruby-layer",
