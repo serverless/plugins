@@ -24,6 +24,11 @@
     "githubUrl": "https://github.com/LocalStack/serverless-localstack",
     "status": "active"
 }, {
+    "name": "serverless-commercetools-plugin",
+    "description": "Serverless framework plugin that registers the deployed function as a commercetools API Extension or attaches it to a Subscription.",
+    "githubUrl": "https://github.com/commercetools/serverless-commercetools-plugin",
+    "status": "active"
+}, {
     "name": "serverless-plugin-test-helper",
     "description": "Makes it easier to end-to-end test deployed deployed services by saving CloudFormation Stack Outputs locally and exposing values via a simple Node.js library",
     "githubUrl": "https://github.com/manwaring/serverless-plugin-test-helper",
