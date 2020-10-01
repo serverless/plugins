@@ -1624,5 +1624,11 @@
     "description": "A Serverless Framework plugin to create your Lambda@Edge against a pre-existing CloudFront.",
     "githubUrl": "https://github.com/serverless-operations/serverless-lambda-edge-pre-existing-cloudfront",
     "status": "active"
+  },
+  {
+    "name": "serverless-offline-redis-server",
+    "description": "A plugin that will run a local Redis server alongside Serverless Offline",
+    "githubUrl": "https://github.com/apancutt/serverless-offline-redis-server",
+    "status": "active"
   }
 ]
