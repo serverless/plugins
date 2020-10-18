@@ -1004,6 +1004,11 @@
     "githubUrl": "https://github.com/functionalone/serverless-iam-roles-per-function",
     "status": "active"
 }, {
+    "name": "@fernthedev/serverless-offline-step-functions",
+    "description": "Serverless Offline Plugin to Support Step Functions for Local Development.",
+    "githubUrl": "https://github.com/jefer590/serverless-offline-step-functions",
+    "status": "active"
+},  {
     "name": "serverless-functions-base-path",
     "description": "Easily define a base path where your serverless functions are located.",
     "githubUrl": "https://github.com/kevinrambaud/serverless-functions-base-path",
