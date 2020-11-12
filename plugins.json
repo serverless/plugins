@@ -764,6 +764,11 @@
     "githubUrl": "https://github.com/DieProduktMacher/serverless-env-generator",
     "status": "active"
 }, {
+    "name": "@redtea/serverless-env-generator",
+    "description": "Manage environment variables with YAML and load them with dotenv. Supports variable encryption with KMS, multiple stages and custom profiles. Maintained fork from https://github.com/DieProduktMacher/serverless-env-generator with more advanced YAML anchors supporting and other.",
+    "githubUrl": "https://github.com/org-redtea/serverless-env-generator",
+    "status": "active"
+}, {
     "name": "serverless-plugin-embedded-env-in-code",
     "description": "Replace environment variables with static strings before deployment. It’s for Lambda@Edge.",
     "githubUrl": "https://github.com/zaru/serverless-plugin-embedded-env-in-code",
