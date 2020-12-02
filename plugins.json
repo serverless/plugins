@@ -135,6 +135,11 @@
     "githubUrl": "https://github.com/neverendingqs/serverless-default-aws-resource-properties",
     "status": "active"
 }, {
+    "name": "serverless-stack-policy-by-resource-type",
+    "description": "Serverless Framework plugin for automatically populating CloudFormation stack policy statements by resource type.",
+    "githubUrl": "https://github.com/neverendingqs/serverless-stack-policy-by-resource-type",
+    "status": "active"
+}, {
     "name": "serverless-print-resolved-plugin",
     "description": "Generate a copy of serverless.yml with all variables resolved.",
     "githubUrl": "https://github.com/neverendingqs/serverless-print-resolved-plugin",
