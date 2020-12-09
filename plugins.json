@@ -377,7 +377,7 @@
 }, {
     "name": "serverless-plugin-warmup",
     "description": "Keep your lambdas warm during Winter.",
-    "githubUrl": "https://github.com/FidelLimited/serverless-plugin-warmup",
+    "githubUrl": "https://github.com/juanjoDiaz/serverless-plugin-warmup",
     "status": "active"
 }, {
     "name": "serverless-plugin-aws-contributor-insights",
