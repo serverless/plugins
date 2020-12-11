@@ -1220,6 +1220,11 @@
     "githubUrl": "https://github.com/daniel-cottone/serverless-es-logs",
     "status": "active"
 }, {
+    "name": "serverless-whitelisting",
+    "description": "A Serverless plugin to create a whitelist for IP addresses, CIDR for a serverless application, using resource policies. Support privateStages, publicStages and publicPaths.",
+    "githubUrl": "https://github.com/tho-asterist/serverless-whitelisting",
+    "status": "active"
+}, {
     "name": "serverless-package-external",
     "description": "A Serverless plugin to add external folders to the deploy package",
     "githubUrl": "https://github.com/epsagon/serverless-package-external",
