@@ -185,6 +185,11 @@
     "githubUrl": "https://github.com/awslabs/aws-amplify-serverless-plugin",
     "status": "active"
 }, {
+    "name": "serverless-amplify-auth",
+    "description": "Update Policy for Amplify's Auth Role and Unauth Role",
+    "githubUrl": "https://github.com/nikaera/serverless-amplify-auth",
+    "status": "active"
+}, {
     "name": "serverless-cloudformation-parameter-setter",
     "description": "Set CloudFormation parameters when deploying.",
     "githubUrl": "https://github.com/trek10inc/serverless-cloudformation-parameter-setter",
@@ -1658,3 +1663,4 @@
     "status": "active"
   }
 ]
+
