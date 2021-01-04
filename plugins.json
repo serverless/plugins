@@ -15,6 +15,11 @@
     "githubUrl": "https://github.com/ACloudGuru/serverless-plugin-sumologic",
     "status": "active"
 }, {
+    "name": "serverless-plugin-apollo-graphql-federation",
+    "description": "A Serverless Framework that uploads a graphql schema to the Apollo Platform managed federation service",
+    "githubUrl": "https://github.com/Imran99/serverless-plugin-apollo-graphql-federation",
+    "status": "active"
+}, {
     "name": "serverless-plugin-modularize",
     "description": "Modularize your serverless definitions",
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-modularize",
