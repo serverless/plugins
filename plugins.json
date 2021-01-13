@@ -240,6 +240,11 @@
     "githubUrl": "https://github.com/microgamma/microgamma",
     "status": "active"
 }, {
+    "name": "serverless-plugin-required-option",
+    "description": "Serverless Framework plugin to require an option to be provided",
+    "githubUrl": "https://github.com/Collaborne/serverless-plugin-required-option",
+    "status": "active"
+}, {
     "name": "serverless-log-filter-subscription",
     "description": "This serverless plugin creates log filter subscription for all lambda functions configured in your projects serverless.yml",
     "githubUrl": "https://github.com/schwamster/serverless-log-filter-subscription",
