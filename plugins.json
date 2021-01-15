@@ -398,7 +398,7 @@
     "name": "serverless-plugin-browserify",
     "description": "Speed up your node based lambda's",
     "githubUrl": "https://github.com/doapp-ryanp/serverless-plugin-browserify",
-    "status": "active"
+    "status": "inactive"
 }, {
     "name": "serverless-plugin-datadog",
     "description": "Monitoring, tracing, and real-time metrics for your Lambda functions",
@@ -643,7 +643,7 @@
     "name": "serverless-sqs-alarms-plugin",
     "description": "Wrapper to setup CloudWatch Alarms on SQS queue length",
     "githubUrl": "https://github.com/sbstjn/serverless-sqs-alarms-plugin",
-    "status": "active"
+    "status": "inactive"
 }, {
     "name": "serverless-dotenv",
     "description": "Fetch environment variables and write it to a .env file",
@@ -753,6 +753,11 @@
     "name": "serverless-plugin-browserifier",
     "description": "Reduce the size and speed up your Node.js based lambda's using browserify.",
     "githubUrl": "https://github.com/digitalmaas/serverless-plugin-browserifier",
+    "status": "active"
+}, {
+    "name": "@digitalmaas/serverless-plugin-sqs-alarms",
+    "description": "Simplifies the setup of CloudWatch Alarms to monitor the visible messages in an SQS queue.",
+    "githubUrl": "https://github.com/digitalmaas/serverless-plugin-sqs-alarms",
     "status": "active"
 }, {
     "name": "serverless-shell",
