@@ -990,6 +990,11 @@
     "githubUrl": "https://github.com/MechanicalRock/serverless-sns-filter",
     "status": "active"
 }, {
+    "name": "serverless-apigateway-route-settings",
+    "description": "Configure Route Settings for HTTP API Gateway v2 (Throttling & Detailed Metrics)",
+    "githubUrl": "https://github.com/talbotp/serverless-apigateway-route-settings",
+    "status": "active"
+}, {
     "name": "serverless-plugin-tagsns",
     "description": "Serverless plugin to add Tags to SNS Topics",
     "githubUrl": "https://github.com/ManoManoTech/serverless-plugin-tagsns",
