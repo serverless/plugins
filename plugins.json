@@ -240,6 +240,11 @@
     "githubUrl": "https://github.com/microgamma/microgamma",
     "status": "active"
 }, {
+    "name": "serverless-plugin-1password",
+    "description": "Serverless interface to 1Password data via the 1Password CLI",
+    "githubUrl": "https://github.com/kandsten/serverless-plugin-1password",
+    "status": "active"
+}, {
     "name": "serverless-log-filter-subscription",
     "description": "This serverless plugin creates log filter subscription for all lambda functions configured in your projects serverless.yml",
     "githubUrl": "https://github.com/schwamster/serverless-log-filter-subscription",
