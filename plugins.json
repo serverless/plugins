@@ -455,6 +455,11 @@
     "githubUrl": "https://github.com/silvermine/serverless-plugin-multiple-responses",
     "status": "active"
 }, {
+    "name": "serverless-plugin-dot-template",
+    "description": "Generates output files based on Serverless variables and doT templates",
+    "githubUrl": "https://github.com/kandsten/serverless-plugin-dot-template",
+    "status": "active"
+}, {
     "name": "serverless-plugin-include-dependencies",
     "description": "This is a Serverless plugin that should make your deployed functions smaller.",
     "githubUrl": "https://github.com/dougmoscrop/serverless-plugin-include-dependencies",
