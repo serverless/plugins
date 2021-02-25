@@ -1375,7 +1375,14 @@
     "description": "Adds function Name and ARN outputs without version suffix",
     "githubUrl": "https://github.com/RogerBarreto/serverless-function-outputs",
     "status": "active"
-}, {
+},
+{
+  "name": "serverless-website-domain",
+  "description": "A plugin that creates Route 53 records that point to your Cloudfront hosted static website, including www/non-www redirects.",
+  "githubUrl": "https://github.com/williamsandonz/serverless-website-domain",
+  "status": "active"
+},
+{
     "name": "serverless-kms-grants",
     "description": "Create and revoke grants for AWS Lambda functions to use KMS keys.",
     "githubUrl": "https://github.com/deep-security/serverless-kms-grants",
