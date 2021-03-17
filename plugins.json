@@ -717,7 +717,7 @@
 },{
     "name": "serverless-plugin-lambda-insights",
     "description": "A Serverless Framework Plugin allowing to enable Lambda Insights.",
-    "githubUrl": "https://github.com/cstanger/serverless-plugin-lambda-insights",
+    "githubUrl": "https://github.com/awslabs/serverless-plugin-lambda-insights",
     "status": "active"
 },
  {
