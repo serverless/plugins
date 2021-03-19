@@ -75,6 +75,11 @@
     "githubUrl": "https://github.com/CodeRecipe-dev/serverless-apigw-sqs-plugin",
     "status": "active"
 }, {
+  "name": "serverless-mongodb-local",
+  "description": "Serverless MongoDB local plugin",
+  "githubUrl": "https://github.com/bealearts/serverless-mongodb-local",
+  "status": "active"
+}, {
     "name": "serverless-plugin-utils",
     "description": "A collection of serverless framework utilities",
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-utils",
@@ -1705,4 +1710,3 @@
     "status": "active"
   }
 ]
-
