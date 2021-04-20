@@ -305,6 +305,11 @@
     "githubUrl": "https://github.com/SC5/serverless-kms-secrets",
     "status": "active"
 }, {
+    "name": "serverless-openapi-integration-helper",
+    "description": "Provides functionality to merge stage-dependent x-amazon-apigateway integrations into openApiSpecification files ",
+    "githubUrl": "https://github.com/yndlingsfar/serverless-openapi-integration-helper",
+    "status": "active"
+}, {
     "name": "serverless-plugin-stack-outputs",
     "description": "Displays stack outputs for your serverless stacks when `sls info` is ran",
     "githubUrl": "https://github.com/svdgraaf/serverless-plugin-stack-outputs",
