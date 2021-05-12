@@ -1391,6 +1391,12 @@
   "status": "active"
 },
 {
+  "name": "serverless-output-to-env",
+  "description": "A Serverless plugin that writes stack outputs to an .env file during the after:deploy hook.",
+  "githubUrl": "https://github.com/williamsandonz/serverless-output-to-env",
+  "status": "active"
+},
+{
     "name": "serverless-kms-grants",
     "description": "Create and revoke grants for AWS Lambda functions to use KMS keys.",
     "githubUrl": "https://github.com/deep-security/serverless-kms-grants",
