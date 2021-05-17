@@ -1715,7 +1715,7 @@
     "status": "active"
   },
   {
-    "name": "serverless-ecs-plugin",
+    "name": "@hybridless/serverless-ecs-plugin",
     "description": "(ECR) - Elastic Container Service clusters, services, tasks and application load balancers made easy within your serverless definition.",
     "githubUrl": "https://github.com/hybridless/serverless-ecs-plugin",
     "status": "active"
