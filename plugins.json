@@ -1713,5 +1713,11 @@
     "description": "A plugin that will run a local Redis server alongside Serverless Offline",
     "githubUrl": "https://github.com/apancutt/serverless-offline-redis-server",
     "status": "active"
+  },
+  {
+    "name": "@hybridless/serverless-ecs-plugin",
+    "description": "(ECR) - Elastic Container Service clusters, services, tasks and application load balancers made easy within your serverless definition.",
+    "githubUrl": "https://github.com/hybridless/serverless-ecs-plugin",
+    "status": "active"
   }
 ]
