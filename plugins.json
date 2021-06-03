@@ -629,6 +629,11 @@
     "githubUrl": "https://github.com/LeoPlatform/serverless-convention",
     "status": "active"
 }, {
+    "name": "@fauna-labs/serverless-fauna",
+    "description": "Manage Fauna databases and resources directly in your serverless.yml file.",
+    "githubUrl": "https://github.com/fauna-labs/serverless-fauna",
+    "status": "active"
+}, {
     "name": "serverless-offline-scheduler",
     "description": "Runs scheduled functions offline while integrating with serverless-offline",
     "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler",
