@@ -950,6 +950,11 @@
     "githubUrl": "https://github.com/jeremydaly/serverless-stage-manager",
     "status": "active"
 }, {
+    "name": "serverless-lift",
+    "description": "Deploy high-level components such as static websites, buckets, queues, webhooks...",
+    "githubUrl": "https://github.com/getlift/lift",
+    "status": "active"
+}, {
     "name": "serverless-spa",
     "description": "Serverless plugin to deploy your website to AWS S3 using Webpack to bundle it.",
     "githubUrl": "https://github.com/gilmarsquinelato/serverless-spa",
