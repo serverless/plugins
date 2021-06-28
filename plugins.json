@@ -609,6 +609,11 @@
     "githubUrl": "https://github.com/nervous-systems/serverless-cljs-plugin",
     "status": "active"
 }, {
+    "name": "serverless-apigateway-log-retention",
+    "description": "Control the retention of your AWS ApiGateway access logs and execution logs.",
+    "githubUrl": "https://github.com/dvla/serverless-apigateway-log-retention",
+    "status": "active"
+}, {
     "name": "serverless-prune-plugin",
     "description": "Deletes old versions of functions from AWS, preserving recent and aliased versions",
     "githubUrl": "https://github.com/claygregory/serverless-prune-plugin",
