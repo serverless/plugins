@@ -825,6 +825,11 @@
     "githubUrl": "https://github.com/org-redtea/serverless-env-generator",
     "status": "active"
 }, {
+  "name": "@agiledigital/serverless-sns-sqs-lambda",
+  "description": "Provide the lambda function with the snsSqs event, the plugin will add the AWS SNS topic and subscription, SQS queue and dead letter queue, and the role need for the lambda.",
+  "githubUrl": "https://github.com/agiledigital/serverless-sns-sqs-lambda",
+  "status": "active"
+}, {
     "name": "serverless-plugin-embedded-env-in-code",
     "description": "Replace environment variables with static strings before deployment. It’s for Lambda@Edge.",
     "githubUrl": "https://github.com/zaru/serverless-plugin-embedded-env-in-code",
