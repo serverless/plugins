@@ -95,6 +95,11 @@
     "githubUrl": "https://github.com/alikian/mfa-serverless-plugin",
     "status": "active"
 }, {
+    "name": "serverless-deployment-group-plugin",
+    "description": "Plugin for deploying specific functions filtering by group.",
+    "githubUrl": "https://github.com/ftormo/serverless-deployment-group-plugin",
+    "status": "none"
+}, {
     "name": "serverless-ini-env",
     "description": "Nice Serverless plugin to setup environment variables with ini file",
     "githubUrl": "https://github.com/agutoli/serverless-ini-env",
