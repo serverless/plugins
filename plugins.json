@@ -115,6 +115,11 @@
     "githubUrl": "https://github.com/eliasjcjunior/serverless-plugin-vault-v2",
     "status": "active"
 }, {
+    "name": "serverless-plugin-powertools",
+    "description": "Serverless plugin adding several variable tools, resolvers, and commands",
+    "githubUrl": "https://github.com/whardier/serverless-plugin-powertools",
+    "status": "active"
+}, {
     "name": "serverless-justauthenticateme-plugin",
     "description": "Use JustAuthenticateMe to easily authenticate users before hitting your lambdas",
     "githubUrl": "https://github.com/CoalesceSoftware/serverless-justauthenticateme-plugin",
