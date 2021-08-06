@@ -1744,5 +1744,11 @@
     "description": "(ECR) - Elastic Container Service clusters, services, tasks and application load balancers made easy within your serverless definition.",
     "githubUrl": "https://github.com/hybridless/serverless-ecs-plugin",
     "status": "active"
+  },
+  {
+    "name": "serverless-slic-watch-plugin",
+    "description": "Automatically create CloudWatch alarms and dashboards for Lambda, SQS, Kinesis, DynamoDB, API Gateway and Step Functions",
+    "githubUrl": "https://github.com/fourTheorem/slic-watch",
+    "status": "active"
   }
 ]
