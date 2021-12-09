@@ -8,6 +8,11 @@
     "description": "Automatic deletion of old Lambda and Lambda Layer versions",
     "githubUrl": "https://github.com/manwaring/serverless-prune-versions",
     "status": "active"
+}, {
+    "name": "serverless-log-metric-filter",
+    "description": "Add Cloudwatch Log Metric Filter to Cloudwatch Logs",
+    "githubUrl": "https://github.com/saqemlas/serverless-log-metric-filter",
+    "status": "active"
 },
 {
     "name": "serverless-plugin-sumologic",
