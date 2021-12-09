@@ -1090,6 +1090,11 @@
     "githubUrl": "https://github.com/functionalone/serverless-iam-roles-per-function",
     "status": "active"
 }, {
+    "name": "serverless-frontend-plugin",
+    "description": "Deploy any type of frontend on AWS Cloudfront with Https/SSL termination with your serverless deployments. Integrates with serverless-offline for local development.",
+    "githubUrl": "https://github.com/rogersgt/serverless-frontend-plugin",
+    "status": "active"
+}, {
     "name": "@fernthedev/serverless-offline-step-functions",
     "description": "Serverless Offline Plugin to Support Step Functions for Local Development.",
     "githubUrl": "https://github.com/jefer590/serverless-offline-step-functions",
