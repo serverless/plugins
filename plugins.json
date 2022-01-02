@@ -150,9 +150,9 @@
     "githubUrl": "https://github.com/serverless-local-proxy/serverless-local-proxy",
     "status": "active"
 }, {
-    "name": "serverless-default-aws-resource-properties",
-    "description": "Set default properties a given CloudFormation resource should have based on type.",
-    "githubUrl": "https://github.com/neverendingqs/serverless-default-aws-resource-properties",
+    "name": "serverless-default-aws-resource-attributes",
+    "description": "Set default attributes a given CloudFormation resource should have based on type.",
+    "githubUrl": "https://github.com/neverendingqs/serverless-default-aws-resource-attributes",
     "status": "active"
 }, {
     "name": "serverless-stack-policy-by-resource-type",
