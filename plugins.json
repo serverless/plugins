@@ -389,6 +389,11 @@
     "githubUrl": "https://github.com/civicteam/serverless-offline-direct-lambda",
     "status": "active"
 }, {
+    "name": "serverless-offline-ses-v2",
+    "description": "Serverless plugin to run a local version of Amazon Simple Email Service (SES) supporting the V2 API",
+    "githubUrl": "https://github.com/domdomegg/serverless-offline-ses-v2",
+    "status": "active"
+}, {
 	"name": "serverless-offline-edge-lambda",
     "description": "A plugin for the Serverless Framework that simulates the behavior of AWS CloudFront Edge Lambdas while developing offline",
     "githubUrl": "https://github.com/evolv-ai/serverless-offline-edge-lambda",
