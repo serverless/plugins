@@ -1749,6 +1749,12 @@
     "status": "active"
   },
   {
+    "name": "serverless-better-credentials",
+    "description": "Extended AWS credentials resolution for the Serverless Framework: including Single Sign On (SSO) and credential_process support.",
+    "githubUrl": "https://github.com/thomasmichaelwallace/serverless-better-credentials",
+    "status": "active"
+  },
+  {
     "name": "serverless-offline-redis-server",
     "description": "A plugin that will run a local Redis server alongside Serverless Offline",
     "githubUrl": "https://github.com/apancutt/serverless-offline-redis-server",
