@@ -1,4 +1,9 @@
 [{
+    "name": "@failsafe-engineering/serverless-aws-apigateway-documentation",
+    "description": "Adds support for AWS API Gateway documentation and model",
+    "githubUrl": "https://github.com/failsafe-engineering/serverless-aws-apigateway-documentation",
+    "status": "active"
+},{
     "name": "serverless-plugin-typetalk",
     "description": "Sends notification to Typetalk",
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
