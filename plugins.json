@@ -1766,6 +1766,12 @@
     "status": "active"
   },
   {
+    "name": "serverless-fargate",
+    "description": "Maintain long-running Fargate tasks within your Serverless project",
+    "githubUrl": "https://github.com/eddmann/serverless-fargate",
+    "status": "active"
+  },
+  {
     "name": "@hybridless/serverless-ecs-plugin",
     "description": "(ECR) - Elastic Container Service clusters, services, tasks and application load balancers made easy within your serverless definition.",
     "githubUrl": "https://github.com/hybridless/serverless-ecs-plugin",
