@@ -9,6 +9,11 @@
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
     "status": "active"
 }, {
+    "name": "serverless-app-client-credentials-to-ssm",
+    "description": "Export Cognito app client credentials to SSM Parameter store",
+    "githubUrl": "https://github.com/GaaraZhu/serverless-app-client-credentials-to-ssm",
+    "status": "active"
+}, {
     "name": "serverless-prune-versions",
     "description": "Automatic deletion of old Lambda and Lambda Layer versions",
     "githubUrl": "https://github.com/manwaring/serverless-prune-versions",
