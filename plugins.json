@@ -80,7 +80,7 @@
     "githubUrl": "https://github.com/manwaring/serverless-plugin-iam-checker",
     "status": "active"
 }, {
-    "name": "serverless-plugin-layer-manager", 
+    "name": "serverless-plugin-layer-manager",
     "description": "Plugin for improved AWS Lambda layer management, including install hooks, export options and improved retain support",
     "githubUrl": "https://github.com/henhal/serverless-plugin-layer-manager",
     "status": "active"
@@ -158,11 +158,6 @@
     "name": "serverless-dotenv-plugin",
     "description": "Preload environment variables from `.env` into serverless.",
     "githubUrl": "https://github.com/infrontlabs/serverless-dotenv-plugin",
-    "status": "active"
-}, {
-    "name": "serverless-local-proxy",
-    "description": "A highly composable plugin for Serverless that speeds up your local development workflow.",
-    "githubUrl": "https://github.com/serverless-local-proxy/serverless-local-proxy",
     "status": "active"
 }, {
     "name": "serverless-default-aws-resource-attributes",
@@ -1042,7 +1037,7 @@
 }, {
     "name": "serverless-plugin-tracer",
     "description": "Trace serverless hooks as they execute",
-    "githubUrl": "https://github.com/enykeev/serverless-plugin-tracer/",
+    "githubUrl": "https://github.com/enykeev/serverless-plugin-tracer",
     "status": "active"
 }, {
     "name": "serverless-plugin-stackstorm",
@@ -1425,11 +1420,6 @@
     "githubUrl": "https://github.com/Rondineli/serverless-vault-plugin",
     "status": "active"
 }, {
-    "name": "serverless-function-gateway",
-    "description": "Publish AWS Lambda functions to selfhosted [function-gateway](https://github.com/KennethWussmann/function-gateway).",
-    "githubUrl": "https://github.com/KennethWussmann/serverless-function-gateway",
-    "status": "active"
-}, {
     "name": "serverless-function-outputs",
     "description": "Adds function Name and ARN outputs without version suffix",
     "githubUrl": "https://github.com/RogerBarreto/serverless-function-outputs",
@@ -1703,12 +1693,6 @@
     "name": "serverless-introspect",
     "description": "Introspect serverless internals to aid plugin development",
     "githubUrl": "https://github.com/jlopez/serverless-introspect",
-    "status": "active"
-  },
-  {
-    "name": "serverless-offline-cfstrip",
-    "description": "Strip CloudFormation serverless variables when running in offline mode",
-    "githubUrl": "https://github.com/jlopez/serverless-cfstrip",
     "status": "active"
   },
   {
