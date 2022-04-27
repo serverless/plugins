@@ -400,7 +400,7 @@
     "status": "active"
 }, {
     "name": "serverless-offline-ses-v2",
-    "description": "Serverless plugin to run a local version of Amazon Simple Email Service (SES) supporting the V2 API",
+    "description": "Serverless plugin to run a local version of Amazon Simple Email Service (SES) supporting the V1 and V2 SendEmail and SendRawEmail APIs",
     "githubUrl": "https://github.com/domdomegg/serverless-offline-ses-v2",
     "status": "active"
 }, {
