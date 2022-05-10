@@ -1175,6 +1175,11 @@
     "githubUrl": "https://github.com/sean9keenan/serverless-go-build",
     "status": "active"
 }, {
+    "name": "bref",
+    "description": "Deploy serverless PHP applications to AWS Lambda",
+    "githubUrl": "https://github.com/brefphp/bref",
+    "status": "active"
+}, {
     "name": "serverless-local-schedule",
     "description": "Schedule AWS CloudWatch Event based invocations in local time(with DST support!)",
     "githubUrl": "https://github.com/UnitedIncome/serverless-local-schedule",
