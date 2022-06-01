@@ -754,11 +754,6 @@
     "githubUrl": "https://github.com/epsagon/serverless-plugin-epsagon",
     "status": "active"
 }, {
-    "name": "serverless-pseudo-parameters",
-    "description": "Use ${AWS::AccountId} and other cloudformation pseudo parameters in your serverless.yml values",
-    "githubUrl": "https://github.com/svdgraaf/serverless-pseudo-parameters",
-    "status": "active"
-}, {
     "name": "serverless-dynamodb-ttl",
     "description": "Configure DynamoDB TTL in serverless.yml (until CloudFormation supports this).",
     "githubUrl": "https://github.com/Jimdo/serverless-dynamodb-ttl",
