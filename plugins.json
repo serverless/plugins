@@ -664,6 +664,11 @@
     "githubUrl": "https://github.com/LeoPlatform/serverless-convention",
     "status": "active"
 }, {
+    "name": "serverless-openapi-documenter",
+    "description": "A plugin that creates a valid OpenAPI 3.0.X json or yaml schema as well as being able to output a Postman Collection v2 in json.",
+    "githubUrl": "https://github.com/JaredCE/serverless-openapi-documenter",
+    "status": "active"
+}, {
     "name": "serverless-offline-scheduler",
     "description": "Runs scheduled functions offline while integrating with serverless-offline",
     "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler",
