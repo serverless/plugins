@@ -9,6 +9,11 @@
     "githubUrl": "https://github.com/failsafe-engineering/serverless-aws-apigateway-documentation",
     "status": "active"
 },{
+    "name": "serverless-aws-function-url-custom-domain",
+    "description": "Setup cloudfront distrubution and route53 record for AWS Lambda with Function URL",
+    "githubUrl": "https://github.com/wangsha/serverless-aws-function-url-custom-domain",
+    "status": "active"
+},{
     "name": "serverless-plugin-typetalk",
     "description": "Sends notification to Typetalk",
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
