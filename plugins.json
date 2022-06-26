@@ -1300,6 +1300,11 @@
     "githubUrl": "https://github.com/softprops/serverless-rust",
     "status": "active"
 }, {
+    "name": "sls-rust",
+    "description": "A Serverless plugin to deploy Rust applications",
+    "githubUrl": "https://github.com/fdaciuk/sls-rust",
+    "status": "active"
+},{
     "name": "serverless-oncall",
     "description": "Easily manage oncall for your serverless services",
     "githubUrl": "https://github.com/softprops/serverless-oncall",
