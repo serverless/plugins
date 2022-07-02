@@ -724,6 +724,11 @@
     "githubUrl": "https://github.com/uswitch/serverless-hooks-plugin",
     "status": "active"
 }, {
+    "name": "serverless-offline-watcher",
+    "description": "Run arbitrary commands when files are changed while running serverless-offline",
+    "githubUrl": "https://github.com/domdomegg/serverless-offline-watcher",
+    "status": "active"
+}, {
     "name": "serverless-dynalite",
     "description": "Run dynalite locally (no JVM, all JS) to simulate DynamoDB. Watch serverless.yml for table config updates.",
     "githubUrl": "https://github.com/sdd/serverless-dynalite",
