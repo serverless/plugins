@@ -9,6 +9,11 @@
     "githubUrl": "https://github.com/failsafe-engineering/serverless-aws-apigateway-documentation",
     "status": "active"
 },{
+    "name": "@vulcancreative/serverless-storage",
+    "description": "Serverless plugin defining DynamoDB storage primitives; like localStorage but better",
+    "githubUrl": "https://github.com/vulcancreative/serverless-storage",
+    "status": "active"
+},{
     "name": "serverless-aws-function-url-custom-domain",
     "description": "Setup cloudfront distrubution and route53 record for AWS Lambda with Function URL",
     "githubUrl": "https://github.com/wangsha/serverless-aws-function-url-custom-domain",
