@@ -840,6 +840,11 @@
     "githubUrl": "https://github.com/UnitedIncome/serverless-shell",
     "status": "active"
 }, {
+    "name": "@edgedelta/serverless-plugin-edgedelta",
+    "description": "Deploy our Lambda extension to monitor real time logs of your functions.",
+    "githubUrl": "https://github.com/edgedelta/serverless-lambda-plugin",
+    "status": "active"
+}, {
     "name": "serverless-stack-output",
     "description": "Store output from your AWS CloudFormation Stack in JSON/YAML/TOML files, or to pass it to a JavaScript function for further processing.",
     "githubUrl": "https://github.com/sbstjn/serverless-stack-output",
