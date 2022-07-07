@@ -840,7 +840,7 @@
     "githubUrl": "https://github.com/UnitedIncome/serverless-shell",
     "status": "active"
 }, {
-    "name": "@edgedelta/serverless-plugin-edgedelta",
+    "name": "@edgedelta/serverless-lambda-extension",
     "description": "Deploy our Lambda extension to monitor real time logs of your functions.",
     "githubUrl": "https://github.com/edgedelta/serverless-lambda-plugin",
     "status": "active"
