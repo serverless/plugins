@@ -55,6 +55,26 @@
     "githubUrl": "https://github.com/icarus-sullivan/serverless-plugin-modularize",
     "status": "active"
 }, {
+    "name": "@stratiformdigital/serverless-online",
+    "description": "Faster lambda development in AWS through hot deploys and streaming logs.",
+    "githubUrl": "https://github.com/stratiformdigital/serverless-online",
+    "status": "active"
+}, {
+    "name": "@stratiformdigital/serverless-iam-helper",
+    "description": "Applies IAM Path and PermissionsBoundary settings in hard to reach places.",
+    "githubUrl": "https://github.com/stratiformdigital/serverless-iam-helper",
+    "status": "active"
+}, {
+    "name": "@stratiformdigital/serverless-idempotency-helper",
+    "description": "Helps make lambda deployments idempotent",
+    "githubUrl": "https://github.com/stratiformdigital/serverless-idempotency-helper",
+    "status": "active"
+}, {
+    "name": "@stratiformdigital/serverless-s3-security-helper",
+    "description": "Sets security minded settings on s3 buckets, including sls deployment buckets",
+    "githubUrl": "https://github.com/stratiformdigital/serverless-s3-security-helper",
+    "status": "active"
+}, {
     "name": "serverless-provisioned-concurrency-autoscaling",
     "description": "Serverless Plugin for AWS Lambda Provisioned Concurrency Auto Scaling configuration",
     "githubUrl": "https://github.com/neiman-marcus/serverless-provisioned-concurrency-autoscaling",
