@@ -1816,6 +1816,12 @@
     "status": "active"
   },
   {
+    "name": "serverless-plugin-telegram-webhook",
+    "description": "serverless plugin to set your lambda api gateway url as your telegram bot webhook.",
+    "githubUrl": "https://github.com/fuadop/serverless-plugin-telegram-webhook",
+    "status": "active"
+  },
+  {
     "name": "@hybridless/serverless-ecs-plugin",
     "description": "(ECR) - Elastic Container Service clusters, services, tasks and application load balancers made easy within your serverless definition.",
     "githubUrl": "https://github.com/hybridless/serverless-ecs-plugin",
