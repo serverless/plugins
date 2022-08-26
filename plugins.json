@@ -1,4 +1,9 @@
 [{
+    "name": "@swarmion/serverless-cdk-plugin",
+    "description": "Use the CDK as a cloudformation generator fed to the serverless deployment process. Requires typescript.",
+    "githubUrl": "https://github.com/swarmion/swarmion/tree/main/packages/serverless-cdk-plugin",
+    "status": "active"
+},{
     "name": "@kakkuk/serverless-aws-lambda-dynamic-trigger",
     "description": "Allows to register sns, sqs and kinesis triggers (events) dynamically.",
     "githubUrl": "https://github.com/failsafe-engineering/serverless-aws-lambda-dynamic-trigger",
