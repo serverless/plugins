@@ -229,7 +229,6 @@
     "description": "Offline support for serverless-appsync-plugin",
     "githubUrl": "https://github.com/bboure/serverless-appsync-simulator",
     "status": "active"
-}, 
 }, {
     "name": "serverless-remote-json-envs",
     "description": "Allows to use plain JSON files in remote locations being parsed as environment variables in lambda",
