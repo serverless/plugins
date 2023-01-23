@@ -230,6 +230,11 @@
     "githubUrl": "https://github.com/bboure/serverless-appsync-simulator",
     "status": "active"
 }, {
+    "name": "serverless-remote-json-envs",
+    "description": "Allows to use plain JSON files in remote locations being parsed as environment variables in lambda",
+    "githubUrl": "https://github.com/juancarestre/serverless-remote-json-envs",
+    "status": "active"
+}, {
     "name": "serverless-plugin-tag-cloud-watch-logs",
     "description": "Small serverless plugin providing a way to add tags to CloudWatch resources",
     "githubUrl": "https://github.com/pretty-fun-therapy/serverless-plugin-tag-cloud-watch-logs",
