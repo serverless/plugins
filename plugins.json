@@ -195,6 +195,11 @@
     "githubUrl": "https://github.com/infrontlabs/serverless-dotenv-plugin",
     "status": "active"
 }, {
+    "name": "serverless-disable-request-validators",
+    "description": "Serverless v2/v3 plugin to disable API Gateway request validators.",
+    "githubUrl": "https://github.com/jweyrich/serverless-disable-request-validators",
+    "status": "active"
+}, {
     "name": "serverless-default-aws-resource-attributes",
     "description": "Set default attributes a given CloudFormation resource should have based on type.",
     "githubUrl": "https://github.com/neverendingqs/serverless-default-aws-resource-attributes",
