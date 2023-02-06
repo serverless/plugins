@@ -24,6 +24,11 @@
     "githubUrl": "https://github.com/is2ei/serverless-plugin-typetalk",
     "status": "active"
 }, {
+    "name": "serverless-aws-lambda",
+    "description": "Plug & Play AWS Lambda NodeJS development tool with local API Gateway and Application Load Balancer support.",
+    "githubUrl": "https://github.com/Inqnuam/serverless-aws-lambda",
+    "status": "active"
+},{
     "name": "serverless-app-client-credentials-to-ssm",
     "description": "Export Cognito app client credentials to SSM Parameter store",
     "githubUrl": "https://github.com/GaaraZhu/serverless-app-client-credentials-to-ssm",
