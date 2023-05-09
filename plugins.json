@@ -620,8 +620,8 @@
     "status": "active"
 }, {
     "name": "serverless-step-functions",
-    "description": "AWS Step Functions with Serverless Framework.",
-    "githubUrl": "https://github.com/horike37/serverless-step-functions",
+    "description": "AWS Step Functions plugin for Serverless Framework",
+    "githubUrl": "https://github.com/serverless-operations/serverless-step-functions",
     "status": "active"
 }, {
     "name": "serverless-lambda-layer-packager",
