@@ -719,6 +719,11 @@
     "githubUrl": "https://github.com/JaredCE/serverless-openapi-documenter",
     "status": "active"
 }, {
+    "name": "serverless-webhooks",
+    "description": "Serverless Webhooks plugin simplifies the creation and management of webhooks.",
+    "githubUrl": "https://github.com/franc-liuzzi/serverless-webhooks",
+    "status": "active"
+}, {
     "name": "serverless-offline-scheduler",
     "description": "Runs scheduled functions offline while integrating with serverless-offline",
     "githubUrl": "https://github.com/ajmath/serverless-offline-scheduler",
