@@ -1,4 +1,5 @@
-[{
+[
+{
     "name": "@kakkuk/serverless-aws-lambda-dynamic-trigger",
     "description": "Allows to register sns, sqs and kinesis triggers (events) dynamically.",
     "githubUrl": "https://github.com/failsafe-engineering/serverless-aws-lambda-dynamic-trigger",
@@ -118,6 +119,11 @@
     "name": "serverless-plugin-layer-manager",
     "description": "Plugin for improved AWS Lambda layer management, including install hooks, export options and improved retain support",
     "githubUrl": "https://github.com/henhal/serverless-plugin-layer-manager",
+    "status": "active"
+}, {
+    "name": "@uninterrupted/serverless-plugin-webform",
+    "description": "Seamless and comprehensive solution to simplify the creation and management of web forms in AWS serverless.",
+    "githubUrl": "https://github.com/uninterrupted-tech/serverless-plugin-webform",
     "status": "active"
 }, {
     "name": "serverless-plugin-lambda-edge",
