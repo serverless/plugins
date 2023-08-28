@@ -1384,7 +1384,14 @@
     "description": "A Serverless plugin to add external folders to the deploy package",
     "githubUrl": "https://github.com/epsagon/serverless-package-external",
     "status": "active"
-}, {
+}, 
+{
+    "name": "serverless-exports-plugin",
+    "description": "Serverless plugin to export environment variables and stack outputs",
+    "githubUrl": "https://github.com/zirkelc/serverless-exports-plugin",
+    "status": "active"
+},
+{
     "name": "serverless-consul-variables",
     "description": "Retrieve serverless variables from Consul kv",
     "githubUrl": "https://github.com/zephrax/serverless-consul-variables",
