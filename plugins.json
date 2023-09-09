@@ -1841,5 +1841,11 @@
     "description": "Automatically create CloudWatch alarms and dashboards for Lambda, SQS, Kinesis, DynamoDB, API Gateway and Step Functions",
     "githubUrl": "https://github.com/fourTheorem/slic-watch",
     "status": "active"
+  },
+  {
+    "name": "serverless-aws-secrets",
+    "description": "Serverless plugin to load AWS Secrets Manager secrets using environment variables",
+    "githubUrl": "https://github.com/robin-thomas/serverless-aws-secrets",
+    "status": "active"
   }
 ]
