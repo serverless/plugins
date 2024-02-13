@@ -1841,5 +1841,11 @@
     "description": "Automatically create CloudWatch alarms and dashboards for Lambda, SQS, Kinesis, DynamoDB, API Gateway and Step Functions",
     "githubUrl": "https://github.com/fourTheorem/slic-watch",
     "status": "active"
+  },
+  {
+    "name": "serverless-ansible-vault",
+    "description": "Enable the use of ansible vault variables in your serverless config!",
+    "githubUrl": "https://github.com/junaide/serverless-ansible-vault",
+    "status": "active"
   }
 ]
