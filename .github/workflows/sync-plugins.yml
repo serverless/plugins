@@ -40,7 +40,7 @@ jobs:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY_DEV }}
           ALGOLIA_APP_ID: V3VM7IN3TH
           ALGOLIA_PLUGINS_INDEX: dev_PLUGINS_SEARCH_GROWTH
-        run: node sync-script.js
+        run: node sync-plugins.js
 
       # Step to run sync process with production environment variables on push to master
       - name: Run sync process with prod env vars
@@ -51,4 +51,4 @@ jobs:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY_PROD }}
           ALGOLIA_APP_ID: V3VM7IN3TH
           ALGOLIA_PLUGINS_INDEX: prod_PLUGINS_SEARCH_GROWTH
-        run: node sync-script.js
+        run: node sync-plugins.js

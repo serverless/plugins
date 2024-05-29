@@ -73,8 +73,8 @@ const fetchJson = async (url) => {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
     return await response.json();
-  } catch (error) {
-    console.error(`Failed to fetch JSON from ${url}`, error);
+  } catch (err) {
+    console.error(`Failed to fetch JSON from ${url}`, getErrorMessage(err));
     return null;
   }
 };
@@ -132,6 +132,13 @@ const getGitlabRepoInfo = async ({ owner, repo }) => {
   };
 };
 
+export const getErrorMessage = (err) =>
+  err?.response?.data?.error ||
+  err?.response?.data?.errorMessage ||
+  err?.response?.data?.message ||
+  err?.message ||
+  '';
+
 /**
  * Get repo info from GitHub.
  * @param {Object} params - The parameters.
@@ -150,7 +157,7 @@ const getGithubRepoInfo = async ({ owner, repo }) => {
       authorName: res.data.owner.login || '',
     };
   } catch (err) {
-    console.error(`Can't find repo ${repo}`, err);
+    console.error(`Can't find repo ${repo}`, getErrorMessage(err));
     return {
       githubStars: 0,
       authorAvatar: '',
@@ -179,7 +186,10 @@ export const getRepoInfo = async ({ owner = '', repo = '', source }) => {
         throw new Error(`Unsupported source: ${source}`);
     }
   } catch (err) {
-    console.error(`Error getting repo info for ${repo} from ${source}`, err);
+    console.error(
+      `Error getting repo info for ${repo} from ${source}`,
+      getErrorMessage(err),
+    );
     return {
       githubStars: 0,
       authorAvatar: '',
@@ -265,10 +275,10 @@ export const getReadmeContent = async ({ owner, repo, dir, source }) => {
     }
 
     return res;
-  } catch (error) {
+  } catch (err) {
     console.error(
       `Error getting readme content for ${repo} from ${source}`,
-      error,
+      getErrorMessage(err),
     );
     return null;
   }
@@ -328,7 +338,10 @@ export const createWebflowItem = async (collectionId, fieldData = {}) => {
     console.log(`Created ${fieldData.name} in Webflow successfully`);
     return res;
   } catch (err) {
-    console.error(`Error creating item ${fieldData.name}`, err);
+    console.error(
+      `Error creating item ${fieldData.name}`,
+      getErrorMessage(err),
+    );
     // Implement rate limit handling and retry logic if necessary
     await awaitWebflowRateLimit(err, () =>
       createWebflowItem(collectionId, fieldData),
@@ -360,7 +373,10 @@ export const updateWebflowItem = async (
     console.log(`Updated ${fieldData.name} in Webflow successfully`);
     return res;
   } catch (err) {
-    console.error(`Error updating item ${fieldData.name}`, err);
+    console.error(
+      `Error updating item ${fieldData.name}`,
+      getErrorMessage(err),
+    );
     // Implement rate limit handling and retry logic if necessary
     await awaitWebflowRateLimit(err, () =>
       updateWebflowItem(collectionId, itemId, fieldData),
@@ -399,7 +415,7 @@ export const listWebflowCollectionItems = async (
 
     return items;
   } catch (err) {
-    console.error('Error getting collection items', err);
+    console.error('Error getting collection items', getErrorMessage(err));
     // Implement rate limit handling and retry logic if necessary
     await awaitWebflowRateLimit(err, () =>
       listWebflowCollectionItems(collectionId, offset, itemsLength),
@@ -421,7 +437,7 @@ export const deleteWebflowItem = async (collectionId, itemId) => {
     console.log(`Deleted item ${itemId} from Webflow successfully`);
     return res;
   } catch (err) {
-    console.error(`Error deleting item ${itemId}`, err);
+    console.error(`Error deleting item ${itemId}`, getErrorMessage(err));
     // Implement rate limit handling and retry logic if necessary
     await awaitWebflowRateLimit(err, () =>
       deleteWebflowItem(collectionId, itemId),
@@ -527,7 +543,10 @@ export const createAlgoliaItem = async (item) => {
     return response;
   } catch (err) {
     // Log and rethrow the error if the creation fails
-    console.error(`Failed to create Algolia item: ${item.objectID}`, err);
+    console.error(
+      `Failed to create Algolia item: ${item.objectID}`,
+      getErrorMessage(err),
+    );
     throw err;
   }
 };
@@ -545,7 +564,10 @@ export const updateAlgoliaItem = async (item) => {
     return response;
   } catch (err) {
     // Log and rethrow the error if the update fails
-    console.error(`Failed to update Algolia item: ${item.objectID}`, err);
+    console.error(
+      `Failed to update Algolia item: ${item.objectID}`,
+      getErrorMessage(err),
+    );
     throw err;
   }
 };
@@ -565,7 +587,10 @@ export const deleteAlgoliaItem = async (objectID) => {
   } catch (err) {
     // Log and rethrow the error if the deletion fails
 
-    console.error(`Failed to delete Algolia item: ${objectID}`, err);
+    console.error(
+      `Failed to delete Algolia item: ${objectID}`,
+      getErrorMessage(err),
+    );
     throw err;
   }
 };
@@ -592,7 +617,7 @@ export const listAlgoliaItems = async () => {
 
     return items;
   } catch (err) {
-    console.error('Failed to list Algolia items', err);
+    console.error('Failed to list Algolia items', getErrorMessage(err));
     throw err;
   }
 };
@@ -628,7 +653,10 @@ export const listAndCheckDuplicates = async () => {
       console.log('No duplicate items found.');
     }
   } catch (err) {
-    console.error('Failed to list Algolia items and check for duplicates', err);
+    console.error(
+      'Failed to list Algolia items and check for duplicates',
+      getErrorMessage(err),
+    );
     throw err;
   }
 };
