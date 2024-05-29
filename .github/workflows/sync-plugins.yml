@@ -4,9 +4,13 @@ name: Sync Plugins
 on:
   pull_request:
     types: [opened, synchronize]
+    paths:
+      - 'plugins.json'
   push:
     branches:
       - master
+    paths:
+      - 'plugins.json'
 
 jobs:
   sync_plugins:
