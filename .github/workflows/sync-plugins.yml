@@ -36,19 +36,19 @@ jobs:
         if: github.event_name == 'pull_request'
         env:
           WEBFLOW_SYNC_AND_PUBLISH_TOKEN: ${{ secrets.WEBFLOW_SYNC_AND_PUBLISH_TOKEN_DEV }}
-          WEBFLOW_PLUGINS_COLLECTION_ID: ${{ secrets.DEV_WEBFLOW_PLUGINS_COLLECTION_ID_DEV }}
-          ALGOLIA_APP_ID: ${{ secrets.DEV_ALGOLIA_APP_ID_DEV }}
-          ALGOLIA_PLUGINS_INDEX: ${{ secrets.DEV_ALGOLIA_PLUGINS_INDEX_DEV }}
-          ALGOLIA_API_KEY: ${{ secrets.DEV_ALGOLIA_API_KEY_DEV }}
+          WEBFLOW_PLUGINS_COLLECTION_ID: ${{ secrets.WEBFLOW_PLUGINS_COLLECTION_ID_DEV }}
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY_DEV }}
+          ALGOLIA_APP_ID: V3VM7IN3TH
+          ALGOLIA_PLUGINS_INDEX: dev_PLUGINS_SEARCH_GROWTH
         run: node sync-script.js
 
       # Step to run sync process with production environment variables on push to master
       - name: Run sync process with prod env vars
         if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         env:
-          WEBFLOW_SYNC_AND_PUBLISH_TOKEN: ${{ secrets.PROD_WEBFLOW_SYNC_AND_PUBLISH_TOKEN }}
-          WEBFLOW_PLUGINS_COLLECTION_ID: ${{ secrets.PROD_WEBFLOW_PLUGINS_COLLECTION_ID }}
-          ALGOLIA_APP_ID: ${{ secrets.PROD_ALGOLIA_APP_ID }}
-          ALGOLIA_PLUGINS_INDEX: ${{ secrets.PROD_ALGOLIA_PLUGINS_INDEX }}
-          ALGOLIA_API_KEY: ${{ secrets.PROD_ALGOLIA_API_KEY }}
+          WEBFLOW_SYNC_AND_PUBLISH_TOKEN: ${{ secrets.WEBFLOW_SYNC_AND_PUBLISH_TOKEN_PROD }}
+          WEBFLOW_PLUGINS_COLLECTION_ID: ${{ secrets.WEBFLOW_PLUGINS_COLLECTION_ID_PROD }}
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY_PROD }}
+          ALGOLIA_APP_ID: V3VM7IN3TH
+          ALGOLIA_PLUGINS_INDEX: prod_PLUGINS_SEARCH_GROWTH
         run: node sync-script.js
