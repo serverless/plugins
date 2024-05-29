@@ -1,0 +1,50 @@
+name: Sync Plugins
+
+# Trigger the workflow on pull requests and pushes to master
+on:
+  pull_request:
+    types: [opened, synchronize]
+  push:
+    branches:
+      - master
+
+jobs:
+  sync_plugins:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step to check out the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Step to set up Node.js environment
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      # Step to install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Step to run sync process with development environment variables on PR events
+      - name: Run sync process with dev env vars
+        if: github.event_name == 'pull_request'
+        env:
+          WEBFLOW_SYNC_AND_PUBLISH_TOKEN: ${{ secrets.WEBFLOW_SYNC_AND_PUBLISH_TOKEN_DEV }}
+          WEBFLOW_PLUGINS_COLLECTION_ID: ${{ secrets.DEV_WEBFLOW_PLUGINS_COLLECTION_ID_DEV }}
+          ALGOLIA_APP_ID: ${{ secrets.DEV_ALGOLIA_APP_ID_DEV }}
+          ALGOLIA_PLUGINS_INDEX: ${{ secrets.DEV_ALGOLIA_PLUGINS_INDEX_DEV }}
+          ALGOLIA_API_KEY: ${{ secrets.DEV_ALGOLIA_API_KEY_DEV }}
+        run: node sync-script.js
+
+      # Step to run sync process with production environment variables on push to master
+      - name: Run sync process with prod env vars
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        env:
+          WEBFLOW_SYNC_AND_PUBLISH_TOKEN: ${{ secrets.PROD_WEBFLOW_SYNC_AND_PUBLISH_TOKEN }}
+          WEBFLOW_PLUGINS_COLLECTION_ID: ${{ secrets.PROD_WEBFLOW_PLUGINS_COLLECTION_ID }}
+          ALGOLIA_APP_ID: ${{ secrets.PROD_ALGOLIA_APP_ID }}
+          ALGOLIA_PLUGINS_INDEX: ${{ secrets.PROD_ALGOLIA_PLUGINS_INDEX }}
+          ALGOLIA_API_KEY: ${{ secrets.PROD_ALGOLIA_API_KEY }}
+        run: node sync-script.js
