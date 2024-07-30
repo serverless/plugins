@@ -90,6 +90,11 @@
     "githubUrl": "https://github.com/LocalStack/serverless-localstack",
     "status": "active"
 }, {
+    "name": "serverless-git-version-compare",
+    "description": "Deploy only if there were git changes since the last deployment",
+    "githubUrl": "https://github.com/YonatanGreenfeld/serverless-git-version-compare",
+    "status": "active"
+}, {
     "name": "serverless-commercetools-plugin",
     "description": "Serverless framework plugin that registers the deployed function as a commercetools API Extension or attaches it to a Subscription.",
     "githubUrl": "https://github.com/commercetools/serverless-commercetools-plugin",
