@@ -1841,5 +1841,11 @@
     "description": "Automatically create CloudWatch alarms and dashboards for Lambda, SQS, Kinesis, DynamoDB, API Gateway and Step Functions",
     "githubUrl": "https://github.com/fourTheorem/slic-watch",
     "status": "active"
+  },
+  {
+    "name": "serverless-systems-manager",
+    "description": "Serverless Systems Manager plugin, it will help you managing resources for AWS Systems Manager",
+    "githubUrl": "https://github.com/jsandrea/serverless-systems-manager",
+    "status": "active"
   }
 ]
