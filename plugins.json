@@ -120,6 +120,11 @@
     "githubUrl": "https://github.com/henhal/serverless-plugin-layer-manager",
     "status": "active"
 }, {
+    "name": "serverless-selective-function-deploy",
+    "description": "A Serverless plugin to selectively deploy functions based on a toDeploy boolean property",
+    "githubUrl": "https://github.com/GKosheev/serverless-selective-function-deploy",
+    "status": "active"
+}, {
     "name": "serverless-plugin-lambda-edge",
     "description": "Plugin for Lambda@Edge, just associating your Lambda function with existing CloudFront distribution via AWS SDK",
     "githubUrl": "https://github.com/isudzumi/serverless-plugin-lambda-edge",
