@@ -90,6 +90,16 @@
     "githubUrl": "https://github.com/LocalStack/serverless-localstack",
     "status": "active"
 }, {
+    "name": "serverless-easy-env",
+    "description": "Simplifying stage and environment wise variables and values",
+    "githubUrl": "https://github.com/Rayyan98/serverless-easy-env",
+    "status": "active"
+}, {
+    "name": "serverless-async-storage",
+    "description": "Keep each Lambda execution in a separate context, including warm Lambdas",
+    "githubUrl": "https://github.com/Rayyan98/serverless-async-storage",
+    "status": "active"
+}, {
     "name": "serverless-commercetools-plugin",
     "description": "Serverless framework plugin that registers the deployed function as a commercetools API Extension or attaches it to a Subscription.",
     "githubUrl": "https://github.com/commercetools/serverless-commercetools-plugin",
