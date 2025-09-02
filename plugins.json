@@ -43,6 +43,11 @@
     "description": "Add Cloudwatch Log Metric Filter to Cloudwatch Logs",
     "githubUrl": "https://github.com/saqemlas/serverless-log-metric-filter",
     "status": "active"
+},{
+    "name": "serverless-plugin-log-class",
+    "description": "Set the Cloudwatch log class for function log groups",
+    "githubUrl": "https://github.com/qubops/serverless-plugin-log-class",
+    "status": "active"
 },
 {
     "name": "serverless-plugin-sumologic",
