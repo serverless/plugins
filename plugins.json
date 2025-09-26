@@ -1773,6 +1773,12 @@
     "status": "active"
   },
   {
+    "name": "serverless-tag-dynamodb-by-name",
+    "description": "Plugin to automatically assign a tag with the DynamoDB table name to all deployed tables.",
+    "githubUrl": "https://github.com/matteoeghirotta/serverless-tag-dynamodb-by-name",
+    "status": "active"
+  },
+  {
     "name": "serverless-tag-sns-topic",
     "description": "Serverless plugin to tag SNS Topic",
     "githubUrl": "https://github.com/inokappa/serverless-tag-sns-topic"
