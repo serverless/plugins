@@ -429,6 +429,11 @@
     "githubUrl": "https://github.com/jitsecurity/dynamo-data-transform",
     "status": "active"
 }, {
+    "name": "serverless-logs-insights",
+    "description": "Serverless Framework plugin to run AWS CloudWatch Logs Insights queries directly from the CLI.",
+    "githubUrl": "https://github.com/kauelima21/serverless-logs-insights",
+    "status": "active"
+}, {
     "name": "serverless-offline",
     "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project",
     "githubUrl": "https://github.com/dherault/serverless-offline",
