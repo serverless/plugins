@@ -50,6 +50,11 @@
     "githubUrl": "https://github.com/ACloudGuru/serverless-plugin-sumologic",
     "status": "active"
 }, {
+    "name": "serverless-bedrock-agentcore-plugin",
+    "description": "Deploy AWS Bedrock AgentCore resources (Runtime, Memory, Gateway, Browser, CodeInterpreter, WorkloadIdentity) with Serverless Framework",
+    "githubUrl": "https://github.com/LawProAI/serverless-bedrock-agentcore-plugin",
+    "status": "active"
+}, {
     "name": "serverless-plugin-apollo-graphql-federation",
     "description": "A Serverless Framework that uploads a graphql schema to the Apollo Platform managed federation service",
     "githubUrl": "https://github.com/Imran99/serverless-plugin-apollo-graphql-federation",
