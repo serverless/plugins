@@ -499,6 +499,10 @@
     "githubUrl": "https://github.com/nicka/serverless-plugin-diff",
     "status": "active"
 }, {
+    "name": "serverless-testing-plugin",
+    "description": "Serverless Framework plugin that exposes function metadata and environment loading for tests. Use with @sls-testing/core and @sls-testing/jest to test Lambda handlers with the same config they use in production.",
+    "githubUrl": "https://github.com/brognilucas/sls-testing"
+}, {
     "name": "serverless-run-function-plugin",
     "description": "Run serverless function locally",
     "githubUrl": "https://github.com/lithin/serverless-run-function-plugin",
