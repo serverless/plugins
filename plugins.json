@@ -29,6 +29,11 @@
     "githubUrl": "https://github.com/Inqnuam/serverless-aws-lambda",
     "status": "active"
 },{
+    "name": "serverless-fargate-service",
+    "description": "Deploy long-running container web services to AWS ECS Fargate behind a fully-tunable Application Load Balancer.",
+    "githubUrl": "https://github.com/AbtinZo/serverless-fargate-service",
+    "status": "active"
+},{
     "name": "serverless-app-client-credentials-to-ssm",
     "description": "Export Cognito app client credentials to SSM Parameter store",
     "githubUrl": "https://github.com/GaaraZhu/serverless-app-client-credentials-to-ssm",
