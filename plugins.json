@@ -830,6 +830,12 @@
     "githubUrl": "https://github.com/iopipe/serverless-plugin-iopipe",
     "status": "active"
 }, {
+    "name": "serverless-plugin-mcp-cognito-proxy",
+    "description": "Registration-free, stateless OAuth proxy (DCR + CIMD + PKCE) in front of an existing AWS Cognito pool, so MCP clients can authenticate without pre-registration. Works with API Gateway JWT authorizers and Bedrock AgentCore Gateway.",
+    "githubUrl": "https://github.com/dankelleher/serverless-plugin-mcp-cognito-proxy",
+    "status": "active"
+ },
+ {
     "name": "serverless-plugin-metric",
     "description": "Creates dynamically AWS metric-filter resources with custom patterns",
     "githubUrl": "https://github.com/alex20465/serverless-plugin-metric",
