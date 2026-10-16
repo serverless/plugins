@@ -519,6 +519,11 @@
     "githubUrl": "https://github.com/serverless-heaven/serverless-webpack",
     "status": "active"
 }, {
+    "name": "@alexneamtu/serverless-rspack",
+    "description": "Compiles Node.js functions with Rspack and packages them with serverless-webpack. Cold per-function builds about 3.8x faster than webpack in the included benchmark.",
+    "githubUrl": "https://github.com/alexneamtu/serverless-rspack",
+    "status": "active"
+}, {
     "name": "serverless-esbuild",
     "description": "Serverless plugin to bundle JavaScript and TypeScript lambdas with esbuild - an extremely fast bundler and minifier",
     "githubUrl": "https://github.com/floydspace/serverless-esbuild",
